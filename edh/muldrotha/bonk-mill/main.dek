@@ -4,6 +4,7 @@
 1 Arcane Signet (NCC) 360 #Ramp
 1 Azusa, Lost but Seeking (SLD) 1234 *F* #Ramp
 1 Barkchannel Pathway / Tidechannel Pathway (KHM) 290 #Land
+1 Bequeathal (EXO) 106 #Advantage
 1 Birds of Paradise (SLD) 1148 *F* #Ramp
 1 Bojuka Bog (C20) 259 #Land
 1 Brawn (UMA) 160 *F* #Win (Timmy)
@@ -24,7 +25,6 @@
 1 Disciple of Bolas (M13) 88 #Win (Mill)
 1 Entomb (UMA) 94 *F* #Tutor
 1 Eternal Witness (MMA) 144 #Tutor
-1 Evolving Wilds (DBL) 261 *F* #Land
 1 Fauna Shaman (UMA) 164 #Tutor
 1 Fiend Artisan (IKO) 350 *F* #Tutor
 9 Forest (J22) 112 #Land
@@ -34,6 +34,7 @@
 1 Golgari Grave-Troll (RAV) 167 #Win (Timmy)
 1 Golgari Thug (UMA) 98 #Tutor
 1 Greater Good (SLD) 1087 #Win (Mill)
+1 Grim Haruspex (C19) 118 #Advantage
 1 Haywire Mite (BRO) 199 #Removal
 3 Island (J22) 103 #Land
 1 Jace, Wielder of Mysteries (PWAR) 54p *F* #Win (Mill)
@@ -46,17 +47,16 @@
 1 Malakir Rebirth / Malakir Mire (ZNR) 111 #Land
 1 Massacre Girl (SLD) 1233 *F* #Removal
 1 Matzalantli, the Great Door / The Core (LCI) 256 #Win (Mill)
+1 Meren of Clan Nel Toth (CMM) 685 *F* #Protection
 1 Mikaeus, the Unhallowed (CMM) 173 #Protection
 1 Narset's Reversal (WAR) 62 #Protection
 1 Opulent Palace (KTK) 238 #Land
 1 Out of the Tombs (40K) 46 #Win (Mill)
 1 Overgrown Tomb (GRN) 253 #Land
-1 Overwhelming Stampede (CMA) 131 #Win (Timmy)
 1 Paradise Mantle (SLD) 1236 *F* #Ramp
 1 Pernicious Deed (A25) 212 *F* #Removal
 1 Perpetual Timepiece (KLD) 227 #Protection
 1 Pit of Offerings (LCI) 278 #Land
-1 Psychosis Crawler (BRR) 107 *F* #Face
 1 Pull from Tomorrow (AKH) 65 *F* #Advantage
 1 Rancor (A25) 186 *F* #Win (Timmy)
 1 Reliquary Tower (CMR) 488 #Land
@@ -74,10 +74,8 @@
 1 Strip Mine (ZNE) 28 *F* #Land
 1 Stubborn Denial (KTK) 56 #Protection
 1 Svogthos, the Restless Tomb (RAV) 283 #Land
-2 Swamp (J22) 106 #Land
-1 Syr Konrad, the Grim (ELD) 107 *F* #Face
+3 Swamp (J22) 106 #Land
 1 Takenuma, Abandoned Mire (NEO) 505 *F* #Land
-1 Terramorphic Expanse (C14) 315 #Land
 1 The Skullspore Nexus (LCI) 340 *F* #Protection
 1 Thran Dynamo (CMM) 658 *F* #Ramp
 1 Underground River (BRO) 300 #Land
@@ -86,3 +84,4 @@
 1 Wonder (CMA) 44 #Win (Timmy)
 1 World Shaper (NCC) 323 #Ramp
 1 Yavimaya Coast (DMU) 382 #Land
+1 Zagoth Triome (IKO) 313 *F* #Land
