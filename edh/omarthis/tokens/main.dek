@@ -22,14 +22,13 @@
 1 Drannith Ruins (MAT) 185
 1 Dross Scorpion (MRD) 164 #Combo
 1 Emergence Zone (WAR) 245
-1 Energy Chamber (5DN) 117 #+1
 1 Everflowing Chalice (WWK) 123 *F* #Ramp
 1 Forge of Heroes (C18) 58
 1 Forsaken Monument (CMM) 950 #Ramp
 1 Foundry Inspector (CMR) 310 #Ramp
 1 Gavel of the Righteous (NCC) 183 #Finisher
+1 Glistening Sphere (ONC) 20 #Proliferate
 1 Golden Argosy (DMU) 230 #Blink
-1 Gruesome Slaughter (BFZ) 9 *F* #Finisher
 1 Hall of Tagsin (BRO) 263 *F*
 1 Hangarback Walker (J22) 772 #Token Generator
 1 Helm of Possession (TMP) 291 #Protection
@@ -39,9 +38,9 @@
 1 Jhoira's Familiar (2XM) 265 *F* #Ramp
 1 Karn, Living Legacy (DMU) 1 *F* #Ramp
 1 Karn's Bastion (RVR) 464 *F* #Proliferate
-1 Kozilek, the Great Distortion (CMM) 452 *E* #Advantage
-1 Liberator, Urza's Battlethopter (BRO) 364 *F* #Ramp
+1 Liberator, Urza's Battlethopter (BRO) 364 *F* #+1
 1 Lithoform Engine (ZNR) 375 *F* #Proliferate
+1 Metallic Mimic (LCC) 308 #Proliferate
 1 Mikokoro, Center of the Sea (DMC) 217
 1 Mind Stone (C21) 251 #Ramp
 1 Mind's Eye (BBD) 240 *F* #Advantage
@@ -53,9 +52,7 @@
 1 Mystifying Maze (M11) 226 *F* #Protection
 1 Nesting Grounds (C20) 71
 1 Ominous Cemetery (WHO) 189 *F*
-1 Ornithopter of Paradise (MH2) 430 #Ramp
 1 Patchwork Automaton (NEO) 254 #+1
-1 Power Conduit (NCC) 376 #+1
 1 Power Depot (MH2) 251
 1 Reliquary Tower (CMR) 488
 1 Rings of Brighthearth (LTC) 352 *F* #Proliferate
@@ -63,6 +60,7 @@
 1 Ruins of Oran-Rief (CMM) 1023
 1 Scarecrone (EVE) 172 #Tutor
 1 Scavenger Grounds (C20) 306
+1 Scrap Trawler (C21) 260 #Protection
 1 Scrapyard Recombiner (MH1) 227 #Tutor
 1 Scroll Rack (CMR) 699 #Advantage
 1 Shell of the Last Kappa (CHK) 269 *F* #Counter
@@ -71,6 +69,7 @@
 1 Skullclamp (40K) 248 #Advantage
 1 Sol Ring (CMM) 410 *F* #Ramp
 1 Spatial Contortion (CMM) 809 #Removal
+1 Springleaf Drum (BRR) 118 *F* #Ramp
 1 Staff of Compleation (ONE) 358 *F* #Proliferate
 1 Steel Overseer (M20) 239 #Proliferate
 1 Sundial of the Infinite (M12) 218 *F* #Counter
@@ -81,8 +80,8 @@
 1 Thespian's Stage (WHO) 323
 1 Thopter Squadron (EXO) 140 #Token Generator
 1 Thousand-Year Elixir (C21) 271 #Combo
-1 Thran Dynamo (C19) 225 #Ramp
 1 Threefold Thunderhulk (LCI) 265 #Token Generator
+1 Throne of Geth (SOM) 211 #Proliferate
 1 Tomb of the Spirit Dragon (CMM) 1048
 1 Towashi Guide-Bot (NEO) 262 *F* #Advantage
 1 Trading Post (M13) 220 #Protection
@@ -94,6 +93,7 @@
 1 Urza's Mine (CMM) 1051
 1 Urza's Power Plant (2XM) 330
 1 Urza's Tower (CMM) 1053
+1 Wandering Archaic / Explore the Vastlands (STX) 6 #Counter
 1 War Room (CLB) 929 #Advantage
 1 Witch's Clinic (C21) 407
 1 Wondrous Crucible (BRC) 20 #Protection
