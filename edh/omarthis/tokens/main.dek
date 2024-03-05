@@ -3,68 +3,68 @@
 1 Animation Module (KLD) 194 *F* #Token Generator
 1 Arcbound Crusher (DST) 95 *F* #+1
 1 Arcbound Ravager (SLD) 56 *F* #+1
-1 Arch of Orazca (LCC) 319
+1 Arch of Orazca (LCC) 319 #Land
 1 Ashnod's Altar (CHR) 92 #Ramp
 1 Blade of the Bloodchief (LCC) 300 #+1
-1 Blast Zone (SLU) 504 *F*
-1 Blasted Landscape (CM2) 238
+1 Blast Zone (SLU) 504 *F* #Land
+1 Blasted Landscape (CM2) 238 #Land
 1 Bonders' Enclave (IKO) 245 #Advantage
-1 Buried Ruin (C18) 239
+1 Buried Ruin (C18) 239 #Land
 1 Calamity of the Titans (CMM) 745 #Removal
 1 Cauldron of Souls (C16) 246 #Blink
 1 Chimil, the Inner Sun (LCI) 249 #Counter
-1 Command Beacon (CMR) 349 *F*
+1 Command Beacon (CMR) 349 *F* #Land
 1 Contagion Clasp (SOM) 144 #Proliferate
-1 Crawling Barrens (ZNR) 378
+1 Crawling Barrens (ZNR) 378 #Land
 1 Cryptic Trilobite (C20) 21 #+1
 1 Crystalline Crawler (C16) 54 #Ramp
 1 Dragon Throne of Tarkir (KTK) 219 *F* #Finisher
-1 Drannith Ruins (MAT) 185
+1 Drannith Ruins (MAT) 185 #Land
 1 Dross Scorpion (MRD) 164 #Combo
-1 Emergence Zone (WAR) 245
+1 Emergence Zone (WAR) 245 #Land
 1 Erratic Portal (EXO) 132 #Removal
 1 Everflowing Chalice (WWK) 123 *F* #Ramp
-1 Forge of Heroes (C18) 58
+1 Forge of Heroes (C18) 58 #Land
 1 Forsaken Monument (CMM) 950 #Ramp
 1 Foundry Inspector (CMR) 310 #Ramp
 1 Gavel of the Righteous (NCC) 183 #Finisher
 1 Glistening Sphere (ONC) 20 #Proliferate
 1 Golden Argosy (DMU) 230 #Blink
-1 Hall of Tagsin (BRO) 263 *F*
+1 Hall of Tagsin (BRO) 263 *F* #Land
 1 Hangarback Walker (J22) 772 #Token Generator
 1 Helm of Possession (TMP) 291 #Protection
 1 Helm of the Host (PDOM) 217p *F* #Finisher
-1 High Market (V12) 9 *F*
+1 High Market (V12) 9 *F* #Land
 1 Icon of Ancestry (M20) 229 *F* #Finisher
-1 Inventors' Fair (KLD) 247
+1 Inventors' Fair (KLD) 247 #Land
 1 Karn, Living Legacy (DMU) 1 *F* #Ramp
 1 Karn's Bastion (RVR) 464 *F* #Proliferate
 1 Liberator, Urza's Battlethopter (BRO) 364 *F* #+1
 1 Lithoform Engine (ZNR) 375 *F* #Proliferate
 1 Metallic Mimic (LCC) 308 #Proliferate
-1 Mikokoro, Center of the Sea (DMC) 217
+1 Mikokoro, Center of the Sea (DMC) 217 #Land
 1 Mind Stone (C21) 251 #Ramp
 1 Mind's Eye (BBD) 240 *F* #Advantage
-1 Miren, the Moaning Well (SOK) 163
-1 Mirrorpool (OGW) 174
+1 Miren, the Moaning Well (SOK) 163 #Land
+1 Mirrorpool (OGW) 174 #Land
 1 Moonsilver Key (MID) 255 #Tutor
 1 Myr Retriever (CM2) 203 #Tutor
 1 Mystifying Maze (M11) 226 *F* #Protection
-1 Nesting Grounds (C20) 71
-1 Ominous Cemetery (WHO) 189 *F*
+1 Nesting Grounds (C20) 71 #Land
+1 Ominous Cemetery (WHO) 189 *F* #Land
 1 Paradise Mantle (5DN) 142 #Ramp
 1 Patchwork Automaton (NEO) 254 #+1
-1 Power Depot (MH2) 251
-1 Reliquary Tower (CMR) 488
+1 Power Depot (MH2) 251 #Land
+1 Reliquary Tower (CMR) 488 #Land
 1 Rings of Brighthearth (LTC) 352 *F* #Proliferate
-1 Rogue's Passage (C15) 302
-1 Ruins of Oran-Rief (CMM) 1023
+1 Rogue's Passage (C15) 302 #Land
+1 Ruins of Oran-Rief (CMM) 1023 #Land
 1 Scarecrone (EVE) 172 #Tutor
-1 Scavenger Grounds (C20) 306
+1 Scavenger Grounds (C20) 306 #Land
 1 Scrap Trawler (C21) 260 #Protection
 1 Scrapyard Recombiner (MH1) 227 #Tutor
 1 Scroll Rack (CMR) 699 #Advantage
-1 Shrine of the Forsaken Gods (MKC) 292
+1 Shrine of the Forsaken Gods (MKC) 292 #Land
 1 Skittering Cicada (CMM) 717 #Finisher
 1 Skullclamp (40K) 248 #Advantage
 1 Sol Ring (CMM) 410 *F* #Ramp
@@ -72,28 +72,28 @@
 1 Staff of Compleation (ONE) 358 *F* #Proliferate
 1 Steel Overseer (M20) 239 #Proliferate
 1 Sundial of the Infinite (M12) 218 *F* #Counter
-1 Temple of the False God (ONC) 172
+1 Temple of the False God (ONC) 172 #Land
 1 The Immortal Sun (CMM) 393 *F* #Ramp
-1 The Mycosynth Gardens (ONE) 402
-1 Thespian's Stage (WHO) 323
+1 The Mycosynth Gardens (ONE) 402 #Land
+1 Thespian's Stage (WHO) 323 #Land
 1 Thopter Squadron (EXO) 140 #Token Generator
 1 Thousand-Year Elixir (C21) 271 #Combo
 1 Thran Dynamo (C19) 225 #Ramp
 1 Threefold Thunderhulk (LCI) 265 #Token Generator
 1 Throne of Geth (SOM) 211 #Proliferate
-1 Tomb of the Spirit Dragon (CMM) 1048
+1 Tomb of the Spirit Dragon (CMM) 1048 #Land
 1 Towashi Guide-Bot (NEO) 262 *F* #Advantage
 1 Trading Post (M13) 220 #Protection
 1 Triskelavus (CM2) 226 #Token Generator
-1 Tyrite Sanctum (KHM) 372 *F*
+1 Tyrite Sanctum (KHM) 372 *F* #Land
 1 Ugin, the Ineffable (SLD) 1243 *F* #Ramp
 1 Ugin's Mastery (CMM) 751 *F* #Blink
-1 Urza's Mine (CMM) 1051
-1 Urza's Power Plant (2XM) 330
-1 Urza's Tower (CMM) 1053
+1 Urza's Mine (CMM) 1051 #Land
+1 Urza's Power Plant (2XM) 330 #Land
+1 Urza's Tower (CMM) 1053 #Land
 1 Walking Atlas (WWK) 131 #Ramp
 1 Walking Ballista (SLD) 1265 *F* #+1
 1 Wandering Archaic / Explore the Vastlands (STX) 6 #Counter
 1 War Room (CLB) 929 #Advantage
-1 Witch's Clinic (C21) 407
+1 Witch's Clinic (C21) 407 #Land
 1 Wondrous Crucible (BRC) 20 #Protection
