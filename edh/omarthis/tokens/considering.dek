@@ -16,11 +16,12 @@
 1 Energy Chamber (5DN) 117 #+1
 1 Ent-Draught Basin (LTR) 238 #Deep
 1 Environmental Sciences (STX) 1 #Ramp
-1 Erratic Portal (PLST) EXO-132 #Removal
 1 Expedition Map (2XM) 255 #Ramp
 1 Field of the Dead (PM20) 247p
 1 Graaz, Unstoppable Juggernaut (ONE) 334 *F* #Finisher
 1 Gruesome Slaughter (BFZ) 9 *F* #Finisher
+1 Homeward Path (SLD) 1467★ *F*
+1 Instruments of War (J22) 50 #Finisher
 1 Introduction to Annihilation (STX) 3 #Removal
 1 Iron Bully (2XM) 262 #+1
 1 Isochron Scepter (PLST) MRD-188 #Advantage
@@ -33,7 +34,7 @@
 1 Mindless Automaton (MOC) 365 #+1
 1 Mirror Box (NEO) 403 *F* #Finisher
 1 Monoskelion (MH2) 229 *F* #+1
-1 Myr Retriever (CM2) 203 #Protection
+1 Myr Battlesphere (C21) 253 #Token Generator
 1 Mystic Forge (M20) 233 *F* #Advantage
 1 Not of This World (PLST) ROE-8 *F* #Counter
 1 Null Brooch (EXO) 136 #Counter
@@ -46,10 +47,10 @@
 1 Ring of Immortals (LEG) 293 #Counter
 1 Scavenged Brawler (BRC) 64 #Finisher
 1 Scour from Existence (BFZ) 13 #Removal
-1 Scrapyard Recombiner (MH1) 227 #Tutor
 1 Scroll of Fate (MKC) 235 #Blink
 1 Shell of the Last Kappa (CHK) 269 *F* #Counter
 1 Solemn Simulacrum (M21) 239 *F* #Ramp
+1 Spatial Contortion (CMM) 809 #Removal
 1 Spine of Ish Sah (C13) 260 #Removal
 1 Stonecoil Serpent (ELD) 235 #Deep
 1 Stoneforge Masterwork (OGW) 166 #Finisher
@@ -59,13 +60,16 @@
 1 Sword of Hours (AFC) 61 #+1
 1 Sword of the Animist (LTC) 355 #Ramp
 1 Sword of Truth and Justice (H1R) 32 *F* #Proliferate
+1 Tarrian's Soulcleaver (LCI) 389 *F* #+1
 1 Tetravus (4ED) 350 #Token Generator
 1 The Ozolith (PIKO) 237s *F* #+1
 1 Thought-Knot Seer (SLD) 1151 #Removal
 1 Titan's Presence (J22) 749 #Removal
+1 Transmogrifying Wand (M19) 247 *F* #Removal
 1 Triskelion (DMR) 452 *F* #+1
 1 Ugin, the Spirit Dragon (M21) 1 #Removal
 1 Ugin's Conjurant (WAR) 3 #Deep
+1 Vanquisher's Banner (XLN) 251 #Finisher
 1 Void Mirror (MH2) 473 #Counter
 1 Worn Powerstone (LTC) 293 #Ramp
 1 Zoetic Cavern (MKC) 311
