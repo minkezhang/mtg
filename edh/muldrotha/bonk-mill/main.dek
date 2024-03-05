@@ -1,5 +1,5 @@
 1 Aether Spellbomb (MMA) 196 #Removal
-1 Altar of Dementia (MH1) 218 #Win (Mill)
+1 Altar of Dementia (MH1) 218 #Mill
 1 Animate Dead (EMA) 78 #Recursion
 1 Arcane Signet (NCC) 360 #Ramp
 1 Azusa, Lost but Seeking (SLD) 1234 *F* #Ramp
@@ -7,84 +7,84 @@
 1 Bequeathal (EXO) 106 #Advantage
 1 Birds of Paradise (SLD) 1148 *F* #Ramp
 1 Bojuka Bog (C20) 259 #Land
-1 Brawn (UMA) 160 *F* #Win (Timmy)
+1 Brawn (UMA) 160 *F* #Timmy
 1 Breeding Pool (RVR) 275 #Land
 1 Caustic Caterpillar (J22) 86 #Removal
 1 Chromatic Lantern (40K) 232★ *F* #Ramp
 1 Clearwater Pathway / Murkwater Pathway (ZNR) 286 #Land
 1 Command Tower (LCC) 325 #Land
-1 Consuming Aberration (GTC) 152 *F* #Win (Timmy)
+1 Consuming Aberration (GTC) 152 *F* #Timmy
 1 Counterspell (CMR) 632 *F* #Counter
-1 Crashing Drawbridge (ELD) 217 *F* #Win (Timmy)
-1 Cruel Somnophage / Can't Wake Up (WOE) 222 *F* #Win (Timmy)
+1 Crashing Drawbridge (ELD) 217 *F* #Timmy
+1 Cruel Somnophage / Can't Wake Up (WOE) 222 *F* #Timmy
 1 Dakmor Salvage (MMA) 222 *F* #Land
 1 Dark Ritual (3ED) 99 #Ramp
 1 Darkbore Pathway / Slitherbore Pathway (KHM) 292 #Land
-1 Death's Presence (RTR) 121 #Win (Mill)
+1 Death's Presence (RTR) 121 #Mill
 1 Devoted Druid (2X2) 143 *F* #Ramp
-1 Disciple of Bolas (M13) 88 #Win (Mill)
+1 Disciple of Bolas (M13) 88 #Mill
 1 Entomb (UMA) 94 *F* #Tutor
 1 Eternal Witness (MMA) 144 #Tutor
 1 Fauna Shaman (UMA) 164 #Tutor
 1 Fiend Artisan (IKO) 350 *F* #Tutor
-8 Forest (J22) 112 #Land
+9 Forest (J22) 112 #Land
 1 Glasspool Mimic / Glasspool Shore (ZNR) 328 *F* #Land
 1 Glen Elendra Archmage (UMA) 58 #Counter
-1 Golgari Grave-Troll (RAV) 167 #Win (Timmy)
+1 Golgari Grave-Troll (RAV) 167 #Timmy
 1 Golgari Thug (UMA) 98 #Tutor
-1 Greater Good (SLD) 1087 #Win (Mill)
+1 Greater Good (SLD) 1087 #Mill
 1 Grim Haruspex (C19) 118 #Advantage
 1 Haywire Mite (BRO) 199 #Removal
 1 Hedge Maze (MKM) 326 *F* #Land
-3 Island (J22) 103 #Land
-1 Jace, Wielder of Mysteries (PWAR) 54p *F* #Win (Mill)
-1 Jarad, Golgari Lich Lord (RTR) 174 #Win (Timmy)
+2 Island (J22) 103 #Land
+1 Jace, Wielder of Mysteries (PWAR) 54p *F* #Mill
+1 Jarad, Golgari Lich Lord (RTR) 174 #Timmy
 1 Kaya's Ghostform (WAR) 94 *F* #Recursion
-1 Laboratory Maniac (UMA) 61 #Win (Mill)
+1 Laboratory Maniac (UMA) 61 #Mill
 1 Life from the Loam (DDJ) 69 #Ramp
 1 Llanowar Wastes (BRO) 299 #Land
 1 Lotus Petal (TMP) 294 #Ramp
 1 Malakir Rebirth / Malakir Mire (ZNR) 111 #Recursion
 1 Massacre Girl (SLD) 1233 *F* #Removal
-1 Matzalantli, the Great Door / The Core (LCI) 256 #Win (Mill)
+1 Matzalantli, the Great Door / The Core (LCI) 256 #Advantage
 1 Meren of Clan Nel Toth (CMM) 685 *F* #Recursion
 1 Mikaeus, the Unhallowed (CMM) 173 #Recursion
 1 Mortuary Mire (BFZ) 240 *F* #Land
 1 Narset's Reversal (WAR) 62 #Counter
 1 Opulent Palace (KTK) 238 #Land
-1 Out of the Tombs (40K) 46 #Win (Mill)
+1 Out of the Tombs (40K) 46 #Mill
 1 Overgrown Tomb (GRN) 253 #Land
 1 Paradise Mantle (SLD) 1236 *F* #Ramp
 1 Pernicious Deed (A25) 212 *F* #Removal
-1 Perpetual Timepiece (KLD) 227 #Protection
+1 Perpetual Timepiece (KLD) 227 #Advantage
 1 Pit of Offerings (LCI) 278 #Land
 1 Pull from Tomorrow (AKH) 65 *F* #Advantage
-1 Rancor (A25) 186 *F* #Win (Timmy)
+1 Rancor (A25) 186 *F* #Timmy
 1 Reliquary Tower (CMR) 488 #Land
 1 Satyr Wayfinder (M15) 198 #Ramp
 1 Scavenging Ooze (MM3) 134 *F* #Removal
 1 Seal of Removal (NEM) 42 #Removal
 1 Selvala, Heart of the Wilds (CMM) 571 *E* #Ramp
-1 Shadowheart, Dark Justiciar (CLB) 146 *F* #Win (Mill)
+1 Shadowheart, Dark Justiciar (CLB) 146 *F* #Mill
 1 Siren Stormtamer (CMR) 96 *F* #Counter
 1 Skull Prophet (IKO) 206 #Ramp
 1 Skullclamp (40K) 248 #Advantage
 1 Sol Ring (C17) 223 #Ramp
-1 Souls of the Lost (LCI) 121 *F* #Win (Timmy)
+1 Souls of the Lost (LCI) 121 *F* #Timmy
 1 Spore Frog (MH1) 180 #Removal
 1 Strip Mine (ZNE) 28 *F* #Land
 1 Stubborn Denial (KTK) 56 #Counter
 1 Svogthos, the Restless Tomb (RAV) 283 #Land
 1 Takenuma, Abandoned Mire (NEO) 505 *F* #Land
 1 The Everflowing Well / The Myriad Pools (LCI) 56 *F* #Advantage
-1 The Skullspore Nexus (LCI) 340 *F* #Win (Timmy)
+1 The Skullspore Nexus (LCI) 340 *F* #Timmy
 1 Thran Dynamo (CMM) 658 *F* #Ramp
 1 Undead Butler (VOW) 133 #Recursion
 1 Undercity Sewers (MKM) 332 *F* #Land
 1 Underground Mortuary (MKM) 333 *F* #Land
 1 Underground River (BRO) 300 #Land
 1 Watery Grave (RVR) 291 #Land
-1 Wonder (CMA) 44 #Win (Timmy)
+1 Wonder (CMA) 44 #Timmy
 1 World Shaper (NCC) 323 #Ramp
 1 Yavimaya Coast (DMU) 382 #Land
 1 Zagoth Triome (IKO) 313 *F* #Land
