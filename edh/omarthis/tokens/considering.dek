@@ -1,13 +1,21 @@
 1 Abstruse Archaic (CMM) 712 #Proliferate
 1 Agatha's Soul Cauldron (PWOE) 242p #Combo
+1 Arcbound Reclaimer (DST) 101 #Tutor
 1 Astral Cornucopia (BRR) 5 *F* #Ramp
 1 Blackblade Reforged (CMR) 457 #Finisher
+1 Blasting Station (5DN) 107 #Token Generator
 1 Blinkmoth Urn (C18) 197 #Ramp
+1 Bottle Golems (MH2) 222 #Protection
 1 Branch of Vitu-Ghazi (MKM) 258 #Land
+1 Canoptek Spyder (40K) 151 #Advantage
 1 Chalice of the Void (A25) 222 #Counter
 1 Chronomaton (M13) 201 *F* #+1
+1 Circuit Mender (NEO) 242 #Advantage
 1 Clock of Omens (M13) 202 #Combo
+1 Clockwork Fox (CLB) 308 *F* #Advantage
 1 Clockwork Vorrac (MRD) 156 *F* #+1
+1 Coat of Arms (M10) 207 *F* #Finisher
+1 Conjurer's Closet (PW21) 6 *F* #Blink
 1 Contagion Engine (SOM) 145 #Proliferate
 1 Crashing Drawbridge (CMM) 944 #Finisher
 1 Culling Dais (BBD) 233 #Advantage
@@ -17,40 +25,60 @@
 1 Ent-Draught Basin (LTR) 238 #+1
 1 Environmental Sciences (STX) 1 #Ramp
 1 Expedition Map (2XM) 255 #Ramp
-1 Field of the Dead (PM20) 247p #Land
+1 Field of the Dead (PM20) 247p #Token Generator
+1 Genesis Chamber (DST) 122 #Token Generator
+1 Golem Foundry (SOM) 160 #Token Generator
 1 Graaz, Unstoppable Juggernaut (ONE) 334 *F* #Finisher
 1 Gruesome Slaughter (BFZ) 9 *F* #Finisher
-1 Homeward Path (SLD) 1467★ *F* #Land
+1 Heap Doll (UMA) 228 #Removal
+1 Hexavus (BRC) 14 #Token Generator
+1 Homeward Path (SLD) 1467★ *F* #Protection
 1 Instruments of War (J22) 50 #Finisher
 1 Introduction to Annihilation (STX) 3 #Removal
 1 Iron Bully (2XM) 262 #+1
 1 Isochron Scepter (PLST) MRD-188 #Advantage
 1 It That Betrays (CMM) 805 #Finisher
+1 Jhoira's Familiar (2XM) 265 *F* #Ramp
 1 Kozilek, the Great Distortion (CMM) 452 *E* #Advantage
 1 Krark-Clan Ironworks (5DN) 134 #Ramp
 1 Lodestone Golem (BRR) 92 *F* #Protection
+1 Luxior, Giada's Gift (SNC) 439 *F* #Finisher
 1 Matter Reshaper (CMM) 806 #Advantage
 1 Mimic Vat (LCC) 115 #Finisher
 1 Mindless Automaton (MOC) 365 #+1
 1 Mirror Box (NEO) 403 *F* #Finisher
 1 Monoskelion (MH2) 229 *F* #+1
 1 Myr Battlesphere (C21) 253 #Token Generator
+1 Myr Matrix (DST) 132 #Token Generator
+1 Myr Mindservant (MRD) 213 #Advantage
+1 Myr Moonvessel (DST) 133 #Ramp
+1 Myr Propagator (SOM) 182 #Token Generator
+1 Myr Turbine (MBS) 117 #Token Generator
 1 Mystic Forge (M20) 233 *F* #Advantage
 1 Not of This World (PLST) ROE-8 *F* #Counter
+1 Nuisance Engine (MRD) 221 *F* #Token Generator
 1 Null Brooch (EXO) 136 #Counter
 1 Nullstone Gargoyle (RAV) 266 #Counter
 1 Ornithopter of Paradise (MH2) 430 #Ramp
+1 Papercraft Decoy (NEO) 253 *F* #Advantage
 1 Pentavus (CM2) 209 #Token Generator
 1 Portal to Phyrexia (PBRO) 240p #Removal
 1 Power Conduit (NCC) 376 #+1
+1 Prototype Portal (SOM) 195 #Token Generator
 1 Puppet Strings (TMP) 304 #Combo
+1 Retrofitter Foundry (C18) 57 #Token Generator
 1 Ring of Immortals (LEG) 293 #Counter
 1 Scavenged Brawler (BRC) 64 #Finisher
 1 Scour from Existence (BFZ) 13 #Removal
 1 Scroll of Fate (MKC) 235 #Blink
 1 Shell of the Last Kappa (CHK) 269 *F* #Counter
+1 Shield Sphere (ALL) 129 #Protection
+1 Signal Pest (MBS) 131 #Finisher
+1 Skyclave Relic (ZNR) 377 #Ramp
+1 Snake Basket (VIS) 155 #Token Generator
 1 Solemn Simulacrum (M21) 239 *F* #Ramp
 1 Spatial Contortion (CMM) 809 #Removal
+1 Spectrum Sentinel (BRO) 244 #+1
 1 Spine of Ish Sah (C13) 260 #Removal
 1 Stonecoil Serpent (ELD) 235 #+1
 1 Stoneforge Masterwork (OGW) 166 #Finisher
@@ -63,6 +91,7 @@
 1 Tarrian's Soulcleaver (LCI) 389 *F* #+1
 1 Tetravus (4ED) 350 #Token Generator
 1 The Ozolith (PIKO) 237s *F* #+1
+1 Thought Vessel (CMM) 414 *F* #Ramp
 1 Thought-Knot Seer (SLD) 1151 #Removal
 1 Titan's Presence (J22) 749 #Removal
 1 Transmogrifying Wand (M19) 247 *F* #Removal
@@ -71,5 +100,8 @@
 1 Ugin's Conjurant (WAR) 3 #+1
 1 Vanquisher's Banner (XLN) 251 #Finisher
 1 Void Mirror (MH2) 473 #Counter
+1 Voltaic Key (USG) 314 #Combo
+1 Voyager Staff (RVR) 271 *F* #Blink
+1 Worldslayer (MRD) 276 *F* #Removal
 1 Worn Powerstone (LTC) 293 #Ramp
 1 Zoetic Cavern (MKC) 311 #Land
