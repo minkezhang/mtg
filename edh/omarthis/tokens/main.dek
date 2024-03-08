@@ -7,7 +7,6 @@
 1 Ashnod's Altar (CHR) 92 #Ramp
 1 Blade of the Bloodchief (LCC) 300 #+1
 1 Blast Zone (SLU) 504 *F* #Removal
-1 Blasted Landscape (CM2) 238 #Advantage
 1 Bonders' Enclave (IKO) 245 #Advantage
 1 Buried Ruin (C18) 239 #Tutor
 1 Calamity of the Titans (CMM) 745 #Removal
@@ -15,13 +14,8 @@
 1 Chimil, the Inner Sun (LCI) 249 #Counter
 1 Command Beacon (CMR) 349 *F* #Land
 1 Contagion Clasp (SOM) 144 #Proliferate
-1 Crawling Barrens (ZNR) 378 #+1
-1 Cryptic Trilobite (C20) 21 #+1
-1 Crystalline Crawler (C16) 54 #Ramp
-1 Dragon Throne of Tarkir (KTK) 219 *F* #Finisher
 1 Drannith Ruins (MAT) 185 #+1
 1 Dross Scorpion (MRD) 164 #Combo
-1 Emergence Zone (WAR) 245 #Land
 1 Erratic Portal (EXO) 132 #Removal
 1 Everflowing Chalice (WWK) 123 *F* #Ramp
 1 Forge of Heroes (C18) 58 #+1
@@ -34,11 +28,11 @@
 1 Hangarback Walker (J22) 772 #Token Generator
 1 Helm of Possession (TMP) 291 #Protection
 1 Helm of the Host (PDOM) 217p *F* #Finisher
-1 High Market (V12) 9 *F* #Protection
 1 Icon of Ancestry (M20) 229 *F* #Finisher
 1 Inventors' Fair (KLD) 247 #Tutor
 1 Karn, Living Legacy (DMU) 1 *F* #Ramp
 1 Karn's Bastion (RVR) 464 *F* #Proliferate
+1 Kozilek, the Great Distortion (CMM) 452 *E* #Counter
 1 Liberator, Urza's Battlethopter (BRO) 364 *F* #+1
 1 Lithoform Engine (ZNR) 375 *F* #Proliferate
 1 Metallic Mimic (LCC) 308 #Proliferate
@@ -46,47 +40,45 @@
 1 Mind Stone (C21) 251 #Ramp
 1 Mind's Eye (BBD) 240 *F* #Advantage
 1 Miren, the Moaning Well (SOK) 163 #Protection
-1 Mirrorpool (OGW) 174 #Land
-1 Moonsilver Key (MID) 255 #Tutor
+1 Mirrorpool (OGW) 174 #Token Generator
+1 Myr Battlesphere (C21) 253 #Token Generator
+1 Myr Propagator (SOM) 182 #Token Generator
 1 Myr Retriever (CM2) 203 #Tutor
 1 Mystifying Maze (M11) 226 *F* #Protection
 1 Nesting Grounds (C20) 71 #+1
 1 Ominous Cemetery (WHO) 189 *F* #Removal
 1 Paradise Mantle (5DN) 142 #Ramp
 1 Patchwork Automaton (NEO) 254 #+1
-1 Power Depot (MH2) 251 #+1
-1 Reliquary Tower (CMR) 488 #Land
 1 Rings of Brighthearth (LTC) 352 *F* #Proliferate
 1 Rogue's Passage (C15) 302 #Land
 1 Ruins of Oran-Rief (CMM) 1023 #+1
 1 Scarecrone (EVE) 172 #Tutor
 1 Scavenger Grounds (C20) 306 #Removal
-1 Scrap Trawler (C21) 260 #Protection
+1 Scrap Trawler (C21) 260 #Tutor
 1 Scrapyard Recombiner (MH1) 227 #Tutor
+1 Scroll of Fate (MKC) 235 #Blink
 1 Scroll Rack (CMR) 699 #Advantage
-1 Shrine of the Forsaken Gods (MKC) 292 #Land
+1 Shield Sphere (ALL) 129 #Protection
 1 Skittering Cicada (CMM) 717 #Finisher
 1 Skullclamp (40K) 248 #Advantage
 1 Sol Ring (CMM) 410 *F* #Ramp
+1 Spectrum Sentinel (BRO) 244 #Protection
 1 Springleaf Drum (BRR) 118 *F* #Ramp
 1 Staff of Compleation (ONE) 358 *F* #Proliferate
 1 Steel Overseer (M20) 239 #Proliferate
 1 Sundial of the Infinite (M12) 218 *F* #Counter
-1 Temple of the False God (ONC) 172 #Land
+1 Sword of Hearth and Home (LTC) 354 *F* #Blink
 1 The Immortal Sun (CMM) 393 *F* #Ramp
 1 The Mycosynth Gardens (ONE) 402 #Land
-1 Thespian's Stage (WHO) 323 #Land
-1 Thopter Squadron (EXO) 140 #Token Generator
+1 Thought Vessel (CMM) 414 *F* #Ramp
 1 Thousand-Year Elixir (C21) 271 #Combo
-1 Thran Dynamo (C19) 225 #Ramp
 1 Threefold Thunderhulk (LCI) 265 #Token Generator
 1 Throne of Geth (SOM) 211 #Proliferate
 1 Tomb of the Spirit Dragon (CMM) 1048 #Protection
 1 Towashi Guide-Bot (NEO) 262 *F* #Advantage
-1 Trading Post (M13) 220 #Protection
+1 Transmogrifying Wand (M19) 247 *F* #Removal
 1 Triskelavus (CM2) 226 #Token Generator
 1 Tyrite Sanctum (KHM) 372 *F* #+1
-1 Ugin, the Ineffable (SLD) 1243 *F* #Ramp
 1 Ugin's Mastery (CMM) 751 *F* #Blink
 1 Urza's Mine (CMM) 1051 #Land
 1 Urza's Power Plant (2XM) 330 #Land
@@ -95,5 +87,6 @@
 1 Walking Ballista (SLD) 1265 *F* #+1
 1 Wandering Archaic / Explore the Vastlands (STX) 6 #Counter
 1 War Room (CLB) 929 #Advantage
+8 Wastes (CMM) 1055 #Land
 1 Witch's Clinic (C21) 407 #Protection
 1 Wondrous Crucible (BRC) 20 #Protection
