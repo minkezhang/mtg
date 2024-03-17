@@ -45,17 +45,17 @@
 1 Llanowar Wastes (BRO) 299 #Land
 1 Lotus Petal (TMP) 294 #Ramp
 1 Malakir Rebirth / Malakir Mire (ZNR) 111 #Recursion
-1 Massacre Girl (SLD) 1233 *F* #Removal
+1 Massacre Girl (SLD) 1233 *F* #Wipe
 1 Matzalantli, the Great Door / The Core (LCI) 256 #Advantage
 1 Meren of Clan Nel Toth (CMM) 685 *F* #Recursion
 1 Mikaeus, the Unhallowed (CMM) 173 #Recursion
-1 Mortuary Mire (BFZ) 240 *F* #Land
+1 Mortuary Mire (BFZ) 240 *F* #Tutor
 1 Narset's Reversal (WAR) 62 #Counter
 1 Opulent Palace (KTK) 238 #Land
 1 Out of the Tombs (40K) 46 #Mill
 1 Overgrown Tomb (GRN) 253 #Land
 1 Paradise Mantle (SLD) 1236 *F* #Ramp
-1 Pernicious Deed (A25) 212 *F* #Removal
+1 Pernicious Deed (A25) 212 *F* #Wipe
 1 Perpetual Timepiece (KLD) 227 #Advantage
 1 Pit of Offerings (LCI) 278 #Land
 1 Pull from Tomorrow (AKH) 65 *F* #Advantage
@@ -65,7 +65,6 @@
 1 Scavenging Ooze (MM3) 134 *F* #Removal
 1 Seal of Removal (NEM) 42 #Removal
 1 Selvala, Heart of the Wilds (CMM) 571 *E* #Ramp
-1 Shadowheart, Dark Justiciar (CLB) 146 *F* #Mill
 1 Siren Stormtamer (CMR) 96 *F* #Counter
 1 Skull Prophet (IKO) 206 #Ramp
 1 Skullclamp (40K) 248 #Advantage
@@ -75,16 +74,17 @@
 1 Strip Mine (ZNE) 28 *F* #Land
 1 Stubborn Denial (KTK) 56 #Counter
 1 Svogthos, the Restless Tomb (RAV) 283 #Land
-1 Takenuma, Abandoned Mire (NEO) 505 *F* #Land
+1 Takenuma, Abandoned Mire (NEO) 505 *F* #Tutor
 1 The Everflowing Well / The Myriad Pools (LCI) 56 *F* #Advantage
 1 The Skullspore Nexus (LCI) 340 *F* #Timmy
 1 Thran Dynamo (CMM) 658 *F* #Ramp
-1 Undead Butler (VOW) 133 #Recursion
+1 Timeless Witness (MH2) 179 *F* #Tutor
+1 Traumatize (M11) 77 #Mill
+1 Undead Butler (VOW) 133 #Tutor
 1 Undercity Sewers (MKM) 332 *F* #Land
 1 Underground Mortuary (MKM) 333 *F* #Land
 1 Underground River (BRO) 300 #Land
 1 Watery Grave (RVR) 291 #Land
-1 Wonder (CMA) 44 #Timmy
 1 World Shaper (NCC) 323 #Ramp
 1 Yavimaya Coast (DMU) 382 #Land
 1 Zagoth Triome (IKO) 313 *F* #Land
