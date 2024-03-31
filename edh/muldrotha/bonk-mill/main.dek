@@ -20,23 +20,22 @@
 1 Dakmor Salvage (MMA) 222 *F* #Land
 1 Dark Ritual (3ED) 99 #Ramp
 1 Darkbore Pathway / Slitherbore Pathway (KHM) 292 #Land
-1 Death's Presence (RTR) 121 #Mill
 1 Devoted Druid (2X2) 143 *F* #Ramp
 1 Disciple of Bolas (M13) 88 #Mill
 1 Entomb (UMA) 94 *F* #Tutor
 1 Eternal Witness (MMA) 144 #Tutor
 1 Fauna Shaman (UMA) 164 #Tutor
 1 Fiend Artisan (IKO) 350 *F* #Tutor
-9 Forest (J22) 112 #Land
+8 Forest (J22) 112 #Land
 1 Glasspool Mimic / Glasspool Shore (ZNR) 328 *F* #Land
 1 Glen Elendra Archmage (UMA) 58 #Counter
 1 Golgari Grave-Troll (RAV) 167 #Timmy
-1 Golgari Thug (UMA) 98 #Tutor
+1 Golgari Thug (UMA) 98 #Recursion
 1 Greater Good (SLD) 1087 #Mill
 1 Grim Haruspex (C19) 118 #Advantage
 1 Haywire Mite (BRO) 199 #Removal
 1 Hedge Maze (MKM) 326 *F* #Land
-2 Island (J22) 103 #Land
+3 Island (J22) 103 #Land
 1 Jace, Wielder of Mysteries (PWAR) 54p *F* #Mill
 1 Jarad, Golgari Lich Lord (RTR) 174 #Timmy
 1 Kaya's Ghostform (WAR) 94 *F* #Recursion
@@ -49,8 +48,9 @@
 1 Matzalantli, the Great Door / The Core (LCI) 256 #Advantage
 1 Meren of Clan Nel Toth (CMM) 685 *F* #Recursion
 1 Mikaeus, the Unhallowed (CMM) 173 #Recursion
-1 Mortuary Mire (BFZ) 240 *F* #Tutor
+1 Mortuary Mire (BFZ) 240 *F* #Recursion
 1 Narset's Reversal (WAR) 62 #Counter
+1 Neutralize (IKO) 59 #Counter
 1 Opulent Palace (KTK) 238 #Land
 1 Out of the Tombs (40K) 46 #Mill
 1 Overgrown Tomb (GRN) 253 #Land
@@ -74,7 +74,7 @@
 1 Strip Mine (ZNE) 28 *F* #Land
 1 Stubborn Denial (KTK) 56 #Counter
 1 Svogthos, the Restless Tomb (RAV) 283 #Land
-1 Takenuma, Abandoned Mire (NEO) 505 *F* #Tutor
+1 Takenuma, Abandoned Mire (NEO) 505 *F* #Recursion
 1 The Everflowing Well / The Myriad Pools (LCI) 56 *F* #Advantage
 1 The Skullspore Nexus (LCI) 340 *F* #Timmy
 1 Thran Dynamo (CMM) 658 *F* #Ramp
