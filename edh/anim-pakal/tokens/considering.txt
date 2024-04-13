@@ -70,7 +70,7 @@
 1 Tome of Legends (MKC) 246 #Advantage
 1 Towashi Guide-Bot (NEO) 262 *F* #Advantage
 1 Transmogrifying Wand (M19) 247 *F* #Removal
-1 Triskelion (DMR) 452 *F* #Board
+1 Triskelavus (CM2) 226 #Board
 1 Virtue of Loyalty / Ardenvale Fealty (WOE) 277 #Buff
 1 Wake the Past (PIP) 221 #Recursion
 1 Wandering Archaic / Explore the Vastlands (STX) 6 #Counter
