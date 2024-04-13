@@ -1,0 +1,79 @@
+1 Alibou, Ancient Witness (C21) 334 #Removal
+1 All Is Dust (UMA) 1 #Wipe
+1 Alloy Myr (PLST) MM2-201 #Ramp
+1 Arcbound Ravager (SLD) 56 *F* #Board
+1 Blacksmith's Skill (MH2) 381 #Protection
+1 Blood Moon (MM3) 90 #Stax
+1 Bolt Bend (WAR) 115 #Counter
+1 Boros Signet (CMR) 459 #Ramp
+1 Bronze Guardian (BRC) 70 #Protection
+1 Buried Ruin (C18) 239 #Recursion
+1 Citadel Siege (MIC) 81 #Buff
+1 Clockwork Fox (CLB) 308 *F* #Advantage
+1 Combat Celebrant (LTC) 212 #Extra Combat
+1 Contagion Clasp (SOM) 144 #Buff
+1 Cybermen Squadron (WHO) 457 #Buff
+1 Deflecting Swat (CMM) 214 #Counter
+1 Digsite Engineer (BRC) 71 #Board
+1 Dross Scorpion (MRD) 164
+1 Elegant Parlor (MKM) 260 #Land
+1 Enlightened Tutor (DMR) 263 #Tutor
+1 Esper Sentinel (MH2) 328 #Advantage
+1 Farewell (MKC) 64 #Wipe
+1 Fellwar Stone (AFC) 206 #Ramp
+1 Fire Diamond (CLB) 445 #Ramp
+1 Flowering of the White Tree (LTR) 759 *F* #Buff
+1 Fork (3ED) 153 #Counter
+1 Forsaken Monument (CMM) 950 #Buff
+1 Generous Gift (WOC) 68 #Removal
+1 Glistening Sphere (ONC) 20 #Buff
+1 Gold Myr (SOM) 157 #Ramp
+1 Great Train Heist (OTJ) 125 #Extra Combat
+1 Grim Reaper's Sprint (PIP) 58 #Extra Combat
+1 Helm of the Host (PDOM) 217p *F* #Combo
+1 Icon of Ancestry (M20) 229 *F* #Buff
+1 Iron Myr (SOM) 168 #Ramp
+1 Isochron Scepter (DDJ) 16 #Board
+1 Karn, Living Legacy (DMU) 1 *F* #Ramp
+1 Lapse of Certainty (CON) 9 #Counter
+1 Losheel, Clockwork Scholar (BRC) 73 #Protection
+1 Mana Tithe (PLST) PLC-25 #Counter
+1 Marble Diamond (CLB) 446 #Ramp
+1 Matter Reshaper (CMM) 806 #Advantage
+1 Myr Battlesphere (C21) 253 #Board
+1 Myrsmith (CMM) 44 #Board
+1 Panharmonicon (PIP) 485
+1 Papercraft Decoy (NEO) 253 *F* #Advantage
+1 Pearl Medallion (CMM) 401 #Ramp
+1 Pentavus (CM2) 209 #Board
+1 Pyroblast (ICE) 213 #Counter
+1 Rebuff the Wicked (TSR) 35 #Counter
+1 Ricochet Trap (WWK) 87 #Counter
+1 Rings of Brighthearth (LTC) 352 *F*
+1 Ruby Medallion (CMM) 405 #Ramp
+1 Ruins of Oran-Rief (CMM) 1023 #Land
+1 Scarecrone (EVE) 172 #Recursion
+1 Scrap Trawler (C21) 260 #Recursion
+1 Seething Song (9ED) 216 #Ramp
+1 Shield Sphere (ALL) 129
+1 Shimmer Myr (MOC) 376 #Ramp
+1 Spectrum Sentinel (BRO) 244 #Protection
+1 Stroke of Midnight (WOE) 33 #Removal
+1 Stromkirk Occultist (C19) 153 #Advantage
+1 Sword of Hearth and Home (LTC) 354 *F* #Ramp
+1 Sword of the Animist (LTC) 355 #Ramp
+1 Sword of Truth and Justice (H1R) 32 *F* #Buff
+1 The Immortal Sun (CMM) 393 *F* #Ramp
+1 The Mycosynth Gardens (ONE) 402
+1 Thopter Squadron (EXO) 140 #Board
+1 Thousand-Year Elixir (C21) 271
+1 Tome of Legends (MKC) 246 #Advantage
+1 Towashi Guide-Bot (NEO) 262 *F* #Advantage
+1 Transmogrifying Wand (M19) 247 *F* #Removal
+1 Triskelion (DMR) 452 *F* #Board
+1 Virtue of Loyalty / Ardenvale Fealty (WOE) 277 #Buff
+1 Wake the Past (PIP) 221 #Recursion
+1 Wandering Archaic / Explore the Vastlands (STX) 6 #Counter
+1 Wild Ricochet (SCD) 169 #Counter
+1 Worn Powerstone (LTC) 293 #Ramp
+1 Zariel, Archduke of Avernus (AFR) 172 #Extra Combat
