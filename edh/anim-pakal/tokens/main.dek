@@ -39,7 +39,7 @@
 1 Metallic Mimic (LCC) 308 #Buff
 1 Monoskelion (MH2) 229 *F* #Removal
 1 Moraug, Fury of Akoum (ZNR) 300 #Extra Combat
-4 Mountain (J22) 107 #Land
+3 Mountain (J22) 107 #Land
 1 Myr Retriever (CM2) 203 #Recursion
 1 Needleverge Pathway / Pillarverge Pathway (ZNR) 288 #Land
 1 Ondu Inversion / Ondu Skyruins (ZNR) 30 #Wipe
@@ -57,7 +57,9 @@
 1 Ruins of Oran-Rief (CMM) 1023 #Land
 1 Rustvale Bridge (PIP) 285 #Land
 1 Sacred Foundry (CLU) 279 *F* #Land
+1 Scavenger Grounds (C20) 306 #Removal
 1 Scrap Trawler (C21) 260 #Recursion
+1 Scrapyard Recombiner (MH1) 227 #Tutor
 1 Scroll Rack (CMR) 699 #Advantage
 1 Secluded Steppe (MKC) 289 #Land
 1 Seize the Day (ODY) 220 #Extra Combat
@@ -86,4 +88,3 @@
 1 Walking Atlas (WWK) 131 #Ramp
 1 Walking Ballista (SLD) 1265 *F* #Removal
 1 Warleader's Call (MKM) 315 #Buff
-1 Worn Powerstone (LTC) 293 #Ramp
