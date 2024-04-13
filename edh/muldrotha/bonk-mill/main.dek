@@ -10,11 +10,10 @@
 1 Brawn (UMA) 160 *F* #Timmy
 1 Breeding Pool (RVR) 275 #Land
 1 Caustic Caterpillar (J22) 86 #Removal
-1 Chromatic Lantern (40K) 232★ *F* #Ramp
 1 Clearwater Pathway / Murkwater Pathway (ZNR) 286 #Land
 1 Command Tower (LCC) 325 #Land
+1 Conduit of Worlds (ONE) 163 *F* #Ramp
 1 Consuming Aberration (GTC) 152 *F* #Timmy
-1 Counterspell (CMR) 632 *F* #Counter
 1 Crashing Drawbridge (ELD) 217 *F* #Timmy
 1 Cruel Somnophage / Can't Wake Up (WOE) 222 *F* #Timmy
 1 Dakmor Salvage (MMA) 222 *F* #Land
@@ -26,6 +25,7 @@
 1 Eternal Witness (MMA) 144 #Tutor
 1 Fauna Shaman (UMA) 164 #Tutor
 1 Fiend Artisan (IKO) 350 *F* #Tutor
+1 Forbid (EXO) 35 #Counter
 8 Forest (J22) 112 #Land
 1 Glasspool Mimic / Glasspool Shore (ZNR) 328 *F* #Land
 1 Glen Elendra Archmage (UMA) 58 #Counter
@@ -50,21 +50,20 @@
 1 Mikaeus, the Unhallowed (CMM) 173 #Recursion
 1 Mortuary Mire (BFZ) 240 *F* #Recursion
 1 Narset's Reversal (WAR) 62 #Counter
-1 Neutralize (IKO) 59 #Counter
 1 Opulent Palace (KTK) 238 #Land
+1 Orazca Puzzle-Door (LCI) 68 #Advantage
 1 Out of the Tombs (40K) 46 #Mill
 1 Overgrown Tomb (GRN) 253 #Land
 1 Paradise Mantle (SLD) 1236 *F* #Ramp
 1 Pernicious Deed (A25) 212 *F* #Wipe
 1 Perpetual Timepiece (KLD) 227 #Advantage
 1 Pit of Offerings (LCI) 278 #Land
-1 Pull from Tomorrow (AKH) 65 *F* #Advantage
 1 Rancor (A25) 186 *F* #Timmy
 1 Reliquary Tower (CMR) 488 #Land
+1 Sakura-Tribe Elder (CHK) 239 #Ramp
 1 Satyr Wayfinder (M15) 198 #Ramp
 1 Scavenging Ooze (MM3) 134 *F* #Removal
 1 Seal of Removal (NEM) 42 #Removal
-1 Selvala, Heart of the Wilds (CMM) 571 *E* #Ramp
 1 Siren Stormtamer (CMR) 96 *F* #Counter
 1 Skull Prophet (IKO) 206 #Ramp
 1 Skullclamp (40K) 248 #Advantage
@@ -79,6 +78,7 @@
 1 The Skullspore Nexus (LCI) 340 *F* #Timmy
 1 Thran Dynamo (CMM) 658 *F* #Ramp
 1 Timeless Witness (MH2) 179 *F* #Tutor
+1 Tishana's Tidebinder (LCI) 335 #Counter
 1 Traumatize (M11) 77 #Mill
 1 Undead Butler (VOW) 133 #Tutor
 1 Undercity Sewers (MKM) 332 *F* #Land
