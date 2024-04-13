@@ -1,8 +1,8 @@
-1 Aurelia, the Warleader (GTC) 143 #Extra Combat
 1 Alibou, Ancient Witness (C21) 334 #Removal
 1 All Is Dust (UMA) 1 #Wipe
 1 Alloy Myr (PLST) MM2-201 #Ramp
 1 Arcbound Ravager (SLD) 56 *F* #Board
+1 Aurelia, the Warleader (GTC) 143 #Extra Combat
 1 Blacksmith's Skill (MH2) 381 #Protection
 1 Blood Moon (MM3) 90 #Stax
 1 Bolt Bend (WAR) 115 #Counter
@@ -16,7 +16,7 @@
 1 Cybermen Squadron (WHO) 457 #Buff
 1 Deflecting Swat (CMM) 214 #Counter
 1 Digsite Engineer (BRC) 71 #Board
-1 Dross Scorpion (MRD) 164
+1 Dross Scorpion (MRD) 164 #Combo
 1 Elegant Parlor (MKM) 260 #Land
 1 Enlightened Tutor (DMR) 263 #Tutor
 1 Esper Sentinel (MH2) 328 #Advantage
@@ -43,20 +43,18 @@
 1 Matter Reshaper (CMM) 806 #Advantage
 1 Myr Battlesphere (C21) 253 #Board
 1 Myrsmith (CMM) 44 #Board
-1 Panharmonicon (PIP) 485
+1 Panharmonicon (PIP) 485 #Combo
 1 Papercraft Decoy (NEO) 253 *F* #Advantage
 1 Pearl Medallion (CMM) 401 #Ramp
 1 Pentavus (CM2) 209 #Board
 1 Pyroblast (ICE) 213 #Counter
 1 Rebuff the Wicked (TSR) 35 #Counter
 1 Ricochet Trap (WWK) 87 #Counter
-1 Rings of Brighthearth (LTC) 352 *F*
+1 Rings of Brighthearth (LTC) 352 *F* #Counter
 1 Ruby Medallion (CMM) 405 #Ramp
-1 Ruins of Oran-Rief (CMM) 1023 #Land
 1 Scarecrone (EVE) 172 #Recursion
-1 Scrap Trawler (C21) 260 #Recursion
 1 Seething Song (9ED) 216 #Ramp
-1 Shield Sphere (ALL) 129
+1 Shield Sphere (ALL) 129 #Protection
 1 Shimmer Myr (MOC) 376 #Ramp
 1 Spectrum Sentinel (BRO) 244 #Protection
 1 Stroke of Midnight (WOE) 33 #Removal
@@ -65,13 +63,13 @@
 1 Sword of the Animist (LTC) 355 #Ramp
 1 Sword of Truth and Justice (H1R) 32 *F* #Buff
 1 The Immortal Sun (CMM) 393 *F* #Ramp
-1 The Mycosynth Gardens (ONE) 402
+1 The Mycosynth Gardens (ONE) 402 #Clone
 1 Thopter Squadron (EXO) 140 #Board
-1 Thousand-Year Elixir (C21) 271
+1 Thousand-Year Elixir (C21) 271 #Counter
 1 Tome of Legends (MKC) 246 #Advantage
 1 Towashi Guide-Bot (NEO) 262 *F* #Advantage
 1 Transmogrifying Wand (M19) 247 *F* #Removal
-1 Triskelavus (CM2) 226 #Board
+1 Triskelion (DMR) 452 *F* #Board
 1 Virtue of Loyalty / Ardenvale Fealty (WOE) 277 #Buff
 1 Wake the Past (PIP) 221 #Recursion
 1 Wandering Archaic / Explore the Vastlands (STX) 6 #Counter
