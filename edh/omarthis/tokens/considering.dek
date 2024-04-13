@@ -6,10 +6,12 @@
 1 Blasted Landscape (CM2) 238 #Advantage
 1 Blasting Station (5DN) 107 #Token Generator
 1 Blinkmoth Urn (C18) 197 #Ramp
-1 Bottle Golems (MH2) 222 #Protection
+1 Bottle Golems (MH2) 222 *F* #Protection
 1 Branch of Vitu-Ghazi (MKM) 258 #Land
+1 Burnished Hart (MOC) 351
 1 Canoptek Spyder (40K) 151 #Advantage
 1 Chalice of the Void (A25) 222 #Counter
+1 Chief of the Foundry (BRC) 134
 1 Chronomaton (M13) 201 *F* #+1
 1 Circuit Mender (NEO) 242 #Advantage
 1 Clock of Omens (M13) 202 #Combo
@@ -21,8 +23,10 @@
 1 Crashing Drawbridge (CMM) 944 #Finisher
 1 Crawling Barrens (ZNR) 378 #+1
 1 Cryptic Trilobite (C20) 21 #+1
+1 Cryptothrall (40K) 155
 1 Crystalline Crawler (C16) 54 #Ramp
 1 Culling Dais (BBD) 233 #Advantage
+1 Cyberman Patrol (WHO) 550
 1 Desecrate Reality (CMM) 714 #Removal
 1 Dragon Throne of Tarkir (KTK) 219 *F* #Finisher
 1 Elementalist's Palette (C21) 403 #Ramp
@@ -55,6 +59,8 @@
 1 Mirror Box (NEO) 403 *F* #Finisher
 1 Monoskelion (MH2) 229 *F* #+1
 1 Moonsilver Key (MID) 255 #Tutor
+1 Mycosynth Golem (PLST) 5DN-137
+1 Mycosynth Lattice (PLST) BBD-241
 1 Myr Matrix (DST) 132 #Token Generator
 1 Myr Mindservant (MRD) 213 #Advantage
 1 Myr Moonvessel (DST) 133 #Ramp
@@ -78,6 +84,7 @@
 1 Scavenged Brawler (BRC) 64 #Finisher
 1 Scour from Existence (BFZ) 13 #Removal
 1 Shell of the Last Kappa (CHK) 269 *F* #Counter
+1 Shimmer Myr (MOC) 376 #Ramp
 1 Shrine of the Forsaken Gods (MKC) 292 #Land
 1 Signal Pest (MBS) 131 #Finisher
 1 Skyclave Relic (ZNR) 377 #Ramp
@@ -106,6 +113,7 @@
 1 Ugin, the Ineffable (SLD) 1243 *F* #Ramp
 1 Ugin, the Spirit Dragon (M21) 1 #Removal
 1 Ugin's Conjurant (WAR) 3 #+1
+1 Unwinding Clock (NPH) 164
 1 Vanquisher's Banner (XLN) 251 #Finisher
 1 Voltaic Key (USG) 314 #Combo
 1 Voyager Staff (RVR) 271 *F* #Blink
