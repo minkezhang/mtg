@@ -1,6 +1,7 @@
 1 Aether Spellbomb (MMA) 196 #Removal
 1 Altar of Dementia (MH1) 218 #Mill
 1 Animate Dead (EMA) 78 #Recursion
+1 Arcane Denial (LTC) 184 #Counter
 1 Arcane Signet (NCC) 360 #Ramp
 1 Bala Ged Recovery / Bala Ged Sanctuary (ZNR) 180 #Recursion
 1 Barkchannel Pathway / Tidechannel Pathway (KHM) 290 #Land
@@ -26,7 +27,7 @@
 1 Fauna Shaman (UMA) 164 #Tutor
 1 Fiend Artisan (IKO) 350 *F* #Board
 1 Forbid (EXO) 35 #Counter
-5 Forest (J22) 112 #Land
+7 Forest (J22) 112 #Land
 1 Glasspool Mimic / Glasspool Shore (ZNR) 328 *F* #Land
 1 Glen Elendra Archmage (UMA) 58 #Counter
 1 Golgari Charm (GK1) 62 #Removal
@@ -34,12 +35,12 @@
 1 Golgari Thug (UMA) 98 #Recursion
 1 Grisly Salvage (F13) 11 *F* #Ramp
 1 Hedge Maze (MKM) 326 *F* #Land
-1 Increasing Confusion (DKA) 41 *F* #Mill
-5 Island (J22) 103 #Land
+3 Island (J22) 103 #Land
 1 Jarad, Golgari Lich Lord (GK1) 65 #Board
 1 Jwari Disruption / Jwari Ruins (ZNR) 64 #Counter
 1 Kaya's Ghostform (WAR) 94 *F* #Protection
 1 Life from the Loam (DDJ) 69 #Ramp
+1 Likeness Looter (WOE) 208 #Advantage
 1 Llanowar Wastes (BRO) 299 #Land
 1 Lotus Petal (TMP) 294 #Ramp
 1 Malakir Rebirth / Malakir Mire (ZNR) 111 #Protection
@@ -64,7 +65,6 @@
 1 Satyr Wayfinder (M15) 198 #Ramp
 1 Scavenger Grounds (HOU) 182 *F* #Removal
 1 Scavenging Ooze (MM3) 134 *F* #Removal
-1 Seal of Removal (NEM) 42 #Removal
 1 Siren Stormtamer (CMR) 96 *F* #Counter
 1 Skull Prophet (IKO) 206 #Ramp
 1 Sol Ring (C17) 223 #Ramp
@@ -77,9 +77,9 @@
 1 Takenuma, Abandoned Mire (NEO) 505 *F* #Recursion
 1 The Everflowing Well / The Myriad Pools (LCI) 56 *F* #Advantage
 1 The Skullspore Nexus (LCI) 340 *F* #Board
+1 Timeless Witness (MH2) 179 *F* #Recursion
 1 Tishana's Tidebinder (LCI) 335 #Counter
 1 Toxic Deluge (MKC) 142 #Wipe
-1 Traumatize (M11) 77 #Mill
 1 Umbris, Fear Manifest (VOC) 38 #Board
 1 Undercity Sewers (MKM) 332 *F* #Land
 1 Underground Mortuary (MKM) 333 *F* #Land
