@@ -17,19 +17,22 @@
 1 Counterspell (CMR) 632 *F* #Counter
 1 Cruel Somnophage / Can't Wake Up (WOE) 222 *F* #Board
 1 Dakmor Salvage (MMA) 222 *F* #Land
+1 Darkblast (RAV) 82 #Removal
 1 Darkbore Pathway / Slitherbore Pathway (KHM) 292 #Land
+1 Deathrite Shaman (SLC) 2012 *F* #Ramp
 1 Devoted Druid (2X2) 143 *F* #Ramp
 1 Disciple of Bolas (M13) 88 #Mill
 1 Entomb (UMA) 94 *F* #Tutor
 1 Fauna Shaman (UMA) 164 #Tutor
 1 Fiend Artisan (IKO) 350 *F* #Board
 1 Forbid (EXO) 35 #Counter
-6 Forest (J22) 112 #Land
+5 Forest (J22) 112 #Land
 1 Glasspool Mimic / Glasspool Shore (ZNR) 328 *F* #Land
 1 Glen Elendra Archmage (UMA) 58 #Counter
+1 Golgari Charm (GK1) 62 #Removal
 1 Golgari Grave-Troll (RAV) 167 #Board
 1 Golgari Thug (UMA) 98 #Recursion
-1 Haywire Mite (BRO) 199 #Removal
+1 Grisly Salvage (F13) 11 *F* #Ramp
 1 Hedge Maze (MKM) 326 *F* #Land
 1 Increasing Confusion (DKA) 41 *F* #Mill
 5 Island (J22) 103 #Land
@@ -45,10 +48,10 @@
 1 Meren of Clan Nel Toth (CMM) 685 *F* #Recursion
 1 Mikaeus, the Unhallowed (CMM) 173 #Protection
 1 Mortuary Mire (BFZ) 240 *F* #Recursion
-1 Muldrotha, the Gravetide (2X2) 384 *F* #Recursion
 1 Narset's Reversal (WAR) 62 #Counter
 1 Neutralize (IKO) 59 #Counter
 1 Nihil Spellbomb (SCD) 270 #Removal
+1 Once Upon a Time (ELD) 169 #Ramp
 1 Opulent Palace (KTK) 238 #Land
 1 Orazca Puzzle-Door (LCI) 68 #Advantage
 1 Out of the Tombs (40K) 46 #Mill
@@ -72,12 +75,10 @@
 1 Svogthos, the Restless Tomb (RAV) 283 #Land
 1 Swan Song (C16) 98 #Counter
 1 Takenuma, Abandoned Mire (NEO) 505 *F* #Recursion
-1 Terror Tide (LCI) 372 #Wipe
 1 The Everflowing Well / The Myriad Pools (LCI) 56 *F* #Advantage
 1 The Skullspore Nexus (LCI) 340 *F* #Board
-1 Thran Dynamo (CMM) 658 *F* #Ramp
-1 Timeless Witness (MH2) 179 *F* #Recursion
 1 Tishana's Tidebinder (LCI) 335 #Counter
+1 Toxic Deluge (MKC) 142 #Wipe
 1 Traumatize (M11) 77 #Mill
 1 Umbris, Fear Manifest (VOC) 38 #Board
 1 Undercity Sewers (MKM) 332 *F* #Land
