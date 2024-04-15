@@ -36,7 +36,7 @@
 1 Grisly Salvage (F13) 11 *F* #Ramp
 1 Hedge Maze (MKM) 326 *F* #Land
 3 Island (J22) 103 #Land
-1 Jarad, Golgari Lich Lord (GK1) 65 #Board
+1 Jarad, Golgari Lich Lord (RTR) 174 #Board
 1 Jwari Disruption / Jwari Ruins (ZNR) 64 #Counter
 1 Kaya's Ghostform (WAR) 94 *F* #Protection
 1 Life from the Loam (DDJ) 69 #Ramp
@@ -59,7 +59,7 @@
 1 Overgrown Tomb (GRN) 253 #Land
 1 Pernicious Deed (A25) 212 *F* #Wipe
 1 Perpetual Timepiece (KLD) 227 #Mill
-1 Pit of Offerings (LCI) 278 #Land
+1 Pit of Offerings (LCI) 278 #Removal
 1 Reliquary Tower (CMR) 488 #Land
 1 Sakura-Tribe Elder (CHK) 239 #Ramp
 1 Satyr Wayfinder (M15) 198 #Ramp
@@ -72,7 +72,7 @@
 1 Spore Frog (MH1) 180 #Protection
 1 Strip Mine (ZNE) 28 *F* #Land
 1 Stubborn Denial (KTK) 56 #Counter
-1 Svogthos, the Restless Tomb (RAV) 283 #Land
+1 Svogthos, the Restless Tomb (RAV) 283 #Board
 1 Swan Song (C16) 98 #Counter
 1 Takenuma, Abandoned Mire (NEO) 505 *F* #Recursion
 1 The Everflowing Well / The Myriad Pools (LCI) 56 *F* #Advantage
