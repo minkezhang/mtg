@@ -1,4 +1,4 @@
-1 Abstruse Archaic (CMM) 712 #Proliferate
+1 Abstruse Archaic (CMM) 712 #Buff
 1 Agatha's Soul Cauldron (PWOE) 242p #Combo
 1 Arcbound Reclaimer (DST) 101 #Tutor
 1 Astral Cornucopia (BRR) 5 *F* #Ramp
@@ -8,10 +8,10 @@
 1 Blinkmoth Urn (C18) 197 #Ramp
 1 Bottle Golems (MH2) 222 *F* #Protection
 1 Branch of Vitu-Ghazi (MKM) 258 #Land
-1 Burnished Hart (MOC) 351
+1 Burnished Hart (MOC) 351 #Ramp
 1 Canoptek Spyder (40K) 151 #Advantage
 1 Chalice of the Void (A25) 222 #Counter
-1 Chief of the Foundry (BRC) 134
+1 Chief of the Foundry (BRC) 134 #Buff
 1 Chronomaton (M13) 201 *F* #+1
 1 Circuit Mender (NEO) 242 #Advantage
 1 Clock of Omens (M13) 202 #Combo
@@ -19,7 +19,7 @@
 1 Clockwork Vorrac (MRD) 156 *F* #+1
 1 Coat of Arms (M10) 207 *F* #Finisher
 1 Conjurer's Closet (PW21) 6 *F* #Blink
-1 Contagion Engine (SOM) 145 #Proliferate
+1 Contagion Engine (SOM) 145 #Buff
 1 Crashing Drawbridge (CMM) 944 #Finisher
 1 Crawling Barrens (ZNR) 378 #+1
 1 Cryptic Trilobite (C20) 21 #+1
@@ -59,7 +59,7 @@
 1 Mirror Box (NEO) 403 *F* #Finisher
 1 Monoskelion (MH2) 229 *F* #+1
 1 Moonsilver Key (MID) 255 #Tutor
-1 Mycosynth Golem (PLST) 5DN-137
+1 Mycosynth Golem (PLST) 5DN-137 #Ramp
 1 Mycosynth Lattice (PLST) BBD-241
 1 Myr Matrix (DST) 132 #Token Generator
 1 Myr Mindservant (MRD) 213 #Advantage
@@ -98,7 +98,7 @@
 1 Sword of Forge and Frontier (PONE) 244p *F* #Ramp
 1 Sword of Hours (AFC) 61 #+1
 1 Sword of the Animist (LTC) 355 #Ramp
-1 Sword of Truth and Justice (H1R) 32 *F* #Proliferate
+1 Sword of Truth and Justice (H1R) 32 *F* #Buff
 1 Tarrian's Soulcleaver (LCI) 389 *F* #+1
 1 Temple of the False God (ONC) 172 #Land
 1 Tetravus (4ED) 350 #Token Generator

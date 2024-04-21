@@ -1,5 +1,5 @@
 1 All Is Dust (UMA) 1 #Removal
-1 Andúril, Narsil Reforged (LTC) 491 *F* #Proliferate
+1 Andúril, Narsil Reforged (LTC) 491 *F* #Buff
 1 Animation Module (KLD) 194 *F* #Token Generator
 1 Arcbound Crusher (DST) 95 *F* #+1
 1 Arcbound Ravager (SLD) 56 *F* #+1
@@ -13,7 +13,7 @@
 1 Cauldron of Souls (C16) 246 #Blink
 1 Chimil, the Inner Sun (LCI) 249 #Counter
 1 Command Beacon (CMR) 349 *F* #Land
-1 Contagion Clasp (SOM) 144 #Proliferate
+1 Contagion Clasp (SOM) 144 #Buff
 1 Drannith Ruins (MAT) 185 #+1
 1 Dross Scorpion (MRD) 164 #Combo
 1 Erratic Portal (EXO) 132 #Removal
@@ -22,7 +22,7 @@
 1 Forsaken Monument (CMM) 950 #Ramp
 1 Foundry Inspector (CMR) 310 #Ramp
 1 Gavel of the Righteous (NCC) 183 #Finisher
-1 Glistening Sphere (ONC) 20 #Proliferate
+1 Glistening Sphere (ONC) 20 #Buff
 1 Golden Argosy (DMU) 230 #Blink
 1 Hall of Tagsin (BRO) 263 *F* #Ramp
 1 Hangarback Walker (J22) 772 #Token Generator
@@ -31,11 +31,11 @@
 1 Icon of Ancestry (M20) 229 *F* #Finisher
 1 Inventors' Fair (KLD) 247 #Tutor
 1 Karn, Living Legacy (DMU) 1 *F* #Ramp
-1 Karn's Bastion (RVR) 464 *F* #Proliferate
+1 Karn's Bastion (RVR) 464 *F* #Buff
 1 Kozilek, the Great Distortion (CMM) 452 *E* #Counter
 1 Liberator, Urza's Battlethopter (BRO) 364 *F* #+1
-1 Lithoform Engine (ZNR) 375 *F* #Proliferate
-1 Metallic Mimic (LCC) 308 #Proliferate
+1 Lithoform Engine (ZNR) 375 *F* #Buff
+1 Metallic Mimic (LCC) 308 #Buff
 1 Mikokoro, Center of the Sea (DMC) 217 #Advantage
 1 Mind Stone (C21) 251 #Ramp
 1 Mind's Eye (BBD) 240 *F* #Advantage
@@ -49,7 +49,7 @@
 1 Ominous Cemetery (WHO) 189 *F* #Removal
 1 Paradise Mantle (5DN) 142 #Ramp
 1 Patchwork Automaton (NEO) 254 #+1
-1 Rings of Brighthearth (LTC) 352 *F* #Proliferate
+1 Rings of Brighthearth (LTC) 352 *F* #Buff
 1 Rogue's Passage (C15) 302 #Land
 1 Ruins of Oran-Rief (CMM) 1023 #+1
 1 Scarecrone (EVE) 172 #Tutor
@@ -64,8 +64,8 @@
 1 Sol Ring (CMM) 410 *F* #Ramp
 1 Spectrum Sentinel (BRO) 244 #Protection
 1 Springleaf Drum (BRR) 118 *F* #Ramp
-1 Staff of Compleation (ONE) 358 *F* #Proliferate
-1 Steel Overseer (M20) 239 #Proliferate
+1 Staff of Compleation (ONE) 358 *F* #Buff
+1 Steel Overseer (M20) 239 #Buff
 1 Sundial of the Infinite (M12) 218 *F* #Counter
 1 Sword of Hearth and Home (LTC) 354 *F* #Blink
 1 The Immortal Sun (CMM) 393 *F* #Ramp
@@ -73,7 +73,7 @@
 1 Thought Vessel (CMM) 414 *F* #Ramp
 1 Thousand-Year Elixir (C21) 271 #Combo
 1 Threefold Thunderhulk (LCI) 265 #Token Generator
-1 Throne of Geth (SOM) 211 #Proliferate
+1 Throne of Geth (SOM) 211 #Buff
 1 Tomb of the Spirit Dragon (CMM) 1048 #Protection
 1 Towashi Guide-Bot (NEO) 262 *F* #Advantage
 1 Transmogrifying Wand (M19) 247 *F* #Removal
