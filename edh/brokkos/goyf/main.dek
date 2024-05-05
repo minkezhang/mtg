@@ -5,7 +5,6 @@
 1 Arcane Signet (NCC) 360 #Ramp
 1 Bala Ged Recovery / Bala Ged Sanctuary (ZNR) 180 #Recursion
 1 Barkchannel Pathway / Tidechannel Pathway (KHM) 290 #Land
-1 Bequeathal (EXO) 106 #Advantage
 1 Birds of Paradise (SLD) 1148 *F* #Ramp
 1 Bojuka Bog (C20) 259 #Removal
 1 Brawn (UMA) 160 *F* #Board
@@ -17,29 +16,31 @@
 1 Counterspell (CMR) 632 *F* #Counter
 1 Cruel Somnophage / Can't Wake Up (WOE) 222 *F* #Board
 1 Dakmor Salvage (MMA) 222 *F* #Land
+1 Dark Ritual (3ED) 99 #Ramp
 1 Darkblast (RAV) 82 #Removal
 1 Darkbore Pathway / Slitherbore Pathway (KHM) 292 #Land
-1 Deadbridge Chant (C20) 207 #Recursion
 1 Deathrite Shaman (SLC) 2012 *F* #Ramp
-1 Devoted Druid (2X2) 143 *F* #Ramp
 1 Disciple of Bolas (M13) 88 #Mill
 1 Entomb (UMA) 94 *F* #Tutor
 1 Fauna Shaman (UMA) 164 #Tutor
 1 Fiend Artisan (IKO) 350 *F* #Board
 1 Forbid (EXO) 35 #Counter
-7 Forest (J22) 112 #Land
+5 Forest (J22) 112 #Land
 1 Glasspool Mimic / Glasspool Shore (ZNR) 328 *F* #Land
 1 Glen Elendra Archmage (UMA) 58 #Counter
 1 Golgari Charm (GK1) 62 #Removal
 1 Golgari Grave-Troll (RAV) 167 #Board
 1 Golgari Thug (UMA) 98 #Recursion
 1 Hedge Maze (MKM) 326 *F* #Land
+1 Hermit Druid (PLST) STH-108 #Ramp
 3 Island (J22) 103 #Land
 1 Jarad, Golgari Lich Lord (RTR) 174 #Board
 1 Jwari Disruption / Jwari Ruins (ZNR) 64 #Counter
 1 Kaya's Ghostform (WAR) 94 *F* #Protection
 1 Life from the Loam (DDJ) 69 #Ramp
+1 Lightning Greaves (CMA) 220 #Protection
 1 Likeness Looter (WOE) 364 #Advantage
+1 Lim-Dûl's Vault (SLC) 1996 *F* #Advantage
 1 Llanowar Wastes (BRO) 299 #Land
 1 Lotus Petal (TMP) 294 #Ramp
 1 Malakir Rebirth / Malakir Mire (ZNR) 111 #Protection
@@ -47,13 +48,13 @@
 1 Matzalantli, the Great Door / The Core (LCI) 256 #Advantage
 1 Meren of Clan Nel Toth (CMM) 685 *F* #Recursion
 1 Mirror-Mad Phantasm (ISD) 68 #Mill
+1 Moon-Circuit Hacker (NEO) 334 *F* #Advantage
 1 Mortuary Mire (BFZ) 240 *F* #Recursion
 1 Narset's Reversal (WAR) 62 #Counter
 1 Neutralize (IKO) 59 #Counter
 1 Nihil Spellbomb (SCD) 270 #Removal
 1 Once Upon a Time (ELD) 169 #Ramp
 1 Opulent Palace (KTK) 238 #Land
-1 Orazca Puzzle-Door (LCI) 68 #Advantage
 1 Out of the Tombs (40K) 46 #Mill
 1 Overgrown Tomb (GRN) 253 #Land
 1 Pernicious Deed (A25) 212 *F* #Wipe
@@ -70,10 +71,12 @@
 1 Songs of the Damned (ICE) 160 #Ramp
 1 Souls of the Lost (LCI) 121 *F* #Board
 1 Spore Frog (MH1) 180 #Protection
+1 Stitcher's Supplier (M19) 121 #Mill
 1 Strip Mine (ZNE) 28 *F* #Land
 1 Stubborn Denial (KTK) 56 #Counter
 1 Svogthos, the Restless Tomb (RAV) 283 #Board
 1 Swan Song (C16) 98 #Counter
+1 Swiftfoot Boots (CMR) 474 #Protection
 1 Takenuma, Abandoned Mire (NEO) 505 *F* #Recursion
 1 The Everflowing Well / The Myriad Pools (LCI) 56 *F* #Advantage
 1 The Skullspore Nexus (LCI) 340 *F* #Board
@@ -84,7 +87,6 @@
 1 Undercity Sewers (MKM) 332 *F* #Land
 1 Underground Mortuary (MKM) 333 *F* #Land
 1 Underground River (BRO) 300 #Land
-1 Warkite Marauder (RIX) 60 #Protection
 1 Watery Grave (RVR) 291 #Land
 1 World Shaper (NCC) 323 #Ramp
 1 Yavimaya Coast (DMU) 382 #Land
