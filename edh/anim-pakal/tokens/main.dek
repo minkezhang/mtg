@@ -10,8 +10,8 @@
 1 Battlefield Forge (BRO) 297 #Land
 1 Blade of the Bloodchief (LCC) 300 #Buff
 1 Blasted Landscape (CM2) 238 #Land
-1 Boreas Charger (VOC) 79 #Ramp
 1 Boros Charm (OTC) 216 #Protection
+1 Cartographer's Hawk (CMM) 18 *F* #Ramp
 1 Chief of the Foundry (ORI) 225 *F* #Buff
 1 Coldsteel Heart (2X2) 301 #Ramp
 1 Command Tower (OTC) 280 #Land
@@ -23,8 +23,7 @@
 1 Drifting Meadow (C13) 285 #Land
 1 Elegant Parlor (MKM) 260 #Land
 1 Endless Atlas (2XM) 251 #Advantage
-1 Fellwar Stone (AFC) 206 #Ramp
-1 Fire Diamond (CLB) 445 #Ramp
+1 Fellwar Stone (NEC) 150 #Ramp
 1 Flowering of the White Tree (LTR) 759 *F* #Buff
 1 Forgotten Cave (C13) 289 #Land
 1 Foundry Inspector (CMR) 310 #Ramp
@@ -32,29 +31,28 @@
 1 Goblin Welder (C14) 177 #Recursion
 1 Grateful Apparition (NCC) 202 #Buff
 1 Great Furnace (C21) 292 #Land
+1 Great Train Heist (OTJ) 331 *F* #Extra Combat
 1 Illustrious Wanderglyph (LCC) 21 *F* #Buff
 1 Kabira Takedown / Kabira Plateau (ZNR) 19 #Removal
 1 Karlach, Fury of Avernus (CLB) 186 *F* #Extra Combat
 1 Karn's Bastion (RVR) 464 *F* #Buff
 1 Knight of the White Orchid (VOC) 92 #Ramp
 1 Lapse of Certainty (CON) 9 #Counter
-1 Liberator, Urza's Battlethopter (BRO) 364 *F* #Board #Creatures
+1 Liberator, Urza's Battlethopter (BRO) 364 *F* #Board
 1 Loran's Escape (BRO) 14 *F* #Protection
 1 Lotus Field (SLC) 2023 *F* #Land
-1 Marble Diamond (CLB) 446 #Ramp
 1 Mask of Memory (CMR) 324 #Advantage
 1 Metallic Mimic (LCC) 308 #Buff
 1 Moraug, Fury of Akoum (ZNR) 300 *F* #Extra Combat
-2 Mountain (J22) 107 #Land
+3 Mountain (J22) 107 #Land
 1 Myr Retriever (CM2) 203 #Recursion
 1 Needleverge Pathway / Pillarverge Pathway (ZNR) 288 #Land
 1 Ondu Inversion / Ondu Skyruins (ZNR) 321 #Wipe
 1 Organic Extinction (MKC) 76 #Wipe
-1 Palladium Myr (M21) 234 #Ramp
 1 Paradise Mantle (5DN) 142 #Ramp
 1 Path to Exile (OTC) 85 #Removal
 1 Pit of Offerings (LCI) 278 #Land
-8 Plains (J22) 98 #Land
+9 Plains (J22) 98 #Land
 1 Rebuff the Wicked (TSR) 35 #Counter
 1 Red Elemental Blast (4ED) 218 #Counter
 1 Relentless Assault (DDT) 54 #Extra Combat
@@ -64,7 +62,6 @@
 1 Rustvale Bridge (MH2) 253 #Land
 1 Sacred Foundry (RVR) 285 #Land
 1 Scavenger Grounds (C20) 306 #Removal
-1 Scrap Trawler (C21) 260 #Recursion
 1 Scrapyard Recombiner (MH1) 227 #Tutor
 1 Scroll Rack (CMR) 699 #Advantage
 1 Secluded Steppe (C13) 319 #Land
@@ -88,4 +85,5 @@
 1 Tomb of the Spirit Dragon (CMM) 1048 #Protection
 1 Triskelavus (CM2) 226 #Board
 1 Valakut Awakening / Valakut Stoneforge (ZNR) 355 #Advantage
+1 Walking Atlas (WWK) 131 #Ramp
 1 Warleader's Call (PMKM) 242s *F* #Buff
