@@ -11,7 +11,6 @@
 1 Caves of Koilos (OTC) 277 #Land
 1 Command Tower (WHO) 265 #Land
 1 Curse of Vengeance (C16) 12 #Advantage
-1 Daily Regimen (DDL) 18 #Buff
 1 Dark Ritual (TMP) 118 #Ramp
 1 Darksteel Mutation (PLST) CMA-9 #Removal
 1 Dawn Charm (PLC) 4 #Counter
@@ -46,16 +45,18 @@
 1 Moon-Blessed Cleric (AFR) 26 #Tutor
 1 Mortuary Mire (BFZ) 240 #Land
 1 Necromancy (MKC) 131 #Recursion
+1 Necropotence (WOT) 31 #Advantage
 1 Necrosynthesis (MID) 115 #Buff
 1 Not Dead After All (WOE) 101 #Protection
 1 Oblivion Crown (FUT) 73 #Protection
-14 Plains (UND) 87 #Land
+11 Plains (UND) 87 #Land
 1 Radiant Grace / Radiant Restraints (VOW) 31 #Stax
 1 Rebuff the Wicked (TSR) 35 #Counter
 1 Redemption Arc (MKC) 13 #Stax
 1 Reliquary Tower (MKC) 282 #Land
 1 Reprieve (LTR) 26 #Counter
 1 Retether (WOC) 72 #Recursion
+1 Sadistic Glee (TMP) 153 #Buff
 1 Sanguine Bond (C17) 124 #Slug
 1 Screams from Within (DST) 52 #Wipe
 1 Secluded Steppe (ONC) 163 #Land
@@ -67,7 +68,7 @@
 1 Slumbering Keepguard (WOE) 29 #Board
 1 Sol Ring (PLST) C18-222 #Ramp
 1 Songbirds' Blessing (WOC) 7 #Advantage
-6 Swamp (UND) 91 #Land
+8 Swamp (UND) 91 #Land
 1 Takenuma, Abandoned Mire (NEO) 278 #Land
 1 Tenuous Truce (NCC) 95 #Advantage
 1 Test of Endurance (DMR) 276 #Wincon
