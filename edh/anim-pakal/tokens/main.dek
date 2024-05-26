@@ -13,7 +13,6 @@
 1 Boros Charm (OTC) 216 #Protection
 1 Cartographer's Hawk (CMM) 18 *F* #Ramp
 1 Chief of the Foundry (ORI) 225 *F* #Buff
-1 Coldsteel Heart (2X2) 301 #Ramp
 1 Command Tower (OTC) 280 #Land
 1 Cyberman Patrol (WHO) 174 #Buff
 1 Daretti, Scrap Savant (CM2) 4 *F* #Advantage
@@ -40,11 +39,10 @@
 1 Lapse of Certainty (CON) 9 #Counter
 1 Liberator, Urza's Battlethopter (BRO) 364 *F* #Board
 1 Loran's Escape (BRO) 14 *F* #Protection
-1 Lotus Field (SLC) 2023 *F* #Land
 1 Mask of Memory (CMR) 324 #Advantage
 1 Metallic Mimic (LCC) 308 #Buff
 1 Moraug, Fury of Akoum (ZNR) 300 *F* #Extra Combat
-3 Mountain (J22) 107 #Land
+4 Mountain (J22) 107 #Land
 1 Myr Retriever (CM2) 203 #Recursion
 1 Needleverge Pathway / Pillarverge Pathway (ZNR) 288 #Land
 1 Ondu Inversion / Ondu Skyruins (ZNR) 321 #Wipe
@@ -52,13 +50,13 @@
 1 Paradise Mantle (5DN) 142 #Ramp
 1 Path to Exile (OTC) 85 #Removal
 1 Pit of Offerings (LCI) 278 #Land
-8 Plains (J22) 98 #Land
+11 Plains (J22) 98 #Land
 1 Rebuff the Wicked (TSR) 35 #Counter
 1 Red Elemental Blast (4ED) 218 #Counter
 1 Relentless Assault (DDT) 54 #Extra Combat
 1 Reliquary Tower (CMR) 488 #Land
 1 Reverberate (M12) 152 #Counter
-1 Rosie Cotton of South Lane (LTR) 440 #Buff
+1 Rosie Cotton of South Lane (LTR) 27 *F* #Buff
 1 Ruins of Oran-Rief (CMM) 1023 #Land
 1 Rustvale Bridge (MH2) 253 #Land
 1 Sacred Foundry (RVR) 285 #Land
@@ -75,7 +73,6 @@
 1 Sol Ring (CMM) 410 *F* #Ramp
 1 Solemn Simulacrum (M21) 239 *F* #Ramp
 1 Spikefield Hazard / Spikefield Cave (ZNR) 166 #Removal
-1 Springleaf Drum (BRR) 118 *F* #Ramp
 1 Staff of Compleation (ONE) 358 *F* #Buff
 1 Steel Overseer (M20) 239 #Buff
 1 Stonecoil Serpent (ELD) 235 #Board
@@ -86,5 +83,4 @@
 1 Tomb of the Spirit Dragon (CMM) 1048 #Protection
 1 Triskelavus (CM2) 226 #Board
 1 Valakut Awakening / Valakut Stoneforge (ZNR) 355 #Advantage
-1 Walking Atlas (WWK) 131 #Ramp
 1 Warleader's Call (PMKM) 242s *F* #Buff

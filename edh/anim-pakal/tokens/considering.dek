@@ -16,6 +16,7 @@
 1 Cathars' Crusade (C14) 67 #Buff
 1 Citadel Siege (C21) 85 #Buff
 1 Clockwork Fox (CLB) 308 *F* #Advantage
+1 Coldsteel Heart (2X2) 301 #Ramp
 1 Combat Celebrant (LTC) 212 #Extra Combat
 1 Condemn (ZNC) 12 #Removal
 1 Contagion Clasp (SOM) 144 #Buff
@@ -23,7 +24,7 @@
 1 Deflecting Swat (CMM) 214 #Counter
 1 Dross Scorpion (MRD) 164 #Combo
 1 Eldrazi Monument (PLST) CMA-216 #Buff
-1 Enlightened Tutor (DMR) 263 #Tutor
+1 Enlightened Tutor (DMR) 6 *F* #Tutor
 1 Esper Sentinel (MH2) 328 #Advantage
 1 Farewell (WHO) 1056 *F* #Wipe
 1 Fire Diamond (CMR) 309 #Ramp
@@ -44,6 +45,7 @@
 1 Lae'zel, Vlaakith's Champion (CLB) 29 *F* #Buff
 1 Land Tax (WOT) 9 *F* #Ramp
 1 Losheel, Clockwork Scholar (BRC) 73 #Protection
+1 Lotus Field (SLC) 2023 *F* #Land
 1 Mana Tithe (TSR) 26 #Counter
 1 Marble Diamond (CMR) 323 #Ramp
 1 Matter Reshaper (CMM) 806 #Advantage
@@ -70,6 +72,7 @@
 1 Shimmer Myr (CMM) 409 *F* #Ramp
 1 Soul Tithe (RTR) 23 #Removal
 1 Spectrum Sentinel (BRO) 244 #Protection
+1 Springleaf Drum (BRR) 118 *F* #Ramp
 1 Stromkirk Occultist (C19) 153 #Advantage
 1 Sword of Hearth and Home (LTC) 354 *F* #Ramp
 1 Sword of the Animist (LTC) 355 #Ramp
@@ -86,6 +89,7 @@
 1 Triskelion (DMR) 452 *F* #Board
 1 Virtue of Loyalty / Ardenvale Fealty (WOE) 277 #Buff
 1 Wake the Past (PIP) 221 #Recursion
+1 Walking Atlas (WWK) 131 #Ramp
 1 Wandering Archaic / Explore the Vastlands (STX) 6 #Counter
 1 Wild Ricochet (SCD) 169 #Counter
 1 Worn Powerstone (LTC) 293 #Ramp
