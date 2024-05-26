@@ -2,11 +2,11 @@
 1 All That Glitters (ELD) 2 *F* #Buff
 1 Angelic Gift (CMR) 7 *F* #Advantage
 1 Arcane Signet (CMM) 367 #Ramp
-1 Ash Barrens (NCC) 386 #Land
-1 Barren Moor (C21) 277 #Land
-1 Blasted Landscape (CM2) 238 #Land
+1 Ash Barrens (NCC) 386 #Ramp
+1 Barren Moor (C21) 277 #Advantage
+1 Blasted Landscape (CM2) 238 #Advantage
 1 Bloodthirsty Aerialist (M20) 91 *F* #Board
-1 Bojuka Bog (MKC) 250 #Land
+1 Bojuka Bog (MKC) 250 #Removal
 1 Brightclimb Pathway / Grimclimb Pathway (ZNR) 285 #Land
 1 Caves of Koilos (DMU) 378 #Land
 1 Command Tower (AFC) 230 #Land
@@ -43,7 +43,7 @@
 1 Malakir Rebirth / Malakir Mire (ZNR) 111 #Protection
 1 Michiko's Reign of Truth / Portrait of Michiko (NEO) 29 *F* #Buff
 1 Moon-Blessed Cleric (AFR) 26 *F* #Tutor
-1 Mortuary Mire (CLB) 900 #Land
+1 Mortuary Mire (CLB) 900 #Recursion
 1 Necromancy (MKC) 131 #Recursion
 1 Necropotence (WOT) 31 *F* #Advantage
 1 Necrosynthesis (DBL) 115 *F* #Buff
@@ -59,7 +59,7 @@
 1 Sadistic Glee (TMP) 153 #Buff
 1 Sanguine Bond (WOT) 35 #Slug
 1 Screams from Within (DST) 52 #Wipe
-1 Secluded Steppe (C13) 319 #Land
+1 Secluded Steppe (C13) 319 #Advantage
 1 Sejiri Shelter / Sejiri Glacier (ZNR) 37 #Protection
 1 Shadowy Backstreet (MKM) 268 #Land
 1 Shielded by Faith (C15) 8 #Protection
