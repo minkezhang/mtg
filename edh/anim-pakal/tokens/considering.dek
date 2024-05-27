@@ -1,9 +1,7 @@
 1 Alibou, Ancient Witness (C21) 334 #Removal
 1 Alloy Myr (PLST) MM2-201 #Ramp
-1 And They Shall Know No Fear (40K) 9 #Protection
 1 Angel of Invention (KLD) 4 #Buff
 1 Angelic Intervention (MOM) 5 #Protection
-1 Arcbound Ravager (SLD) 56 *F* #Board
 1 Aurelia, the Warleader (GK1) 77 *F* #Extra Combat
 1 Blacksmith's Skill (MH2) 381 #Protection
 1 Blood Moon (MM3) 90 #Stax
@@ -20,16 +18,14 @@
 1 Combat Celebrant (LTC) 212 #Extra Combat
 1 Condemn (ZNC) 12 #Removal
 1 Contagion Clasp (SOM) 144 #Buff
-1 Cybermen Squadron (WHO) 457 #Buff
+1 Cybermen Squadron (WHO) 1048 *F* #Buff
 1 Deflecting Swat (CMM) 214 #Counter
 1 Drifting Meadow (C13) 285 #Advantage
 1 Dross Scorpion (MRD) 164 #Combo
 1 Eldrazi Monument (PLST) CMA-216 #Buff
-1 Enlightened Tutor (DMR) 6 *F* #Tutor
 1 Esper Sentinel (MH2) 328 #Advantage
 1 Farewell (WHO) 1056 *F* #Wipe
 1 Fire Diamond (CMR) 309 #Ramp
-1 Flawless Maneuver (CMM) 459 *E* #Protection
 1 Fork (3ED) 153 #Counter
 1 Forsaken Monument (CMM) 950 #Buff
 1 Glistening Sphere (ONC) 20 #Buff
@@ -39,6 +35,7 @@
 1 Hangarback Walker (J22) 772 #Board
 1 Helm of the Host (PDOM) 217p *F* #Combo
 1 Icon of Ancestry (M20) 229 *F* #Buff
+1 Illustrious Wanderglyph (LCC) 21 *F* #Buff
 1 Iron Myr (SOM) 168 #Ramp
 1 Isochron Scepter (DDJ) 16 #Board
 1 Karn, Living Legacy (DMU) 1 *F* #Ramp
@@ -51,16 +48,17 @@
 1 Mana Tithe (TSR) 26 #Counter
 1 Marble Diamond (CMR) 323 #Ramp
 1 Matter Reshaper (CMM) 806 #Advantage
+1 Moraug, Fury of Akoum (ZNR) 300 *F* #Extra Combat
 1 Myr Battlesphere (C21) 253 #Board
 1 Myrsmith (NEC) 86 #Board
 1 Mystical Tether (OTJ) 19 #Removal
+1 Ondu Inversion / Ondu Skyruins (ZNR) 321 #Wipe
 1 Out of Time (WHO) 209 #Wipe
 1 Palladium Myr (M21) 234 #Ramp
 1 Panharmonicon (PIP) 485 #Combo
 1 Papercraft Decoy (NEO) 253 *F* #Advantage
 1 Pearl Medallion (CMM) 401 #Ramp
 1 Pentavus (CM2) 209 #Board
-1 Pyroblast (ICE) 213 #Counter
 1 Reprieve (LTR) 26 #Counter
 1 Return the Favor (OTJ) 142 #Counter
 1 Ricochet Trap (WWK) 87 #Counter
@@ -95,5 +93,6 @@
 1 Walking Atlas (WWK) 131 #Ramp
 1 Wandering Archaic / Explore the Vastlands (STX) 6 #Counter
 1 Wild Ricochet (SCD) 169 #Counter
+1 Witty Roastmaster (SNC) 131 #Buff
 1 Worn Powerstone (LTC) 293 #Ramp
 1 Zariel, Archduke of Avernus (AFR) 172 #Extra Combat

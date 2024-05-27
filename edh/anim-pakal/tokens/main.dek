@@ -1,10 +1,11 @@
 1 Aggravated Assault (WOT) 39 #Extra Combat
 1 All Is Dust (UMA) 1 #Wipe
 1 Ancient Den (C21) 276 #Land
-1 Andúril, Narsil Reforged (LTC) 491 *F* #Buff
+1 And They Shall Know No Fear (40K) 9 #Protection #PROXY
 1 Animation Module (KLD) 194 *F* #Board
 1 Arcane Signet (OTC) 252 #Ramp
 1 Arcbound Crusher (DST) 95 *F* #Board
+1 Arcbound Ravager (SLD) 56 *F* #Board
 1 Ash Barrens (C19) 227 #Ramp
 1 Ashnod's Altar (CHR) 92 #Ramp
 1 Battlefield Forge (BRO) 297 #Land
@@ -12,25 +13,26 @@
 1 Blasted Landscape (CM2) 238 #Advantage
 1 Boros Charm (OTC) 216 #Protection
 1 Cartographer's Hawk (CMM) 18 *F* #Ramp
-1 Chief of the Foundry (ORI) 225 *F* #Buff
 1 Command Tower (OTC) 280 #Land
 1 Cyberman Patrol (WHO) 174 #Buff
-1 Daretti, Scrap Savant (CM2) 4 *F* #Advantage
 1 Dawn Charm (UMA) 13 #Protection
 1 Digsite Engineer (C21) 15 #Board
 1 Dispatch (PIP) 159 #Removal
 1 Elegant Parlor (MKM) 260 #Land
 1 Endless Atlas (2XM) 251 #Advantage
+1 Enlightened Tutor (DMR) 6 *F* #PROXY #Tutor
 1 Fellwar Stone (NEC) 150 #Ramp
+1 Flawless Maneuver (CMM) 692 *F* #Protection #PROXY
+1 Flickering Ward (TMP) 19 #Protection #PROXY
 1 Flowering of the White Tree (LTR) 759 *F* #Buff
 1 Forgotten Cave (C13) 289 #Advantage
-1 Foundry Inspector (CMR) 310 #Ramp
 1 Generous Gift (CMM) 624 *F* #Removal
 1 Goblin Welder (C14) 177 #Recursion
+1 Goldnight Commander (AVR) 22 #Buff #PROXY
 1 Grateful Apparition (NCC) 202 #Buff
 1 Great Furnace (C21) 292 #Land
 1 Great Train Heist (OTJ) 331 *F* #Extra Combat
-1 Illustrious Wanderglyph (LCC) 21 *F* #Buff
+1 Impact Tremors (WOT) 44 *F* #Buff #PROXY
 1 Kabira Takedown / Kabira Plateau (ZNR) 19 #Removal
 1 Karlach, Fury of Avernus (CLB) 186 *F* #Extra Combat
 1 Karn's Bastion (RVR) 464 *F* #Buff
@@ -38,18 +40,18 @@
 1 Lapse of Certainty (CON) 9 #Counter
 1 Liberator, Urza's Battlethopter (BRO) 364 *F* #Board
 1 Loran's Escape (BRO) 14 *F* #Protection
+1 Lotus Petal (TMP) 294 #PROXY #Ramp
 1 Mask of Memory (CMR) 324 #Advantage
 1 Metallic Mimic (LCC) 308 #Buff
-1 Moraug, Fury of Akoum (ZNR) 300 *F* #Extra Combat
 8 Mountain (J22) 107 #Land
 1 Myr Retriever (CM2) 203 #Recursion
 1 Needleverge Pathway / Pillarverge Pathway (ZNR) 288 #Land
-1 Ondu Inversion / Ondu Skyruins (ZNR) 321 #Wipe
 1 Organic Extinction (MKC) 76 #Wipe
 1 Paradise Mantle (5DN) 142 #Ramp
 1 Path to Exile (OTC) 85 #Removal
 1 Pit of Offerings (LCI) 278 #Removal
-9 Plains (J22) 98 #Land
+10 Plains (J22) 98 #Land
+1 Pyroblast (ICE) 213 #Counter
 1 Rebuff the Wicked (TSR) 35 #Counter
 1 Red Elemental Blast (4ED) 218 #Counter
 1 Relentless Assault (DDT) 54 #Extra Combat
@@ -60,7 +62,6 @@
 1 Rustvale Bridge (MH2) 253 #Land
 1 Sacred Foundry (RVR) 285 #Land
 1 Scavenger Grounds (C20) 306 #Removal
-1 Scrapyard Recombiner (MH1) 227 #Tutor
 1 Scroll Rack (CMR) 699 #Advantage
 1 Secluded Steppe (C13) 319 #Advantage
 1 Seize the Day (SLD) 480 *F* #Extra Combat
@@ -69,9 +70,7 @@
 1 Skittering Cicada (CMM) 717 #Board
 1 Skullclamp (40K) 248 #Advantage
 1 Sol Ring (CMM) 410 *F* #Ramp
-1 Solemn Simulacrum (M21) 239 *F* #Ramp
 1 Spikefield Hazard / Spikefield Cave (ZNR) 166 #Removal
-1 Staff of Compleation (ONE) 358 *F* #Buff
 1 Steel Overseer (M20) 239 #Buff
 1 Stonecoil Serpent (ELD) 235 #Board
 1 Stroke of Midnight (WOE) 33 #Removal
