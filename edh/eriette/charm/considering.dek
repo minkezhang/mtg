@@ -1,6 +1,5 @@
 1 Aetherflux Reservoir (KLD) 192 #Slug
 1 Angelic Destiny (WOC) 60 #Buff
-1 Animate Dead (EMA) 78 #Recursion
 1 Archangel of Thune (2XM) 5 #Buff
 1 Archivist of Oghma (CLB) 4 #Advantage
 1 Astarion, the Decadent (CLB) 265 *F* #Slug
@@ -10,6 +9,7 @@
 1 Basri Ket (M21) 286 #Protection
 1 Benevolent Blessing (CMR) 13 #Protection
 1 Bladed Battle-Fan (MOM) 91 #Protection
+1 Blind Obedience (RVR) 303 #Stax
 1 Blood Funnel (RAV) 77 #Ramp
 1 Bloodletter of Aclazotz (LCI) 336 #Slug
 1 Blue Ward (4ED) 10 #Protection
@@ -18,8 +18,8 @@
 1 Burden of Guilt (DKA) 4 #Stax
 1 Candletrap (MID) 9 #Removal
 1 Cartographer's Hawk (CMM) 18 *F* #Ramp
+1 Chains of Custody (J22) 3 #Removal
 1 Charcoal Diamond (C14) 235 #Ramp
-1 Chariot of Victory (JOU) 159 #Trample
 1 Clawing Torment (NEO) 91 #Stax
 1 Clever Concealment (ONC) 43 #Protection
 1 Collector's Vault (WOE) 244 #Ramp
@@ -39,9 +39,7 @@
 1 Deep Gnome Terramancer (CLB) 607 #Ramp
 1 Demonic Vigor (PLST) DOM-85 #Protection
 1 Dire Fleet Hoarder (2XM) 84 #Ramp
-1 Dragon Throne of Tarkir (KTK) 219 *F* #Trample
 1 Eidolon of Countless Battles (WOC) 66 #Board
-1 Eldrazi Conscription (ROE) 3 #Trample
 1 Elspeth, Knight-Errant (MD1) 13 #Protection
 1 Equinox (LEG) 13 #Counter
 1 Essence Pulse (C21) 39 #Wipe
@@ -50,11 +48,10 @@
 1 Fake Your Own Death (OTJ) 87 #Protection
 1 Felidar Sovereign (SLD) 1182 *F* #Wincon
 1 Fellwar Stone (NEC) 150 #Ramp
-1 Forebear's Blade (CMM) 384 #Trample
 1 Fylgja (ICE) 26 #Protection
-1 Gate Smasher (DTK) 239 #Trample
 1 Genju of the Fields (BOK) 5 #Removal
 1 Gift of Fangs (VOW) 113 #Buff
+1 Greater Auramancy (WOT) 4 #Protection
 1 Greed (MH2) 274 #Advantage
 1 Gruesome Deformity (ISD) 103 #Buff
 1 Guildscorn Ward (GTC) 15 #Protection
@@ -62,7 +59,6 @@
 1 Gumdrop Poisoner / Tempt with Treats (WOE) 93 #Removal
 1 Halvar, God of Battle / Sword of the Realms (KHM) 299 #Buff
 1 Hammer of Nazahn (CMM) 388 #Protection
-1 Haunted Cloak (CMR) 313 #Trample
 1 Heliod, Sun-Crowned (THB) 259 #Buff
 1 Heliod's Punishment (THB) 21 #Stax
 1 Hero of Iroas (BNG) 17 #Ramp
@@ -72,7 +68,6 @@
 1 Kytheon, Hero of Akros / Gideon, Battle-Forged (PLST) ORI-23 #Protection
 1 Land Tax (WOT) 9 *F* #Ramp
 1 Lightning Greaves (CMA) 220 #Protection
-1 Loxodon Warhammer (ONC) 135 #Trample
 1 Mana Tithe (TSR) 26 #Counter
 1 Mantle of the Ancients (PIP) 165 #Buff
 1 Marble Diamond (CMR) 323 #Ramp
@@ -89,7 +84,6 @@
 1 Nurgle's Rot (40K) 45 #Board
 1 Nurturing Presence (VOW) 26 #Protection
 1 Oath of Lieges (EXO) 11 #Ramp
-1 Oni Possession (CHK) 135 #Trample
 1 Oppressive Rays (M15) 21 #Stax
 1 Orzhov Charm (GTC) 185 #Protection
 1 Orzhov Signet (OTC) 261 #Ramp
@@ -103,7 +97,7 @@
 1 Planar Disruption (ONE) 28 #Removal
 1 Profane Tutor (MH2) 401 #Tutor
 1 Sage's Reverie (FRF) 23 #Advantage
-1 Scroll Rack (CMR) 337 #Advantage
+1 Scroll Rack (CMR) 699 #Advantage
 1 Serra Ascendant (PLST) M11-28 #Board
 1 Shadow Lance (GPT) 14 #Buff
 1 Shadowspear (PTHB) 236p #Buff
@@ -119,9 +113,9 @@
 1 Stoneskin (CLB) 45 #Protection
 1 Swift Reconfiguration (NEC) 10 #Removal
 1 Swiftfoot Boots (CMR) 474 #Protection
-1 Sword of Vengeance (NEC) 164 #Trample
 1 Swords to Plowshares (VOC) 99 #Removal
 1 Talisman of Hierarchy (PIP) 247 #Ramp
+1 Tattoo Ward (ODY) 54 #Removal
 1 Teysa, Opulent Oligarch (MKM) 234 #Advantage
 1 The Gaffer (LTC) 12 #Advantage
 1 The Meathook Massacre (MID) 112 #Wipe
