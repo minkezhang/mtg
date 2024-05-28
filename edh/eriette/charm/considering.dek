@@ -2,6 +2,9 @@
 1 Angelic Destiny (WOC) 60 #Buff
 1 Archangel of Thune (2XM) 5 #Buff
 1 Archivist of Oghma (CLB) 4 #Advantage
+1 Archon of Sun's Grace (THB) 3
+1 Armored Skyhunter (CMR) 11
+1 Ashiok's Reaper (WOE) 79
 1 Astarion, the Decadent (CLB) 265 *F* #Slug
 1 Auramancer (DMR) 1 #Recursion
 1 Aurification (ONS) 6 #Stax
@@ -18,8 +21,10 @@
 1 Burden of Guilt (DKA) 4 #Stax
 1 Candletrap (MID) 9 #Removal
 1 Cartographer's Hawk (CMM) 18 *F* #Ramp
-1 Chains of Custody (J22) 3 #Removal
+1 Casting of Bones (ALL) 44a
+2 Chains of Custody (J22) 3 #Removal
 1 Charcoal Diamond (C14) 235 #Ramp
+1 Chosen by Heliod (THS) 5
 1 Clawing Torment (NEO) 91 #Stax
 1 Clever Concealment (ONC) 43 #Protection
 1 Collector's Vault (WOE) 244 #Ramp
@@ -35,9 +40,11 @@
 1 Dash Hopes (PLC) 68 #Counter
 1 Dawn of Hope (LTC) 164 #Advantage
 1 Daybreak Coronet (WOC) 65 #Buff
+1 Dead Man's Chest (RIX) 66
 1 Death Watch (VIS) 57 #Protection
 1 Deep Gnome Terramancer (CLB) 607 #Ramp
 1 Demonic Vigor (PLST) DOM-85 #Protection
+1 Despondency (USG) 129
 1 Dire Fleet Hoarder (2XM) 84 #Ramp
 1 Eidolon of Countless Battles (WOC) 66 #Board
 1 Elspeth, Knight-Errant (MD1) 13 #Protection
@@ -53,6 +60,7 @@
 1 Gift of Fangs (VOW) 113 #Buff
 1 Greater Auramancy (WOT) 4 #Protection
 1 Greed (MH2) 274 #Advantage
+1 Grisly Transformation (BNG) 74
 1 Gruesome Deformity (ISD) 103 #Buff
 1 Guildscorn Ward (GTC) 15 #Protection
 1 Guilty Conscience (SCG) 17 #Stax
@@ -60,6 +68,7 @@
 1 Halvar, God of Battle / Sword of the Realms (KHM) 299 #Buff
 1 Hammer of Nazahn (CMM) 388 #Protection
 1 Heliod, Sun-Crowned (THB) 259 #Buff
+1 Heliod's Pilgrim (UMA) 19
 1 Heliod's Punishment (THB) 21 #Stax
 1 Hero of Iroas (BNG) 17 #Ramp
 1 Hope Against Hope (SOI) 22 #Buff
@@ -68,12 +77,14 @@
 1 Kytheon, Hero of Akros / Gideon, Battle-Forged (PLST) ORI-23 #Protection
 1 Land Tax (WOT) 9 *F* #Ramp
 1 Lightning Greaves (CMA) 220 #Protection
+1 Lithoform Blight (ZNR) 109
 1 Mana Tithe (TSR) 26 #Counter
 1 Mantle of the Ancients (PIP) 165 #Buff
 1 Marble Diamond (CMR) 323 #Ramp
 1 Markov Purifier (VOW) 312 #Advantage
 1 Martial Impetus (C20) 28 #Stax
 1 Mask of Law and Grace (UDS) 11 #Protection
+1 Mesa Enchantress (DMR) 14
 1 Mind Stone (C21) 251 #Ramp
 1 Mindcrank (CLB) 866 #Stax
 1 Minimus Containment (AFR) 24 #Removal
@@ -84,6 +95,7 @@
 1 Nurgle's Rot (40K) 45 #Board
 1 Nurturing Presence (VOW) 26 #Protection
 1 Oath of Lieges (EXO) 11 #Ramp
+1 Ondu Spiritdancer (CMM) 756
 1 Oppressive Rays (M15) 21 #Stax
 1 Orzhov Charm (GTC) 185 #Protection
 1 Orzhov Signet (OTC) 261 #Ramp
@@ -91,23 +103,31 @@
 1 Paralyze (5ED) 185 #Stax
 1 Parasitic Impetus (C20) 46 #Stax
 1 Path to Exile (OTC) 85 #Removal
+1 Pearl-Ear, Imperial Advisor (MH3) 39
+1 Pentarch Ward (PLST) IMA-27
 1 Petrify (LCI) 30 #Removal
 1 Phyresis (MBS) 49 #Removal
 1 Planar Atlas (J22) 51 #Ramp
 1 Planar Disruption (ONE) 28 #Removal
 1 Profane Tutor (MH2) 401 #Tutor
+1 Rune of Mortality (KHM) 108
+1 Rune of Sustenance (KHM) 25
 1 Sage's Reverie (FRF) 23 #Advantage
+1 Scourgemark (THS) 105
 1 Scroll Rack (CMR) 699 #Advantage
 1 Serra Ascendant (PLST) M11-28 #Board
 1 Shadow Lance (GPT) 14 #Buff
 1 Shadowspear (PTHB) 236p #Buff
 1 Shield of Duty and Reason (APC) 16 #Protection
-1 Sigil of the Empty Throne (C15) 80 #Board
+1 Sigil of the Empty Throne (ORI) 31 #Board
 1 Sinister Possession (DGM) 29 #Stax
 1 Sky Tether (RNA) 21 #Removal
+1 Sleeper's Guile (ULG) 67
 1 Solid Footing (IKO) 31 #Buff
 1 Soul Tithe (RTR) 23 #Stax
+1 Spellbook Vendor (WOE) 31
 1 Spirit Link (DMR) 29 #Protection
+1 Spirit Loop (TSP) 42
 1 Spirit Mantle (PCA) 12 #Protection
 1 Sram, Senior Edificer (AFC) 72 #Advantage
 1 Stoneskin (CLB) 45 #Protection
@@ -120,8 +140,12 @@
 1 The Gaffer (LTC) 12 #Advantage
 1 The Meathook Massacre (MID) 112 #Wipe
 1 Thought Vessel (CMM) 414 *F* #Ramp
+1 Three Dreams (RAV) 32
 1 Tivash, Gloom Summoner (J22) 476 #Board
+1 Unquestioned Authority (CNS) 85
 1 Vampiric Link (PLC) 92 #Protection
+1 Vault of the Archangel (OTC) 339
 1 Vilis, Broker of Blood (M20) 122 #Advantage
 1 Void Mirror (MH2) 473 #Counter
+1 Well of Lost Dreams (BRR) 62
 1 Witch of the Moors (OTC) 152 #Recursion
