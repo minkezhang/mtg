@@ -40,12 +40,12 @@
 1 Dash Hopes (PLC) 68 #Counter
 1 Dawn of Hope (LTC) 164 #Advantage
 1 Daybreak Coronet (WOC) 65 #Buff
-1 Dead Man's Chest (RIX) 66 #Advantage
 1 Death Watch (VIS) 57 #Protection
 1 Deep Gnome Terramancer (CLB) 607 #Ramp
 1 Demonic Vigor (PLST) DOM-85 #Protection
 1 Despondency (USG) 129 #Advantage
 1 Dire Fleet Hoarder (2XM) 84 #Ramp
+1 Dragon Shadow (SCG) 65 #Buff
 1 Eidolon of Countless Battles (WOC) 66 #Board
 1 Elspeth, Knight-Errant (MD1) 13 #Protection
 1 Equinox (LEG) 13 #Counter
@@ -68,7 +68,6 @@
 1 Halvar, God of Battle / Sword of the Realms (KHM) 299 #Buff
 1 Hammer of Nazahn (CMM) 388 #Protection
 1 Heliod, Sun-Crowned (THB) 259 #Buff
-1 Heliod's Pilgrim (UMA) 19 #Tutor
 1 Heliod's Punishment (THB) 21 #Stax
 1 Hero of Iroas (BNG) 17 #Ramp
 1 Hope Against Hope (SOI) 22 #Buff
@@ -85,6 +84,7 @@
 1 Martial Impetus (C20) 28 #Stax
 1 Mask of Law and Grace (UDS) 11 #Protection
 1 Mesa Enchantress (DMR) 14 #Advantage
+1 Michiko's Reign of Truth / Portrait of Michiko (NEO) 29 *F* #Buff
 1 Mind Stone (C21) 251 #Ramp
 1 Mindcrank (CLB) 866 #Stax
 1 Minimus Containment (AFR) 24 #Removal
@@ -95,6 +95,7 @@
 1 Nurgle's Rot (40K) 45 #Board
 1 Nurturing Presence (VOW) 26 #Protection
 1 Oath of Lieges (EXO) 11 #Ramp
+1 Oblivion Crown (FUT) 73 #Protection
 1 Ondu Spiritdancer (CMM) 756 #Board
 1 Oppressive Rays (M15) 21 #Stax
 1 Orzhov Charm (GTC) 185 #Protection
@@ -102,7 +103,6 @@
 1 Pacifism (PLST) M20-32 #Stax
 1 Paralyze (5ED) 185 #Stax
 1 Parasitic Impetus (C20) 46 #Stax
-1 Path to Exile (OTC) 85 #Removal
 1 Pearl-Ear, Imperial Advisor (MH3) 39 #Ramp
 1 Pentarch Ward (PLST) IMA-27 #Protection
 1 Petrify (LCI) 30 #Removal
@@ -112,6 +112,7 @@
 1 Profane Tutor (MH2) 401 #Tutor
 1 Rune of Mortality (KHM) 108 #Advantage
 1 Rune of Sustenance (KHM) 25 #Advantage
+1 Sadistic Glee (TMP) 153 #Buff
 1 Sage's Reverie (FRF) 23 #Advantage
 1 Scourgemark (THS) 105 #Advantage
 1 Scroll Rack (CMR) 699 #Advantage
@@ -123,17 +124,16 @@
 1 Sinister Possession (DGM) 29 #Stax
 1 Sky Tether (RNA) 21 #Removal
 1 Sleeper's Guile (ULG) 67 #Advantage
+1 Smuggler's Share (MKC) 84 #Ramp
 1 Solid Footing (IKO) 31 #Buff
 1 Soul Tithe (RTR) 23 #Stax
 1 Spellbook Vendor (WOE) 31 #Buff
 1 Spirit Link (DMR) 29 #Protection
 1 Spirit Loop (TSP) 42 #Protection
 1 Spirit Mantle (PCA) 12 #Protection
-1 Sram, Senior Edificer (AFC) 72 #Advantage
 1 Stoneskin (CLB) 45 #Protection
 1 Swift Reconfiguration (NEC) 10 #Removal
 1 Swiftfoot Boots (CMR) 474 #Protection
-1 Swords to Plowshares (VOC) 99 #Removal
 1 Talisman of Hierarchy (PIP) 247 #Ramp
 1 Tattoo Ward (ODY) 54 #Removal
 1 Teysa, Opulent Oligarch (MKM) 234 #Advantage
@@ -144,8 +144,8 @@
 1 Tivash, Gloom Summoner (J22) 476 #Board
 1 Unquestioned Authority (CNS) 85 #Protection
 1 Vampiric Link (PLC) 92 #Protection
-1 Vault of the Archangel (OTC) 339 #Protection
+1 Veinwitch Coven (OTC) 151 #Recursion
 1 Vilis, Broker of Blood (M20) 122 #Advantage
 1 Void Mirror (MH2) 473 #Counter
-1 Well of Lost Dreams (BRR) 62 #Advantage
+1 Warehouse Tabby (WOE) 117 *F* #Board
 1 Witch of the Moors (OTC) 152 #Recursion

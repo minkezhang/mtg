@@ -1,4 +1,4 @@
-1 Abeyance (WTH) 1 #Counter #PROXY
+1 Abeyance (WTH) 1 #Counter
 1 All That Glitters (ELD) 2 *F* #Buff
 1 Angelic Gift (CMR) 7 *F* #Advantage
 1 Arcane Signet (CMM) 367 #Ramp
@@ -13,20 +13,20 @@
 1 Curse of Vengeance (C16) 12 #Advantage
 1 Dark Ritual (STA) 26 #Ramp
 1 Darksteel Mutation (CMM) 623 *F* #Removal
-1 Dawn Charm (CMR) 371 #Counter
+1 Dead Man's Chest (RIX) 66 #Advantage #PROXY
 1 Demotion (GRN) 9 #Removal
 1 Detainment Spell (TSP) 12 #Removal
 1 Elenda's Hierophant (LCC) 39 #Board
 1 Enlightened Tutor (DMR) 6 *F* #Tutor
 1 Ethereal Armor (PL23) 5 *F* #Buff
-1 Flickering Ward (TMP) 19 #Protection #PROXY
+1 Flickering Ward (TMP) 19 #Protection
 1 Ghoulish Impetus (CMM) 763 *F* #Stax
 1 Gift of Immortality (THS) 14 #Protection
 1 Glistening Oil (NPH) 62 #Removal
 1 Godless Shrine (UNF) 282 #Land
 1 Gollum, Obsessed Stalker (LTC) 26 #Slug
-1 Gryff's Boon (SOI) 20 #Buff
 1 Hateful Eidolon (THB) 101 *F* #Advantage
+1 Heliod's Pilgrim (UMA) 19 #PROXY #Tutor
 1 Helm of the Gods (ORI) 230 #Buff
 1 Idyllic Tutor (MOR) 12 #Tutor
 1 Karlov of the Ghost Council (RVR) 437 #Board
@@ -34,29 +34,27 @@
 1 Killian, Ink Duelist (STX) 197 #Ramp
 1 Knight of the White Orchid (C20) 93 #Ramp
 1 Kor Spiritdancer (BBD) 93 *F* #Advantage
-1 Lapse of Certainty (CON) 9 #Counter #PROXY
+1 Lapse of Certainty (CON) 9 #Counter
+1 Light of Promise (M21) 25 #Buff #PROXY
 1 Lord Skitter's Blessing (WOE) 340 #Advantage
 1 Lotho, Corrupt Shirriff (LTR) 213 #Ramp
 1 Lotus Petal (PLST) TMP-294 #Ramp
 1 Loyal Warhound (AFR) 363 *F* #Ramp
 1 Lurrus of the Dream-Den (MUL) 51 *F* #Recursion
 1 Malakir Rebirth / Malakir Mire (ZNR) 111 #Protection
-1 Michiko's Reign of Truth / Portrait of Michiko (NEO) 29 *F* #Buff
 1 Moon-Blessed Cleric (AFR) 26 *F* #Tutor
 1 Mortuary Mire (CLB) 900 #Recursion
 1 Necromancy (MKC) 131 #Recursion
 1 Necropotence (WOT) 31 *F* #Advantage
 1 Necrosynthesis (DBL) 115 *F* #Buff
 1 Not Dead After All (WOE) 101 *F* #Protection
-1 Oblivion Crown (FUT) 73 #Protection
-11 Plains (J22) 98 #Land
-1 Radiant Grace / Radiant Restraints (DBL) 298 *F* #Stax
+1 Path to Exile (OTC) 85 #Removal
+13 Plains (J22) 98 #Land
 1 Rebuff the Wicked (PLST) PLC-12 #Counter
 1 Redemption Arc (MKC) 324 #Stax
 1 Reliquary Tower (OTC) 312 #Land
 1 Reprieve (LTR) 26 #Counter
 1 Retether (WOC) 72 #Recursion
-1 Sadistic Glee (TMP) 153 #Buff #PROXY
 1 Sanguine Bond (WOT) 35 #Slug
 1 Screams from Within (DST) 52 #Wipe
 1 Secluded Steppe (C13) 319 #Advantage
@@ -68,15 +66,17 @@
 1 Slumbering Keepguard (WOE) 29 #Board
 1 Sol Ring (MKC) 237 #Ramp
 1 Songbirds' Blessing (WOC) 7 #Advantage
-8 Swamp (J22) 106 #Land
+1 Sram, Senior Edificer (AFC) 72 #Advantage #PROXY
+6 Swamp (J22) 106 #Land
+1 Swords to Plowshares (VOC) 99 #Removal
 1 Takenuma, Abandoned Mire (NEO) 505 *F* #Land
 1 Tenuous Truce (NCC) 87 #Advantage
 1 Test of Endurance (DMR) 414 *F* #Wincon
 1 Timely Ward (WOC) 79 #Protection
 1 Toxic Deluge (EMA) 108 *F* #Wipe
 1 Trespasser's Curse (AKH) 112 #Stax
-1 Veinwitch Coven (OTC) 151 #Recursion
+1 Vault of the Archangel (OTC) 339 #Protection #PROXY
 1 Viper's Kiss (THS) 109 #Removal
 1 Vito, Thorn of the Dusk Rose (M21) 362 #Slug
 1 Vizkopa Guildmage (IMA) 211 #Slug
-1 Warehouse Tabby (WOE) 117 *F* #Board
+1 Well of Lost Dreams (BRR) 62 #Advantage #PROXY
