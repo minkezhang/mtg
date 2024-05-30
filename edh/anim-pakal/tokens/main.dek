@@ -1,3 +1,4 @@
+1 Abeyance (WTH) 1 #Counter #PROXY
 1 Aggravated Assault (WOT) 39 #Extra Combat
 1 All Is Dust (UMA) 1 #Wipe
 1 Ancient Den (C21) 276 #Land
@@ -9,24 +10,23 @@
 1 Ash Barrens (C19) 227 #Ramp
 1 Ashnod's Altar (CHR) 92 #Ramp
 1 Battlefield Forge (BRO) 297 #Land
+1 Blacksmith's Skill (MH2) 381 #Protection #PROXY
 1 Blade of the Bloodchief (LCC) 300 #Buff
 1 Blasted Landscape (CM2) 238 #Advantage
 1 Boros Charm (OTC) 216 #Protection
 1 Cartographer's Hawk (CMM) 18 *F* #Ramp
 1 Command Tower (OTC) 280 #Land
 1 Cyberman Patrol (WHO) 174 #Buff
-1 Dawn Charm (UMA) 13 #Protection
 1 Digsite Engineer (C21) 15 #Board
 1 Dispatch (PIP) 159 #Removal
 1 Elegant Parlor (MKM) 260 #Land
-1 Endless Atlas (2XM) 251 #Advantage
 1 Enlightened Tutor (DMR) 6 *F* #PROXY #Tutor
-1 Fellwar Stone (NEC) 150 #Ramp
 1 Flawless Maneuver (CMM) 692 *F* #Protection #PROXY
 1 Flickering Ward (TMP) 19 #Protection #PROXY
 1 Flowering of the White Tree (LTR) 759 *F* #Buff
 1 Forgotten Cave (C13) 289 #Advantage
 1 Generous Gift (CMM) 624 *F* #Removal
+1 Goblin Engineer (MH1) 128 #PROXY #Tutor
 1 Goblin Welder (C14) 177 #Recursion
 1 Goldnight Commander (AVR) 22 #Buff #PROXY
 1 Grateful Apparition (NCC) 202 #Buff
@@ -37,20 +37,19 @@
 1 Karlach, Fury of Avernus (CLB) 186 *F* #Extra Combat
 1 Karn's Bastion (RVR) 464 *F* #Buff
 1 Knight of the White Orchid (VOC) 92 #Ramp
-1 Lapse of Certainty (CON) 9 #Counter
 1 Liberator, Urza's Battlethopter (BRO) 364 *F* #Board
 1 Loran's Escape (BRO) 14 *F* #Protection
 1 Lotus Petal (TMP) 294 #PROXY #Ramp
+1 Loyal Warhound (PLST) AFR-23 #PROXY #Ramp
 1 Mask of Memory (CMR) 324 #Advantage
 1 Metallic Mimic (LCC) 308 #Buff
 8 Mountain (J22) 107 #Land
-1 Myr Retriever (CM2) 203 #Recursion
 1 Needleverge Pathway / Pillarverge Pathway (ZNR) 288 #Land
 1 Organic Extinction (MKC) 76 #Wipe
 1 Paradise Mantle (5DN) 142 #Ramp
 1 Path to Exile (OTC) 85 #Removal
 1 Pit of Offerings (LCI) 278 #Removal
-10 Plains (J22) 98 #Land
+11 Plains (J22) 98 #Land
 1 Pyroblast (ICE) 213 #Counter
 1 Rebuff the Wicked (TSR) 35 #Counter
 1 Red Elemental Blast (4ED) 218 #Counter
@@ -68,16 +67,16 @@
 1 Sejiri Shelter / Sejiri Glacier (ZNR) 37 #Protection
 1 Silence (M14) 35 #Counter
 1 Skittering Cicada (CMM) 717 #Board
+1 Skrelv, Defector Mite (ONE) 33 #Protection #PROXY
 1 Skullclamp (40K) 248 #Advantage
 1 Sol Ring (CMM) 410 *F* #Ramp
 1 Spikefield Hazard / Spikefield Cave (ZNR) 166 #Removal
 1 Steel Overseer (M20) 239 #Buff
 1 Stonecoil Serpent (ELD) 235 #Board
 1 Stroke of Midnight (WOE) 33 #Removal
+1 Swiftfoot Boots (CLB) 339 #Protection #PROXY
 1 Swords to Plowshares (VOC) 99 #Removal
-1 Talisman of Conviction (CMM) 978 #Ramp
 1 Tibalt's Trickery (KHM) 360 *F* #Counter
-1 Tomb of the Spirit Dragon (CMM) 1048 #Protection
 1 Triskelavus (CM2) 226 #Board
 1 Valakut Awakening / Valakut Stoneforge (ZNR) 355 #Advantage
 1 Warleader's Call (PMKM) 242s *F* #Buff
