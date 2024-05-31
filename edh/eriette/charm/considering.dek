@@ -36,6 +36,7 @@
 1 Curse of Silence (MID) 15 #Stax
 1 Curse of the Restless Dead (MIC) 56 #Board
 1 Daily Regimen (DDL) 18 #Buff
+1 Dark Confidant (RVR) 71 #Advantage
 1 Darksteel Plate (MBS) 104 #Protection
 1 Dash Hopes (PLC) 68 #Counter
 1 Dawn of Hope (LTC) 164 #Advantage
@@ -107,9 +108,11 @@
 1 Pentarch Ward (PLST) IMA-27 #Protection
 1 Petrify (LCI) 30 #Removal
 1 Phyresis (MBS) 49 #Removal
+1 Phyrexian Arena (ONE) 384 #Advantage
 1 Planar Atlas (J22) 51 #Ramp
 1 Planar Disruption (ONE) 28 #Removal
 1 Profane Tutor (MH2) 401 #Tutor
+1 Radiant Grace / Radiant Restraints (DBL) 298 *F* #Stax
 1 Rune of Mortality (KHM) 108 #Advantage
 1 Rune of Sustenance (KHM) 25 #Advantage
 1 Sadistic Glee (TMP) 153 #Buff
@@ -130,7 +133,7 @@
 1 Spellbook Vendor (WOE) 31 #Buff
 1 Spirit Link (DMR) 29 #Protection
 1 Spirit Loop (TSP) 42 #Protection
-1 Spirit Mantle (PCA) 12 #Protection
+1 Spirit Mantle (CMR) 385 #Protection
 1 Stoneskin (CLB) 45 #Protection
 1 Swift Reconfiguration (NEC) 10 #Removal
 1 Swiftfoot Boots (CMR) 474 #Protection
@@ -142,7 +145,8 @@
 1 Thought Vessel (CMM) 414 *F* #Ramp
 1 Three Dreams (RAV) 32 #Tutor
 1 Tivash, Gloom Summoner (J22) 476 #Board
-1 Unquestioned Authority (CNS) 85 #Protection
+1 Underworld Connections (PW24) 9 *F* #Advantage
+1 Unquestioned Authority (CMR) 389 #Protection
 1 Vampiric Link (PLC) 92 #Protection
 1 Veinwitch Coven (OTC) 151 #Recursion
 1 Vilis, Broker of Blood (M20) 122 #Advantage
