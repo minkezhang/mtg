@@ -7,7 +7,7 @@
 1 Ashiok's Reaper (WOE) 79 #Advantage
 1 Astarion, the Decadent (CLB) 265 *F* #Slug
 1 Auramancer (DMR) 1 #Recursion
-1 Aurification (ONS) 6 #Stax
+1 Aurification (ONS) 6 *F* #Stax
 1 Aven Interrupter (OTJ) 4 #Counter
 1 Basri Ket (M21) 286 #Protection
 1 Benevolent Blessing (CMR) 13 #Protection
@@ -47,11 +47,10 @@
 1 Despondency (USG) 129 #Advantage
 1 Dire Fleet Hoarder (2XM) 84 #Ramp
 1 Dragon Shadow (SCG) 65 #Buff
-1 Eidolon of Countless Battles (WOC) 66 #Board
 1 Elspeth, Knight-Errant (MD1) 13 #Protection
 1 Equinox (LEG) 13 #Counter
 1 Essence Pulse (C21) 39 #Wipe
-1 Eternal Thirst (M15) 95 #Buff
+1 Eternal Thirst (IMA) 89 *F* #Buff
 1 Exquisite Blood (AVR) 102 #Protection
 1 Fake Your Own Death (OTJ) 87 #Protection
 1 Felidar Sovereign (SLD) 1182 *F* #Wincon
@@ -138,12 +137,13 @@
 1 Swift Reconfiguration (NEC) 10 #Removal
 1 Swiftfoot Boots (CMR) 474 #Protection
 1 Talisman of Hierarchy (PIP) 247 #Ramp
-1 Tattoo Ward (ODY) 54 #Removal
+1 Tattoo Ward (ODY) 54 *F* #Removal
 1 Teysa, Opulent Oligarch (MKM) 234 #Advantage
 1 The Gaffer (LTC) 12 #Advantage
 1 The Meathook Massacre (MID) 112 #Wipe
 1 Thought Vessel (CMM) 414 *F* #Ramp
 1 Three Dreams (RAV) 32 #Tutor
+1 Timely Ward (WOC) 79 #Protection
 1 Tivash, Gloom Summoner (J22) 476 #Board
 1 Underworld Connections (PW24) 9 *F* #Advantage
 1 Unquestioned Authority (CMR) 389 #Protection
