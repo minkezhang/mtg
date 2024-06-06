@@ -3,6 +3,7 @@
 1 Andúril, Narsil Reforged (LTC) 491 *F* #Buff
 1 Angel of Invention (KLD) 4 #Buff
 1 Angelic Intervention (MOM) 5 #Protection
+1 Anointed Procession (AKH) 2 #Buff
 1 Aurelia, the Warleader (GK1) 77 *F* #Extra Combat
 1 Blood Moon (MM3) 90 #Stax
 1 Bolt Bend (WAR) 115 #Counter
@@ -12,6 +13,7 @@
 1 Buried Ruin (C18) 239 #Recursion
 1 Burnished Hart (CMM) 373 *F* #Ramp
 1 Cathars' Crusade (C14) 67 #Buff
+1 Chief of the Foundry (ORI) 225 *F* #Buff
 1 Citadel Siege (C21) 85 #Buff
 1 Clockwork Fox (CLB) 308 *F* #Advantage
 1 Coldsteel Heart (2X2) 301 #Ramp
@@ -47,16 +49,21 @@
 1 Krenko, Mob Boss (RVR) 335 #Board
 1 Lae'zel, Vlaakith's Champion (CLB) 29 *F* #Buff
 1 Land Tax (WOT) 9 *F* #Ramp
+1 Lapse of Certainty (CON) 9 #Counter
 1 Last-Ditch Effort (ULG) 83 #Removal
 1 Losheel, Clockwork Scholar (BRC) 73 #Protection
 1 Lotus Field (SLC) 2023 *F* #Land
 1 Mana Tithe (TSR) 26 #Counter
 1 Marble Diamond (CMR) 323 #Ramp
 1 Matter Reshaper (CMM) 806 #Advantage
+1 Mondrak, Glory Dominus (ONE) 23 #Buff
 1 Moraug, Fury of Akoum (ZNR) 300 *F* #Extra Combat
 1 Myr Battlesphere (C21) 253 #Board
+1 Myr Retriever (CM2) 203 #Recursion
 1 Myrsmith (NEC) 86 #Board
 1 Mystical Tether (OTJ) 19 #Removal
+1 Noble Heritage (CLB) 478 *E* #Protection
+1 Ojer Taq, Deepest Foundation / Temple of Civilization (LCI) 314 #Buff
 1 Ondu Inversion / Ondu Skyruins (ZNR) 321 #Wipe
 1 Out of Time (WHO) 209 #Wipe
 1 Palladium Myr (M21) 234 #Ramp
@@ -69,10 +76,12 @@
 1 Return the Favor (OTJ) 142 #Counter
 1 Ricochet Trap (WWK) 87 #Counter
 1 Rings of Brighthearth (LTC) 352 *F* #Counter
+1 Roaming Throne (LCI) 344 #Buff
 1 Rootborn Defenses (RTR) 19 #Protection
 1 Ruby Medallion (CMM) 405 #Ramp
 1 Scarecrone (EVE) 172 #Recursion
 1 Scrap Trawler (C21) 260 #Recursion
+1 Scrapyard Recombiner (MH1) 227 #Tutor
 1 Seething Song (9ED) 216 #Ramp
 1 Shield Sphere (ALL) 129 #Protection
 1 Shimmer Myr (CMM) 409 *F* #Ramp
@@ -86,6 +95,7 @@
 1 Sword of Hearth and Home (LTC) 354 *F* #Ramp
 1 Sword of the Animist (LTC) 355 #Ramp
 1 Sword of Truth and Justice (H1R) 32 *F* #Buff
+1 Talisman of Conviction (CMM) 978 #Ramp
 1 The Immortal Sun (CMM) 393 *F* #Ramp
 1 The Mycosynth Gardens (ONE) 402 #Clone
 1 Thopter Squadron (EXO) 140 #Board

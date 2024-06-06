@@ -10,7 +10,7 @@
 1 Ash Barrens (C19) 227 #Ramp
 1 Ashnod's Altar (CHR) 92 #Ramp
 1 Battlefield Forge (BRO) 297 #Land
-1 Blacksmith's Skill (MH2) 381 #Protection #PROXY
+1 Blacksmith's Skill (MH2) 381 *F* #Protection
 1 Blade of the Bloodchief (LCC) 300 #Buff
 1 Blasted Landscape (CM2) 238 #Advantage
 1 Boros Charm (OTC) 216 #Protection
@@ -26,7 +26,7 @@
 1 Flowering of the White Tree (LTR) 759 *F* #Buff
 1 Forgotten Cave (C13) 289 #Advantage
 1 Generous Gift (CMM) 624 *F* #Removal
-1 Goblin Engineer (MH1) 128 #PROXY #Tutor
+1 Goblin Engineer (H1R) 16 *E* #Tutor
 1 Goblin Welder (C14) 177 #Recursion
 1 Goldnight Commander (AVR) 22 #Buff
 1 Grateful Apparition (NCC) 202 #Buff
@@ -40,7 +40,7 @@
 1 Liberator, Urza's Battlethopter (BRO) 364 *F* #Board
 1 Loran's Escape (BRO) 14 *F* #Protection
 1 Lotus Petal (TMP) 294 #Ramp
-1 Loyal Warhound (PLST) AFR-23 #PROXY #Ramp
+1 Loyal Warhound (AFR) 363 #Ramp
 1 Mask of Memory (CMR) 324 #Advantage
 1 Metallic Mimic (LCC) 308 #Buff
 8 Mountain (J22) 107 #Land
@@ -67,14 +67,14 @@
 1 Sejiri Shelter / Sejiri Glacier (ZNR) 37 #Protection
 1 Silence (M14) 35 #Counter
 1 Skittering Cicada (CMM) 717 #Board
-1 Skrelv, Defector Mite (ONE) 33 #Protection #PROXY
+1 Skrelv, Defector Mite (ONE) 301 *F* #Protection
 1 Skullclamp (40K) 248 #Advantage
 1 Sol Ring (CMM) 410 *F* #Ramp
 1 Spikefield Hazard / Spikefield Cave (ZNR) 166 #Removal
 1 Steel Overseer (M20) 239 #Buff
 1 Stonecoil Serpent (ELD) 235 #Board
 1 Stroke of Midnight (WOE) 33 #Removal
-1 Swiftfoot Boots (CLB) 339 #Protection #PROXY
+1 Swiftfoot Boots (BRR) 121 *F* #Protection
 1 Swords to Plowshares (VOC) 99 #Removal
 1 Tibalt's Trickery (KHM) 360 *F* #Counter
 1 Triskelavus (CM2) 226 #Board
