@@ -13,18 +13,19 @@
 1 Cabal Ritual (TOR) 51 #Ramp
 1 Chainer, Dementia Master (CMM) 144 #Recursion
 1 Clattering Augur (MH2) 79 #Advantage
+1 Dark Impostor (VOC) 127 #Board
 1 Dark Ritual (SUM) 99 #Ramp
 1 Dash Hopes (PLC) 68 #Counter
 1 Demonic Collusion (TSP) 103 #Tutor
 1 Diabolic Tutor (PW24) 13 *F* #Tutor
-1 Dismember (NPH) 57 #Removal
 1 Doomsday (PLST) WTH-66 #Tutor
 1 Dread Shade (DOM) 88 #Board
 1 Dredge (INV) 103 #Advantage
 1 Exsanguinate (SOM) 61 #Slug
+1 Finale of Eternity (WAR) 91 #Board
 1 Footbottom Feast (LRW) 115 #Recursion
+1 Force of Despair (MH1) 92 #Removal
 1 Forever Young (ELD) 89 #Recursion
-1 Ghoulcaller Gisa (JMP) 236 #Board
 1 Gisa, Glorious Resurrector (MID) 314 #Board
 1 Glistening Oil (NPH) 62 #Infect
 1 Grave Consequences (JUD) 67 #Removal
@@ -45,6 +46,7 @@
 1 Necromancy (MKC) 131 #Recursion
 1 Peer into the Abyss (M21) 117 #Advantage
 1 Phyrexian Obliterator (ONE) 308 #Board
+1 Pit of Offerings (LCI) 278 #Removal
 1 Postmortem Lunge (NPH) 70 #Recursion
 1 Pox (ICE) 158 #Slug
 1 Profane Transfusion (CMR) 145 #Slug
@@ -55,9 +57,9 @@
 1 Smallpox (TSR) 139 #Removal
 1 Sol Ring (MIC) 162 #Ramp
 1 Soul Conduit (NPH) 158 #Slug
-37 Swamp (OTJ) 282 #Land
+35 Swamp (OTJ) 282 #Land
 1 Takenuma, Abandoned Mire (NEO) 278 #Recursion
 1 Toxic Deluge (MH3) 277 #Wipe
-1 Vraska's Fall (ONE) 116 #Removal
+1 Warping Wail (CMM) 812 #Counter
 1 You Are Already Dead (NEO) 129 #Removal
 1 Zuran Orb (MH2) 300 #Protection
