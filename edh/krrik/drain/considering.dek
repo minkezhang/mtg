@@ -1,5 +1,5 @@
 1 Agent of the Shadow Thieves (CLB) 108 #Protection
-1 Animate Dead (4ED) 118 #Recursion
+1 Animate Dead (EMA) 78 #Recursion
 1 Archon of Cruelty (MH2) 75 #Advantage
 1 Ashes to Ashes (5ED) 141 #Removal
 1 Asmodeus the Archfiend (AFR) 88 #Advantage
@@ -10,15 +10,14 @@
 1 Blightbelly Rat (ONE) 289 #Infect
 1 Brain Pry (DIS) 39 #Advantage
 1 Break the Ice (MH2) 77 #Wipe
-1 Buried Alive (MH3) 273 #Tutor
+1 Buried Alive (CM2) 59 #Tutor
 1 Burning-Rune Demon (KHM) 81 #Tutor
 1 Cabal Coffers (MH2) 301 #Ramp
 1 Cabal Stronghold (DOM) 238 #Ramp
 1 Cemetery Recruitment (J22) 385 #Recursion
 1 Corrosive Mentor (SHM) 61 #Buff
 1 Cremate (RTR) 59 #Removal
-1 Crucible of Worlds (10E) 319 #Ramp
-1 Crypt Rats (J22) 392 #Drain
+1 Crucible of Worlds (2X2) 393 *F* #Ramp
 1 Culling the Weak (EXO) 55 #Ramp
 1 Damnation (TSR) 106 #Wipe
 1 Dark Impostor (VOC) 127 #Board
@@ -33,11 +32,11 @@
 1 Dread Shade (DOM) 88 #Board
 1 Dredge (INV) 103 #Advantage
 1 Dune Mover (ONE) 226 #Ramp
-1 Exquisite Blood (JMP) 231
+1 Exquisite Blood (JMP) 231 #Protection
 1 Fated Return (BNG) 69 #Recursion
 1 Footbottom Feast (LRW) 115 #Recursion
-1 Ghoulcaller Gisa (JMP) 236 #Board
-1 Gilded Lotus (M13) 206 #Ramp
+1 Ghoulcaller Gisa (CMM) 161 #Board
+1 Gilded Lotus (CMM) 387 *F* #Ramp
 1 Glistening Oil (NPH) 62 #Infect
 1 Gravepurge (DTK) 104 #Recursion
 1 Grim Tutor (M21) 315 #Tutor
@@ -49,16 +48,16 @@
 1 Lashwrithe (C14) 245 #Buff
 1 Lembas (LTR) 243 #Advantage
 1 Lithoform Blight (ZNR) 109 #Advantage
-1 Massacre Girl (OTC) 140 #Wipe
+1 Massacre Girl (SLD) 1233 *F* #Wipe
 1 Massacre Girl, Known Killer (MKM) 344 #Buff
 1 Memorial to Folly (DOM) 242 #Recursion
-1 Mikaeus, the Unhallowed (CMM) 675 #Protection
+1 Mikaeus, the Unhallowed (CMM) 173 #Protection
 1 Mirrex (ONE) 400 #Infect
 1 Mithril Coat (LTR) 790 *F* #Protection
 1 Mutilate (40K) 203 #Wipe
 1 Myr Convert (ONE) 297 #Ramp
 1 Necromantic Selection (AFC) 103 #Wipe
-1 Necropotence (WOT) 31 #Advantage
+1 Necropotence (WOT) 31 *F* #Advantage
 1 Necroskitter (MM2) 88 #Board
 1 Needle Specter (PLST) EVE-39 #Removal
 1 Nihil Spellbomb (A25) 226 #Removal
@@ -78,16 +77,17 @@
 1 Saw in Half (UNF) 88 #Removal
 1 Septic Rats (MBS) 55 #Infect
 1 Sewers of Estark (PHPR) 2 #Protection
+1 Shard of the Nightbringer (40K) 55 #Drain
 1 Smallpox (TSR) 139 #Removal
 1 Snuff Out (WHO) 222 #Removal
-1 Soul Conduit (NPH) 158 #Drain
 1 Stench of Evil (ICE) 165 #Wipe
 1 Swamp Mosquito (ALL) 63a #Infect
-1 Takenuma, Abandoned Mire (NEO) 278 #Recursion
+1 Takenuma, Abandoned Mire (NEO) 505 *F* #Recursion
 1 Temporal Extortion (PLC) 81 #Wincon
 1 The Black Gate (LTC) 80 #Wincon
 1 Toxic Nim (NPH) 75 #Infect
 1 Vector Asp (SOM) 219 #Infect
+1 Victimize (MH3) 278 #Recursion
 1 Vraska, Betrayal's Sting (ONE) 115 #Advantage
 1 Vraska's Fall (ONE) 116 #Removal
 1 Warping Wail (CMM) 812 #Counter
