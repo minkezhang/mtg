@@ -2,6 +2,7 @@
 1 Battle-Rage Blessing (DMU) 80 #Protection
 1 Black Sun's Zenith (MBS) 39 #Wipe
 1 Bladed Battle-Fan (MOM) 91 #Protection
+1 Bleed Dry (VOW) 94 #Removal
 1 Blood Celebrant (LGN) 61 #Ramp
 1 Bojuka Bog (WWK) 132 #Removal
 1 Braids, Arisen Nightmare (DMU) 84 #Removal
@@ -10,9 +11,11 @@
 1 Chainer, Dementia Master (DMR) 299 #Recursion
 1 Clattering Augur (MH2) 79 #Board
 1 Cling to Dust (THB) 87 #Removal
+1 Crypt Rats (J22) 392 #PROXY #Wipe
 1 Crystal Vein (6ED) 322 #Ramp
 1 Dark Ritual (MMQ) 129 #Ramp
 1 Diabolic Tutor (KLD) 75 *F* #Tutor
+1 Dismember (MM2) 79 #Removal
 1 Doomsday (PLST) WTH-66 #Tutor
 1 Dread Presence (J22) 403 #Advantage
 1 Elixir of Immortality (C21) 243 #Protection
@@ -25,6 +28,7 @@
 1 Gravestorm (ODY) 141 *F* #Advantage
 1 Gray Merchant of Asphodel (THB) 99 #Drain
 1 Greed (MH2) 274 #Advantage
+1 Hellish Rebuke (AFC) 295 #Drain
 1 Insidious Dreams (TOR) 66 #Tutor
 1 Jet Medallion (MH3) 292 #Ramp
 1 Kaya's Ghostform (WAR) 94 #Protection
@@ -33,9 +37,7 @@
 1 Magus of the Will (2XM) 98 #Recursion
 1 Malakir Rebirth / Malakir Mire (ZNR) 111 #Protection
 1 Massacre Wurm (M21) 316 *F* #Wipe
-1 Midnight Banshee (MM2) 86 #Wipe
 1 Mirrodin Avenged (MOM) 118 #Removal
-1 Moment of Defiance (BRO) 108 #Protection
 1 Mortuary Mire (C19) 260 #Recursion
 1 Necromancy (PLST) VIS-64 #Recursion
 1 Not Dead After All (WOE) 101 #Protection
@@ -45,16 +47,13 @@
 1 Polluted Bonds (WOT) 75 *F* #Drain
 1 Pox (ICE) 158 #Drain
 1 Profane Transfusion (CMR) 145 *F* #Drain
-1 Profane Tutor (MH2) 401 *F* #Tutor
 1 Professor's Warning (STX) 84 #Protection
 1 Rain of Filth (USG) 151 #Ramp
 1 Reanimate (JMP) 270 #Recursion
 1 Reliquary Tower (M13) 227 #Land
-1 Sickening Dreams (TOR) 83 #Wipe
 1 Sign in Blood (M13) 110 #Advantage
-1 Sins of the Past (RAV) 106 #Recursion
 1 Sol Ring (PLG22) 1 *F* #Ramp
-32 Swamp (MH3) 314 #Land
+33 Swamp (MH3) 314 #Land
 1 Tainted Strike (SOM) 80 #Infect
 1 Thought Vessel (MKC) 245 #Ramp
 1 Thran Dynamo (C19) 225 #Ramp

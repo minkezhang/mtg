@@ -6,7 +6,6 @@
 1 Balthor the Defiled (JUD) 61 #Recursion
 1 Beseech the Queen (V16) 1 *F* #Tutor
 1 Bilious Skulldweller (ONE) 83 #Infect
-1 Bleed Dry (VOW) 94 #Removal
 1 Blightbelly Rat (ONE) 289 #Infect
 1 Brain Pry (DIS) 39 #Advantage
 1 Break the Ice (MH2) 77 #Wipe
@@ -27,8 +26,8 @@
 1 Decanter of Endless Water (CLB) 444 #Ramp
 1 Decree of Pain (CMM) 148 #Wipe
 1 Demonic Collusion (TSP) 103 #Tutor
+1 Demonic Consultation (ICE) 121 #Tutor
 1 Diabolic Intent (BRO) 89 #Tutor
-1 Dismember (MM2) 79 #Removal
 1 Dread Shade (DOM) 88 #Board
 1 Dredge (INV) 103 #Advantage
 1 Dune Mover (ONE) 226 #Ramp
@@ -54,6 +53,7 @@
 1 Mikaeus, the Unhallowed (CMM) 173 #Protection
 1 Mirrex (ONE) 400 #Infect
 1 Mithril Coat (LTR) 790 *F* #Protection
+1 Moment of Defiance (BRO) 108 #Protection
 1 Mutilate (40K) 203 #Wipe
 1 Myr Convert (ONE) 297 #Ramp
 1 Necromantic Selection (AFC) 103 #Wipe
@@ -70,6 +70,7 @@
 1 Plague Wind (8ED) 155 #Wipe
 1 Postmortem Lunge (NPH) 70 #Recursion
 1 Praetor's Grasp (NPH) 71 #Removal
+1 Profane Tutor (MH2) 401 *F* #Tutor
 1 Reassembling Skeleton (PLST) M19-116 #Board
 1 Resourceful Return (AER) 70 #Recursion
 1 Restless Dreams (TOR) 79 #Recursion
@@ -78,8 +79,11 @@
 1 Septic Rats (MBS) 55 #Infect
 1 Sewers of Estark (PHPR) 2 #Protection
 1 Shard of the Nightbringer (40K) 55 #Drain
+1 Sickening Dreams (TOR) 83 #Wipe
+1 Sins of the Past (RAV) 106 #Recursion
 1 Smallpox (TSR) 139 #Removal
 1 Snuff Out (WHO) 222 #Removal
+1 Soul Conduit (NPH) 158 #Drain
 1 Stench of Evil (ICE) 165 #Wipe
 1 Swamp Mosquito (ALL) 63a #Infect
 1 Takenuma, Abandoned Mire (NEO) 505 *F* #Recursion
