@@ -1,6 +1,8 @@
+1 Aqueous Form (CMR) 56 #Trample
 1 Arcane Denial (M3C) 176 #Counter
 1 Arcane Signet (MKC) 223 #Ramp
 1 Archmage Emeritus (OTC) 90 #Advantage
+1 Artful Dodge (DKA) 27 #Trample
 1 Ash Barrens (40K) 265 #Ramp
 1 Ashling, Flame Dancer (MH3) 115 #Advantage
 1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (KHM) 311 #Ramp
@@ -11,61 +13,61 @@
 1 Command Tower (CLB) 351 #Land
 1 Counterflux (RTR) 153 #Counter
 1 Counterspell (CMR) 395 #Counter
-1 Crash Through (M19) 133 #Trample
+1 Crimson Wisps (SHM) 88 #Trample
 1 Delay (PLST) FUT-35 *F* #Counter
 1 Desperate Ritual (DDS) 14 #Ramp
 1 Dramatic Reversal (KLD) 44 #Ramp
+1 Dream Fracture (CLB) 66 #Counter
 1 Dualcaster Mage (CMR) 412 #Fork
 1 Electrolyze (MM2) 174 #Burn
 1 Electrostatic Field (OTC) 164 #Storm
 1 Emergence Zone (WAR) 245 #Flash
 1 Errant, Street Artist (SNC) 344 #Fork
+1 Expedite (OGW) 108 #Trample
 1 Expedition Map (M3C) 292 #Tutor
 1 Faithless Looting (M3C) 211 #Advantage
-1 Fists of Flame (MH1) 123 #Trample
 1 Fork (3ED) 153 #Fork
-1 Fury of the Horde (DDN) 30 #Extra Combat
 1 Galvanic Blast (PLST) DDU-45 #Burn
 1 Gamble (DMR) 321 #Tutor
+1 Gitaxian Probe (NPH) 35 #Advantage
 1 Goblin Engineer (MH1) 128 #Tutor
-1 Great Train Heist (POTJ) 125p #Extra Combat
+1 Harbinger of the Seas (MH3) 63 #Protection
 1 Increasing Vengeance (C19) 147 #Fork
-14 Island (OTJ) 280 #Land
+15 Island (OTJ) 280 #Land
 1 Izzet Guildmage (RVR) 191 #Fork
 1 Izzet Signet (LCC) 306 #Ramp
+1 Krark's Thumb (MRD) 190 #Advantage
 1 Lightning Bolt (CLB) 401 #Burn
 1 Lotus Petal (P30M) 2 *E* #Ramp
 1 Metamorphic Blast (OTJ) 57 #Removal
-8 Mountain (SUM) 303 #Land
+1 Mist of Stagnation (JUD) 48 #Protection
+7 Mountain (SUM) 303 #Land
+1 Mystical Tutor (DMR) 289 #Tutor
 1 Narset's Reversal (PWAR) 62p #Counter
 1 Negate (AER) 40 #Counter
 1 Personal Tutor (CMM) 633 #Tutor
-1 Pinnacle Monk / Mystic Peak (MH3) 246 #Recursion
 1 Ponder (M12) 73 #Advantage
-1 Preordain (CMR) 84 #Advantage
 1 Propaganda (M3C) 191 #Protection
 1 Pyretic Ritual (PLST) M11-153 *F* #Ramp
 1 Ral, Storm Conduit (SLD) 523 *F* #Storm
 1 Reckless Handling (MAT) 69 #Tutor
-1 Relentless Assault (8ED) 214 #Extra Combat
+1 Reliquary Tower (PLG20) 1 *F* #Land
 1 Reverberate (40K) 207 #Fork
 1 Riverglide Pathway / Lavaglide Pathway (ZNR) 289 #Land
 1 Runaway Steam-Kin (GRN) 115 #Ramp
-1 Seize the Day (SLD) 480 #Extra Combat
 1 Shadow Rift (TMP) 86 #Trample
 1 Shivan Reef (M3C) 375 #Land
 1 Silent Arbiter (5DN) 150 #Protection
 1 Silent Departure (EMA) 72 #Removal
 1 Sink into Stupor / Soporific Springs (MH3) 241 #Removal
-1 Slip Through Space (OGW) 47 #Trample
 1 Snap (PLST) DDS-10 #Removal
 1 Snapback (TSR) 87 #Removal
 1 Sol Ring (M3C) 305 #Ramp
-1 Solve the Equation (STX) 54 #Tutor
 1 Spikefield Hazard / Spikefield Cave (ZNR) 166 #Burn
 1 Steam Vents (RTR) 247 #Land
+1 Stern Dismissal (THB) 68 #Removal
 1 Storm-Kiln Artist (OTC) 181 #Ramp
-1 Stubborn Denial (KTK) 56 #Counter
+1 Swan Song (LTC) 197 #Counter
 1 Talisman of Creativity (M3C) 308 #Ramp
 1 Thermo-Alchemist (MID) 164 #Storm
 1 Tibalt's Trickery (KHM) 360 #Counter
@@ -73,7 +75,5 @@
 1 Twinning Staff (C20) 70 #Fork
 1 Urza's Cave (MH3) 234 #Tutor
 1 Vapor Snag (PLST) MM2-66 #Removal
-1 Vedalken Orrery (5DN) 163 #Flash
-1 Veyran, Voice of Duality (OTC) 248 #Storm
 1 Void Snare (M15) 82 #Removal
 1 Young Pyromancer (OTC) 185 #Storm
