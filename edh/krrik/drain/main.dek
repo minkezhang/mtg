@@ -3,6 +3,7 @@
 1 Black Sun's Zenith (MBS) 39 #Wipe
 1 Blood Celebrant (LGN) 61 #Ramp
 1 Bojuka Bog (WWK) 132 #Removal
+1 Bolas's Citadel (PLG21) 3 *F* #Advantage #PROXY
 1 Bone Harvest (MIR) 108 #PROXY #Recursion
 1 Braids, Arisen Nightmare (DMU) 84 #Removal
 1 Bubbling Muck (UDS) 54 #Ramp
@@ -17,7 +18,6 @@
 1 Diabolic Tutor (KLD) 75 *F* #Tutor
 1 Doomsday (PLST) WTH-66 #Tutor
 1 Dread Presence (J22) 403 #Advantage
-1 Eldrazi Monument (M3C) 290 #PROXY
 1 Exsanguinate (CMM) 156 #Drain
 1 Finale of Eternity (WAR) 91 #Wipe
 1 Force of Despair (MH1) 92 #Removal
@@ -25,6 +25,7 @@
 1 Gravestorm (ODY) 141 *F* #Advantage
 1 Gray Merchant of Asphodel (THB) 99 #Drain
 1 Grim Harvest (PLST) CSP-58 #PROXY #Recursion
+1 Head Games (ONS) 155 #Counter #PROXY
 1 Hellish Rebuke (AFC) 295 #Drain
 1 Imp's Mischief (OTP) 15 #Counter #PROXY
 1 Insidious Dreams (TOR) 66 #Tutor
@@ -49,9 +50,10 @@
 1 Profane Transfusion (CMR) 145 *F* #Drain
 1 Rain of Filth (USG) 151 #Ramp
 1 Reanimate (JMP) 270 #Recursion
-1 Reassembling Skeleton (GN3) 60 #Board #PROXY
+1 Reassembling Skeleton (GN3) 60 #Advantage #PROXY
 1 Reliquary Tower (M13) 227 #Land
 1 Sign in Blood (M13) 110 #Advantage
+1 Smallpox (TSR) 139 #PROXY #Removal
 1 Sol Ring (PLG22) 1 *F* #Ramp
 1 Supernatural Stamina (CMR) 151 #Protection #PROXY
 31 Swamp (MH3) 314 #Land
@@ -62,8 +64,6 @@
 1 Veinwitch Coven (OTC) 151 #PROXY #Recursion
 1 Vilis, Broker of Blood (M20) 122 *F* #Advantage
 1 Village Rites (M21) 126 #Advantage
-1 Warping Wail (CMM) 812 #Counter #PROXY
-1 Whispersilk Cloak (DDE) 23 #Protection #PROXY
 1 Witch's Cottage (ELD) 249 *F* #Recursion
 1 You Are Already Dead (NEO) 129 #Removal
 1 Zuran Orb (ICE) 350 #Protection
