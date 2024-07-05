@@ -5,7 +5,10 @@
 1 Balthor the Defiled (JUD) 61 #Recursion
 1 Beseech the Queen (V16) 1 *F* #Tutor
 1 Bilious Skulldweller (ONE) 83 #Infect
+1 Bladed Battle-Fan (MOM) 91 #Protection
+1 Bleed Dry (VOW) 94 #Removal
 1 Blightbelly Rat (ONE) 289
+1 Bone Harvest (MIR) 108 #Recursion
 1 Brain Pry (DIS) 39 #Advantage
 1 Break the Ice (MH2) 77 #Wipe
 1 Buried Alive (CM2) 59 #Tutor
@@ -13,6 +16,8 @@
 1 Cabal Coffers (MH2) 301 #Ramp
 1 Cabal Stronghold (DOM) 238 #Ramp
 1 Cemetery Recruitment (J22) 385 #Recursion
+1 Clattering Augur (MH2) 79 #Board
+1 Cling to Dust (THB) 87 #Removal
 1 Corrosive Mentor (SHM) 61 #Buff
 1 Cremate (RTR) 59 #Removal
 1 Crucible of Worlds (2X2) 393 *F* #Ramp
@@ -30,12 +35,15 @@
 1 Dredge (INV) 103 #Advantage
 1 Dune Mover (ONE) 226 #Ramp
 1 Eldrazi Monument (M3C) 290 #Protection
+1 Elixir of Immortality (C21) 243 #Protection
 1 Exquisite Blood (JMP) 231 #Protection
 1 Fated Return (BNG) 69 #Recursion
 1 Footbottom Feast (LRW) 115 #Recursion
+1 Forever Young (ELD) 89 #Recursion
 1 Ghoulcaller Gisa (CMM) 161 #Board
 1 Gilded Lotus (CMM) 387 *F* #Ramp
 1 Glistening Oil (NPH) 62 #Infect
+1 Greed (MH2) 274 #Advantage
 1 Grim Tutor (M21) 315 #Tutor
 1 Hand of the Praetors (SOM) 66 #Infect
 1 Horror of Horrors (9ED) 140 #Protection
@@ -47,9 +55,12 @@
 1 Lembas (LTR) 243 *F* #Advantage
 1 Lithoform Blight (ZNR) 109 #Advantage
 1 Living Death (A25) 96 #Recursion
+1 Magus of the Mirror (CNS) 117 #Drain
 1 Massacre Girl (SLD) 1233 *F* #Wipe
 1 Massacre Girl, Known Killer (MKM) 344 #Buff
+1 Massacre Wurm (M21) 316 *F* #Wipe
 1 Memorial to Folly (DOM) 242 #Recursion
+1 Midnight Banshee (MM2) 86 #Wipe
 1 Mikaeus, the Unhallowed (CMM) 173 #Protection
 1 Mirrex (ONE) 400 #Infect
 1 Mithril Coat (LTR) 790 *F* #Protection
@@ -60,7 +71,7 @@
 1 Necropotence (WOT) 31 *F* #Advantage
 1 Necroskitter (MM2) 88 #Board
 1 Needle Specter (PLST) EVE-39 #Removal
-1 Nettlevine Blight (LRW) 131
+1 Nettlevine Blight (LRW) 131 #Removal
 1 Nihil Spellbomb (SCD) 270 #Removal
 1 Oblivion's Hunger (ZNR) 119 #Protection
 1 Pestilent Syphoner (ONE) 103 #Infect
@@ -73,6 +84,7 @@
 1 Postmortem Lunge (NPH) 70 #Recursion
 1 Praetor's Grasp (NPH) 71 #Removal
 1 Profane Tutor (MH2) 401 *F* #Tutor
+1 Professor's Warning (STX) 84 #Protection
 1 Resourceful Return (AER) 70 #Recursion
 1 Restless Dreams (TOR) 79 #Recursion
 1 Rise of the Dark Realms (MKC) 138 #Board
@@ -89,7 +101,9 @@
 1 Takenuma, Abandoned Mire (NEO) 505 *F* #Recursion
 1 Temporal Extortion (PLC) 81 #Wincon
 1 The Black Gate (LTC) 80 #Wincon
+1 Thran Dynamo (C19) 225 #Ramp
 1 Toxic Nim (NPH) 75 #Infect
+1 Undying Malice (VOW) 134 #Protection
 1 Vector Asp (SOM) 219 #Infect
 1 Victimize (MH3) 278 #Recursion
 1 Vraska, Betrayal's Sting (ONE) 115 #Advantage
