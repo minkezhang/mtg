@@ -1,93 +1,88 @@
-1 Aether Spellbomb (MMA) 196 #Removal
+1 Abundant Growth (PIP) 194 #PROXY #Ramp
 1 Altar of Dementia (MH1) 218 #Mill
-1 Animate Dead (EMA) 78 #Recursion
 1 Arcane Denial (LTC) 184 #Counter
 1 Arcane Signet (NCC) 360 #Ramp
 1 Bala Ged Recovery / Bala Ged Sanctuary (ZNR) 180 #Recursion
 1 Barkchannel Pathway / Tidechannel Pathway (KHM) 290 #Land
-1 Birds of Paradise (SLD) 1148 *F* #Ramp
+1 Battle-Rage Blessing (DMU) 80 #Protection #PROXY
+1 Boggart Trawler / Boggart Bog (MH3) 243 #PROXY #Removal
 1 Bojuka Bog (C20) 259 #Removal
-1 Brawn (UMA) 160 *F* #Board
 1 Breeding Pool (RVR) 275 #Land
+1 Bridgeworks Battle / Tanglespan Bridgeworks (MH3) 249 #PROXY #Removal
+1 Brine Shaman (ICE) 115 #Counter #PROXY
 1 Caustic Caterpillar (J22) 86 #Removal
-1 Clearwater Pathway / Murkwater Pathway (ZNR) 286 #Land
+1 Clearwater Pathway / Murkwater Pathway (ZNR) 260 #Land
+1 Collective Restraint (INV) 49 #Protection #PROXY
 1 Command Tower (LCC) 325 #Land
 1 Consuming Aberration (GTC) 152 *F* #Board
-1 Counterspell (CMR) 632 *F* #Counter
-1 Cruel Somnophage / Can't Wake Up (WOE) 222 *F* #Board
-1 Dakmor Salvage (MMA) 222 *F* #Land
 1 Dark Ritual (3ED) 99 #Ramp
-1 Darkblast (RAV) 82 #Removal
+1 Darkblast (RAV) 82 #Mill #PROXY
 1 Darkbore Pathway / Slitherbore Pathway (KHM) 292 #Land
-1 Deathrite Shaman (SLC) 2012 *F* #Ramp
-1 Disciple of Bolas (M13) 88 #Mill
-1 Entomb (UMA) 94 *F* #Tutor
+1 Diabolic Intent (BRO) 324 #PROXY #Tutor
+1 Disrupt (WTH) 37 #Counter #PROXY
+1 Eternal Witness (MMA) 144 #PROXY #Recursion
 1 Fauna Shaman (UMA) 164 #Tutor
-1 Fiend Artisan (IKO) 350 *F* #Board
+1 Fiend Artisan (IKO) 350 *F* #Tutor
 1 Forbid (EXO) 35 #Counter
-5 Forest (J22) 112 #Land
+4 Forest (J22) 112 #Land
 1 Glasspool Mimic / Glasspool Shore (ZNR) 328 *F* #Land
-1 Glen Elendra Archmage (UMA) 58 #Counter
 1 Golgari Charm (GK1) 62 #Removal
 1 Golgari Grave-Troll (RAV) 167 #Board
 1 Golgari Thug (UMA) 98 #Recursion
+1 Grisly Salvage (F13) 11 *F* #Mill #PROXY
+1 Haywire Mite (BRO) 199 #PROXY #Removal
 1 Hedge Maze (MKM) 326 *F* #Land
 1 Hermit Druid (PLST) STH-108 #Ramp
-3 Island (J22) 103 #Land
+1 Horrific Assault (MH3) 157 #PROXY #Removal
+4 Island (J22) 103 #Land
 1 Jarad, Golgari Lich Lord (RTR) 174 #Board
-1 Jwari Disruption / Jwari Ruins (ZNR) 64 #Counter
 1 Kaya's Ghostform (WAR) 94 *F* #Protection
+1 Koskun Falls (HML) 55 #Protection #PROXY
 1 Life from the Loam (DDJ) 69 #Ramp
-1 Lightning Greaves (CMA) 220 #Protection
 1 Likeness Looter (WOE) 364 #Advantage
 1 Lim-Dûl's Vault (SLC) 1996 *F* #Advantage
 1 Llanowar Wastes (BRO) 299 #Land
 1 Lotus Petal (TMP) 294 #Ramp
 1 Malakir Rebirth / Malakir Mire (ZNR) 111 #Protection
-1 Massacre Girl (SLD) 1233 *F* #Wipe
-1 Matzalantli, the Great Door / The Core (LCI) 387 *F* #Advantage
-1 Meren of Clan Nel Toth (CMM) 685 *F* #Recursion
+1 Mausoleum Secrets (GRN) 75 #PROXY #Tutor
+1 Mental Note (JUD) 46 #Advantage #PROXY
 1 Mirror-Mad Phantasm (ISD) 68 #Mill
-1 Moon-Circuit Hacker (NEO) 334 *F* #Advantage
 1 Mortuary Mire (BFZ) 240 *F* #Recursion
-1 Narset's Reversal (WAR) 62 #Counter
-1 Neutralize (IKO) 59 #Counter
-1 Nihil Spellbomb (SCD) 270 #Removal
-1 Once Upon a Time (ELD) 169 #Ramp
-1 Opulent Palace (KTK) 238 #Land
-1 Out of the Tombs (40K) 46 #Mill
+1 Necroplasm (C16) 115 #PROXY #Wipe
+1 Noxious Revival (ONC) 110 #PROXY #Recursion
+1 Old Stickfingers (MID) 321 *F* #Board #PROXY
 1 Overgrown Tomb (GRN) 253 #Land
 1 Pernicious Deed (A25) 212 *F* #Wipe
 1 Perpetual Timepiece (KLD) 227 #Mill
 1 Pit of Offerings (LCI) 278 #Removal
-1 Reliquary Tower (CMR) 488 #Land
+1 Profane Tutor (MH2) 401 *F* #PROXY #Tutor
+1 Propaganda (OTC) 108 #Protection #PROXY
+1 Rain of Filth (USG) 151 #PROXY #Ramp
+1 Reanimate (JMP) 270 #PROXY #Recursion
+1 Reap (TMP) 247 #PROXY #Recursion
 1 Sakura-Tribe Elder (CHK) 239 #Ramp
 1 Satyr Wayfinder (M15) 198 #Ramp
 1 Scavenger Grounds (HOU) 182 *F* #Removal
-1 Scavenging Ooze (MM3) 134 *F* #Removal
+1 Silent Arbiter (CMM) 972 #Protection #PROXY
 1 Siren Stormtamer (CMR) 96 *F* #Counter
 1 Skull Prophet (IKO) 206 #Ramp
 1 Sol Ring (C17) 223 #Ramp
-1 Songs of the Damned (ICE) 160 #Ramp
 1 Souls of the Lost (LCI) 121 *F* #Board
-1 Spore Frog (MH1) 180 #Protection
 1 Stitcher's Supplier (M19) 121 #Mill
 1 Strip Mine (ZNE) 28 *F* #Land
 1 Stubborn Denial (KTK) 56 #Counter
-1 Svogthos, the Restless Tomb (RAV) 283 #Board
+6 Swamp (J22) 104 #Land
 1 Swan Song (C16) 98 #Counter
-1 Swiftfoot Boots (CMR) 474 #Protection
 1 Takenuma, Abandoned Mire (NEO) 505 *F* #Recursion
-1 The Everflowing Well / The Myriad Pools (LCI) 363 *F* #Advantage
-1 The Skullspore Nexus (LCI) 340 *F* #Board
-1 Timeless Witness (MH2) 179 *F* #Recursion
-1 Tishana's Tidebinder (LCI) 335 #Counter
+1 Terror Tide (LCI) 372 #PROXY #Wipe
+1 Throw from the Saddle (OTJ) 185 #Removal
+1 Tortured Existence (PLST) STH-74 #PROXY #Recursion
 1 Toxic Deluge (CC2) 6 #Wipe
-1 Umbris, Fear Manifest (VOC) 76 #Board
 1 Undercity Sewers (MKM) 332 *F* #Land
 1 Underground Mortuary (MKM) 333 *F* #Land
 1 Underground River (BRO) 300 #Land
+1 Utter Insignificance (MH3) 78 #PROXY #Removal
 1 Watery Grave (RVR) 291 #Land
+1 Wonder (CMA) 44 #Board #PROXY
 1 World Shaper (NCC) 323 #Ramp
 1 Yavimaya Coast (DMU) 382 #Land
-1 Zagoth Triome (IKO) 313 *F* #Land
