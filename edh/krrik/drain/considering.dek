@@ -3,6 +3,7 @@
 1 Archon of Cruelty (MH2) 75 #Advantage
 1 Asmodeus the Archfiend (AFR) 88 #Advantage
 1 Balthor the Defiled (JUD) 61 #Recursion
+1 Battle-Rage Blessing (DMU) 80 #Protection
 1 Beseech the Queen (V16) 1 *F* #Tutor
 1 Bilious Skulldweller (ONE) 83 #Infect
 1 Bladed Battle-Fan (MOM) 91 #Protection
@@ -44,8 +45,10 @@
 1 Forever Young (ELD) 89 #Recursion
 1 Ghoulcaller Gisa (CMM) 161 #Board
 1 Gilded Lotus (CMM) 387 *F* #Ramp
+1 Gisa, Glorious Resurrector (DBL) 103 *F* #Board
 1 Glistening Oil (NPH) 62 #Infect
-1 Grave Pact (CMM) 639 #PROXY #Removal
+1 Grave Consequences (JUD) 67 #Removal
+1 Grave Pact (CMM) 639 #Removal
 1 Greed (MH2) 274 #Advantage
 1 Grim Tutor (M21) 315 #Tutor
 1 Hand of the Praetors (SOM) 66 #Infect
@@ -66,6 +69,7 @@
 1 Midnight Banshee (MM2) 86 #Wipe
 1 Mikaeus, the Unhallowed (CMM) 173 #Protection
 1 Mirrex (ONE) 400 #Infect
+1 Mirrodin Avenged (MOM) 118 #Removal
 1 Mithril Coat (LTR) 790 *F* #Protection
 1 Moment of Defiance (BRO) 108 #Protection
 1 Mutilate (40K) 203 #Wipe
@@ -81,6 +85,7 @@
 1 Phyresis (MBS) 49 #Infect
 1 Phyrexian Crusader (MBS) 50 #Infect
 1 Phyrexian Obliterator (ONE) 308 #Protection
+1 Phyrexian Reclamation (ULG) 63 #Recursion
 1 Pitiless Plunderer (RIX) 81 #Ramp
 1 Plague Stinger (ONC) 96 #Infect
 1 Plague Wind (8ED) 155 #Wipe
@@ -109,6 +114,7 @@
 1 Toxic Nim (NPH) 75 #Infect
 1 Undying Malice (VOW) 134 #Protection
 1 Vector Asp (SOM) 219 #Infect
+1 Veinwitch Coven (OTC) 151 #Recursion
 1 Victimize (MH3) 278 #Recursion
 1 Vraska, Betrayal's Sting (ONE) 115 #Advantage
 1 Vraska's Fall (ONE) 116 #Removal

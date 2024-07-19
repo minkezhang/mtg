@@ -1,10 +1,9 @@
 1 Ankh of Mishra (5ED) 348 #Drain
 1 Ashes to Ashes (4ED) 119 #Removal
-1 Battle-Rage Blessing (DMU) 80 #Protection
 1 Black Sun's Zenith (MBS) 39 #Wipe
 1 Blood Celebrant (LGN) 61 #Ramp
 1 Bojuka Bog (WWK) 132 #Removal
-1 Bolas's Citadel (PLG21) 3 *F* #Advantage #PROXY
+1 Bolas's Citadel (WAR) 79 *F* #Advantage
 1 Braids, Arisen Nightmare (DMU) 84 #Removal
 1 Bubbling Muck (UDS) 54 #Ramp
 1 Cabal Ritual (V16) 2 *F* #Ramp
@@ -16,9 +15,10 @@
 1 Dark Dabbling (PLST) ORI-89 #Protection
 1 Dark Ritual (MMQ) 129 #Ramp
 1 Dash Hopes (PLC) 68 #Counter
-1 Death Cloud (PLST) DST-40 #PROXY #Removal
+1 Death Cloud (DST) 40 #Removal
 1 Diabolic Tutor (KLD) 75 *F* #Tutor
 1 Dismember (MM2) 79 #Removal
+1 Doomsday (PLST) WTH-66 #Tutor
 1 Dread Presence (J22) 403 #Advantage
 1 Exsanguinate (CMM) 156 #Drain
 1 Finale of Eternity (WAR) 91 #Wipe
@@ -27,7 +27,7 @@
 1 Gravestorm (ODY) 141 *F* #Advantage
 1 Gray Merchant of Asphodel (THB) 99 #Drain
 1 Grim Harvest (PLST) CSP-58 #Recursion
-1 Head Games (ONS) 155 #Counter #PROXY
+1 Head Games (ONS) 155 #Counter
 1 Hellish Rebuke (AFC) 295 #Removal
 1 Imp's Mischief (CMM) 167 #Counter
 1 Insidious Dreams (TOR) 66 #Tutor
@@ -44,7 +44,7 @@
 1 Peer into the Abyss (M21) 117 #Advantage
 1 Phyrexian Tribute (MIR) 134 #Removal
 1 Pit of Offerings (LCI) 278 #Removal
-1 Plaguecrafter (RVR) 89 #PROXY #Removal
+1 Plaguecrafter (RVR) 89 #Removal
 1 Polluted Bonds (WOT) 75 *F* #Drain
 1 Pox (ICE) 158 #Drain
 1 Profane Transfusion (CMR) 145 *F* #Drain
@@ -53,11 +53,11 @@
 1 Reassembling Skeleton (CMM) 183 #Advantage
 1 Reliquary Tower (M13) 227 #Land
 1 Sign in Blood (M13) 110 #Advantage
-1 Smallpox (TSR) 139 #PROXY #Removal
+1 Smallpox (TSR) 139 #Removal
 1 Sol Ring (PLG22) 1 *F* #Ramp
 1 Supernatural Stamina (AKH) 111 #Protection
 31 Swamp (MH3) 314 #Land
-1 Tainted Aether (7ED) 167 #PROXY #Removal
+1 Tainted Aether (USG) 161 #Removal
 1 Tainted Strike (SOM) 80 #Infect
 1 Thought Vessel (MKC) 245 #Ramp
 1 Toxic Deluge (MH3) 412 *F* #Wipe
