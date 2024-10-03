@@ -113,7 +113,6 @@
 1 Pentarch Ward (PLST) IMA-27 #Protection
 1 Petrify (LCI) 30 #Removal
 1 Phyresis (MBS) 49 #Removal
-1 Phyrexian Arena (ONE) 384 #Advantage
 1 Planar Atlas (J22) 51 #Ramp
 1 Planar Disruption (ONE) 28 #Removal
 1 Profane Tutor (MH2) 401 #Tutor
@@ -129,6 +128,7 @@
 1 Shadowspear (PTHB) 236p #Buff
 1 Shield of Duty and Reason (APC) 16 #Protection
 1 Sigil of the Empty Throne (ORI) 31 #Board
+1 Sign in Blood (M13) 110 #Advantage #PROXY
 1 Sinister Possession (DGM) 29 #Stax
 1 Sky Tether (RNA) 21 #Removal
 1 Sleeper's Guile (ULG) 67 #Advantage
@@ -144,7 +144,6 @@
 1 Swiftfoot Boots (CMR) 474 #Protection
 1 Talisman of Hierarchy (PIP) 247 #Ramp
 1 Tattoo Ward (ODY) 54 *F* #Removal
-1 Tenuous Truce (NCC) 87 #Advantage
 1 Teysa, Opulent Oligarch (MKM) 234 #Advantage
 1 The Gaffer (LTC) 12 #Advantage
 1 The Meathook Massacre (MID) 112 #Wipe
@@ -152,11 +151,10 @@
 1 Three Dreams (RAV) 32 #Tutor
 1 Timely Ward (WOC) 79 #Protection
 1 Tivash, Gloom Summoner (J22) 476 #Board
-1 Underworld Connections (PW24) 9 *F* #Advantage
 1 Unquestioned Authority (CMR) 389 #Protection
 1 Vampiric Link (PLC) 92 #Protection
 1 Veinwitch Coven (OTC) 151 #Recursion
-1 Vilis, Broker of Blood (M20) 122 #Advantage
+1 Vilis, Broker of Blood (M20) 122 *F* #Advantage
 1 Void Mirror (MH2) 473 #Counter
 1 Warehouse Tabby (WOE) 117 *F* #Board
 1 Witch of the Moors (OTC) 152 #Recursion

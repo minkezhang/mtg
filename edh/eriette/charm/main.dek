@@ -1,6 +1,5 @@
 1 Abeyance (WTH) 1 #Counter
 1 All That Glitters (ELD) 2 *F* #Buff
-1 Angelic Gift (CMR) 7 *F* #Advantage
 1 Arcane Signet (CMM) 367 #Ramp
 1 Ash Barrens (NCC) 386 #Ramp
 1 Barren Moor (C21) 277 #Advantage
@@ -10,10 +9,9 @@
 1 Brightclimb Pathway / Grimclimb Pathway (ZNR) 285 #Land
 1 Caves of Koilos (DMU) 378 #Land
 1 Command Tower (AFC) 230 #Land
-1 Curse of Vengeance (C16) 12 #Advantage
+1 Corrupted Conviction (OTJ) 84 #Advantage #PROXY
 1 Dark Ritual (STA) 26 #Ramp
 1 Darksteel Mutation (CMM) 623 *F* #Removal
-1 Dead Man's Chest (AFC) 97 #Advantage
 1 Demotion (GRN) 9 #Removal
 1 Detainment Spell (TSP) 12 #Removal
 1 Eidolon of Countless Battles (BNG) 7 *F* #Board
@@ -33,7 +31,6 @@
 1 Idyllic Tutor (MOR) 12 #Tutor
 1 Karlov of the Ghost Council (RVR) 437 #Board
 1 Kaya's Ghostform (WAR) 94 #Protection
-1 Killian, Ink Duelist (STX) 197 #Ramp
 1 Knight of the White Orchid (C20) 93 #Ramp
 1 Kor Spiritdancer (BBD) 93 *F* #Advantage
 1 Lapse of Certainty (CON) 9 #Counter
@@ -47,14 +44,14 @@
 1 Moon-Blessed Cleric (AFR) 26 *F* #Tutor
 1 Mortuary Mire (CLB) 900 #Recursion
 1 Necromancy (MKC) 131 #Recursion
-1 Necropotence (WOT) 31 *F* #Advantage
 1 Necrosynthesis (DBL) 115 *F* #Buff
+1 Night's Whisper (DSC) 79 #Advantage #PROXY
 1 Not Dead After All (WOE) 101 *F* #Protection
 1 Path to Exile (OTC) 85 #Removal
+1 Phyrexian Arena (ONE) 384 #Advantage #PROXY
 13 Plains (J22) 98 #Land
 1 Rebuff the Wicked (PLST) PLC-12 #Counter
 1 Redemption Arc (MKC) 324 #Stax
-1 Reliquary Tower (OTC) 312 #Land
 1 Reprieve (LTR) 26 #Counter
 1 Retether (WOC) 72 #Recursion
 1 Sanguine Bond (WOT) 35 #Slug
@@ -69,14 +66,16 @@
 1 Sol Ring (MKC) 237 #Ramp
 1 Songbirds' Blessing (WOC) 7 #Advantage
 1 Sram, Senior Edificer (AER) 23 #Advantage
-6 Swamp (J22) 106 #Land
+7 Swamp (J22) 106 #Land #PROXY
 1 Swords to Plowshares (VOC) 99 #Removal
 1 Takenuma, Abandoned Mire (NEO) 505 *F* #Land
+1 Tenuous Truce (NCC) 87 #Advantage #PROXY
 1 Test of Endurance (DMR) 414 *F* #Wincon
 1 Toxic Deluge (EMA) 108 *F* #Wipe
 1 Trespasser's Curse (AKH) 112 #Stax
+1 Underworld Connections (PW24) 9 *F* #Advantage #PROXY
 1 Vault of the Archangel (OTC) 339 #Protection
+1 Village Rites (M21) 126 #Advantage #PROXY
 1 Viper's Kiss (THS) 109 #Removal
 1 Vito, Thorn of the Dusk Rose (M21) 362 #Slug
 1 Vizkopa Guildmage (IMA) 211 #Slug
-1 Well of Lost Dreams (SLD) 1181 *F* #Advantage
