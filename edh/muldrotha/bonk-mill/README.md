@@ -1,4 +1,6 @@
-# Restrictions
+# Muldrotha, the Gravetide
+
+## Restrictions
 
 **Rule 0: Win conditions should have potential for player interaction, i.e. "the deck is fun to play with and against."**
 
@@ -33,9 +35,9 @@ While not a hard rule, the deck attempts to limit the number of expensive cards 
 
 This list is not exhaustive.
 
-# Win Conditions
+## Win Conditions
 
-## Self-Mill
+### Self-Mill
 
 This list is not exhaustive.
 
@@ -47,18 +49,18 @@ This list is not exhaustive.
 * [[Increasing Confusion]]
 * [[Prime Speaker Zegana]]<sup>8</sup>
 
-## Face
+### Face
 
 This list is not exhaustive.
 
 * [[Overwhelming Stampede]]<sup>2</sup> + [[Tormod, the Desecrator]] + Timmy
 * [[Jarad, Golgari Lich Lord]] + Timmy
 
-# Notable Cards
+## Notable Cards
 
 Cards in these lists are not exhaustive.
 
-## Timmies
+### Timmies
 
 * [[Souls of the Lost]]
 * [[Consuming Aberration]]
@@ -66,12 +68,12 @@ Cards in these lists are not exhaustive.
 * [[Prime Speaker Zegana]]
 * [[Svogthos, the Restless Tomb]]
 
-## Nonbos
+### Nonbos
 
 * [[Angel of Suffering]] + [[Greed]]<sup>10</sup>
 * [[Massacre Girl]] + [[Kaya's Ghostform]]
 
-## Ramps
+### Ramps
 
 * [[Lotus Cobra]]
 * [[Devoted Druid]]<sup>3</sup> + [[Mikaeus, the Unhallowed]]<sup>9</sup>
@@ -81,12 +83,12 @@ Cards in these lists are not exhaustive.
 * [[Crucible of Worlds]]
 * [[Breeding Pool]], [[Overgrown Tomb]], [[Watery Grave]]<sup>7</sup>
 
-## Tutors
+### Tutors
 
 * [[Fauna Shaman]]
 * [[Entomb]]
 
-## Interactions
+### Interactions
 
 * [[Liliana of the Dark Realms]] + [[Prismatic Omen]]
 * [[Glen Elendra Archmage]] + [[Mikaeus, the Unhallowed]]
@@ -99,7 +101,7 @@ Cards in these lists are not exhaustive.
 * [[Caustic Caterpillar]]<sup>11</sup>
 * [[Strip Mine]]<sup>6</sup>
 
-## Muldrotha, the Gravetide
+### Muldrotha, the Gravetide
 
 * [[River Kelpie]]<sup>8</sup>
 * [[Grim Haruspex]]
@@ -108,33 +110,33 @@ Cards in these lists are not exhaustive.
 * [[Tormod, the Desecrator]]
 * [[Bequeathal]]
 
-# Weaknesses
+## Weaknesses
 
-## Player Error
+### Player Error
 
 There will be some uncertainty on choosing a specific path to the win condition in the mid-game.
 
-## Win Condition
+### Win Condition
 
 Engine core may be too slow -- main buff / nerf target should be adjusting the ramp speed to match table.
 
-## Speed
+### Speed
 
 Most cards are played at sorcery speed and there are not a lot of instant-speed counter-like abilities.
 
-## Self-Mill
+### Self-Mill
 
 Especially if playing without [[Underrealm Lich]], the effects of [[Grim Haruspex]], [[River Kelpie]], etc. allows draw control to pass to opponents.
 
-## Tokens
+### Tokens
 
 Board wipes will have a difficult time dealing with token generators which have some parts already assembled, e.g. stable 5 / 5 token sources. [[Spore Frog]] may not be good enough to handle multiple turns of damage.
 
-## Face Burn
+### Face Burn
 
 The deck lacks answers to direct damage to face (e.g. burns), with only [[Angel of Suffering]] serving as incidental protection. Other targeted removals, e.g. [[Haywire Mite]] may be of use, but value is not guaranteed.
 
-# Footnotes
+## Footnotes
 
 <sup>1</sup> Alternatively, replace [[Altar of Dementia]] with [[Shadowheart, Dark Justiciar]] to decrease power level. Chose [[Altar of Dementia]] because it helps ramp [[Matzalantli, the Great Door]].
 
