@@ -1,76 +1,76 @@
-1 Arcane Denial (DSC) 110 #Counter
-1 Arcane Signet (DSC) 92 #Ramp
-1 Archmage Emeritus (PLST) STX-37 #Advantage
-1 Ashling, Flame Dancer (MH3) 115 *F* #Advantage
+1 Arcane Denial (M3C) 176 #Counter
+1 Arcane Signet (C20) 237 #Ramp
+1 Archmage Emeritus (OTC) 90 #Advantage
+1 Ashling, Flame Dancer (MH3) 115 #Advantage
 1 Baral, Chief of Compliance (MUL) 8 #Ramp
 1 Bloodwater Entity (2X2) 185 #Tutor
 1 Brainstorm (DSC) 113 #Advantage
 1 Buried Ruin (PIP) 254 #Tutor
 1 Burn from Within (SOI) 148 #Burn
-1 Cancel (ZEN) 44 #Counter
-1 Command Tower (DSC) 96 #Land
+1 Cancel (M21) 46 #Counter
+1 Command Tower (AFC) 230 #Land
 1 Counterflux (RTR) 153 #Counter
-1 Counterspell (DMR) 281 #Counter
+1 Counterspell (DSC) 114 #Counter
 1 Delay (TSR) 61 #Counter
-1 Desperate Ritual (UMA) 127 #Ramp
+1 Desperate Ritual (CHK) 163 #Ramp
 1 Dramatic Reversal (KLD) 44 #Ramp
 1 Dream Fracture (CLB) 66 #Counter
-1 Dreamscape Artist (UMA) 52 #Ramp
-1 Dualcaster Mage (E01) 46 #Fork
+1 Dreamscape Artist (TSR) 64 *F* #Ramp
+1 Dualcaster Mage (C20) 150 #Fork
 1 End the Festivities (VOW) 155 #Burn
-1 Errant, Street Artist (SNC) 344 *F* #Fork
-1 Faithless Looting (OTC) 165 #Advantage
+1 Errant, Street Artist (SNC) 41 #Fork
+1 Faithless Looting (M3C) 211 #Advantage
 1 Fiery Islet (WHO) 278 #Land
-1 Fury Charm (PLST) IMA-130 #Removal
+1 Fury Charm (PLC) 100 #Removal
 1 Galvanic Blast (PLST) DDU-45 #Burn
-1 Gamble (DMR) 433 *F* #Tutor
-1 Gitaxian Probe (MB2) 28 #Advantage
+1 Gamble (SPG) 24 #Tutor
+1 Gitaxian Probe (NPH) 35 #Advantage
 1 Goblin Electromancer (OTC) 228 #Ramp
 1 Goblin Engineer (MH1) 128 #Tutor
 1 Grab the Prize (DSK) 138 #Advantage
-1 Increasing Vengeance (DKA) 95 #Fork
+1 Increasing Vengeance (C19) 147 #Fork
 1 Insidious Will (KLD) 52 #Fork
-21 Island (OTJ) 280 #Land
+21 Island (MH3) 312 #Land
 1 Izzet Guildmage (RVR) 191 #Fork
 1 Junk Diver (MH3) 293 #Tutor
 1 Krark's Thumb (PLST) MRD-190 #Advantage
-1 Lightning Bolt (CLB) 187 #Burn
+1 Lightning Bolt (4ED) 208 #Burn
 1 Metamorphic Blast (OTJ) 57 #Removal
-1 Molten Tributary (DMU) 251 #Land
-4 Mountain (SUM) 303 #Land
-1 Muddle the Mixture (RVR) 50 *F* #Tutor
-1 Myr Retriever (C16) 264 #Tutor
-1 Negate (DMU) 58 #Counter
-1 Niblis of Frost (EMN) 72 #Protection
-1 Personal Tutor (CMM) 110 #Tutor
+1 Molten Tributary (DMU) 251 *F* #Land
+4 Mountain (MH3) 316 #Land
+1 Muddle the Mixture (RAV) 60 #Tutor
+1 Myr Retriever (PLST) CM2-203 #Tutor
+1 Negate (BBD) 123 #Counter
+1 Niblis of Frost (C20) 120 #Protection
+1 Personal Tutor (CMM) 110 *F* #Tutor
 1 Ponder (DSC) 73 #Advantage
-1 Ral, Storm Conduit (PLST) WAR-211 #Storm
-1 Reckless Handling (MAT) 19 #Tutor
-1 Refuse / Cooperate (PHOU) 156s *F* #Fork
-1 Remand (MM2) 55 #Counter
-1 Reverberate (PD2) 20 *F* #Fork
-1 Riverglide Pathway / Lavaglide Pathway (ZNR) 264 #Land
-1 Rootha, Mercurial Artist (PLST) STX-227 #Fork
+1 Ral, Storm Conduit (SLD) 523 *F* #Storm
+1 Reckless Handling (MAT) 19 *F* #Tutor
+1 Refuse / Cooperate (C19) 199 #Fork
+1 Remand (RVR) 59 #Counter
+1 Reverberate (40K) 207 #Fork
+1 Riverglide Pathway / Lavaglide Pathway (ZNR) 289 #Land
+1 Rootha, Mercurial Artist (STX) 227 *F* #Fork
 1 Runaway Steam-Kin (GRN) 115 #Ramp
-1 Seething Song (C21) 179 #Ramp
-1 Shivan Reef (BLC) 331 #Land
-1 Silent Arbiter (CMM) 972 #Protection
+1 Seething Song (9ED) 216 #Ramp
+1 Shivan Reef (OTC) 320 #Land
+1 Silent Arbiter (C20) 250 #Protection
 1 Sink into Stupor / Soporific Springs (MH3) 241 #Removal
-1 Snap (DMR) 66 *F* #Removal
+1 Snap (WOC) 110 #Removal
 1 Snapback (TSR) 87 #Removal
-1 Sol Ring (DSC) 94 #Ramp
-1 Solve the Equation (STX) 54 *F* #Tutor
+1 Sol Ring (C13) 259 #Ramp
+1 Solve the Equation (STX) 54 #Tutor
 1 Spikefield Hazard / Spikefield Cave (ZNR) 166 #Burn
 1 Stern Dismissal (THB) 68 #Removal
-1 Storm-Kiln Artist (OTC) 181 #Ramp
+1 Storm-Kiln Artist (STX) 115 #Ramp
 1 Stormcarved Coast (WHO) 308 #Land
-1 Sulfur Falls (OTC) 322 #Land
-1 Thousand-Year Storm (GRN) 207 #Storm
+1 Sulfur Falls (PIP) 294 #Land
+1 Thousand-Year Storm (2X2) 286 #Storm
 1 Twincast (M10) 78 #Fork
 1 Twinflame (2X2) 129 #Clone
-1 Twinning Staff (NCC) 383 #Fork
-1 Vandalblast (CMM) 646 #Removal
-1 Vapor Snag (NPH) 48 #Removal
+1 Twinning Staff (C20) 70 #Fork
+1 Vandalblast (OTC) 183 #Removal
+1 Vapor Snag (DDH) 58 #Removal
 1 Veyran, Voice of Duality (C21) 3 *F* #Storm
 1 Void Snare (M15) 82 #Removal
 1 Volatile Fjord (KHM) 273 #Land
