@@ -1,10 +1,9 @@
 1 Aetherflux Reservoir (KLD) 192 #Slug
+1 All That Glitters (ELD) 2 *F* #Buff
 1 Angelic Destiny (WOC) 60 #Buff
-1 Angelic Gift (CMR) 7 *F* #Advantage
 1 Animate Dead (EMA) 78 #Recursion
 1 Archangel of Thune (2XM) 5 #Buff
 1 Archivist of Oghma (CLB) 4 #Advantage
-1 Archon of Sun's Grace (THB) 3 #Board
 1 Armored Skyhunter (CMR) 11 #Advantage
 1 Ashiok's Reaper (WOE) 79 #Advantage
 1 Astarion, the Decadent (CLB) 265 *F* #Slug
@@ -52,11 +51,13 @@
 1 Despondency (USG) 129 #Advantage
 1 Dire Fleet Hoarder (2XM) 84 #Ramp
 1 Dragon Shadow (SCG) 65 #Buff
+1 Elenda's Hierophant (LCC) 39 #Board
 1 Elspeth, Knight-Errant (MD1) 13 #Protection
 1 Equinox (LEG) 13 #Counter
 1 Essence Pulse (C21) 39 #Wipe
 1 Essence Reliquary (MH3) 24 #Protection
 1 Eternal Thirst (IMA) 89 *F* #Buff
+1 Ethereal Armor (PL23) 5 *F* #Buff
 1 Exquisite Blood (AVR) 102 #Protection
 1 Fake Your Own Death (OTJ) 87 #Protection
 1 Felidar Sovereign (SLD) 1182 *F* #Wincon
@@ -64,6 +65,7 @@
 1 Fylgja (ICE) 26 #Protection
 1 Genju of the Fields (BOK) 5 #Removal
 1 Gift of Fangs (VOW) 113 #Buff
+1 Gollum, Obsessed Stalker (LTC) 26 #Slug
 1 Grasp of Fate (WOT) 3 *F* #Removal
 1 Greater Auramancy (WOT) 4 #Protection
 1 Greed (MH2) 274 #Advantage
@@ -77,6 +79,7 @@
 1 Hammer of Nazahn (CMM) 388 #Protection
 1 Heliod, Sun-Crowned (THB) 259 #Buff
 1 Heliod's Punishment (THB) 21 #Stax
+1 Helm of the Gods (ORI) 230 #Buff
 1 Hero of Iroas (BNG) 17 #Ramp
 1 Hope Against Hope (SOI) 22 #Buff
 1 Indestructibility (M14) 23 #Protection
@@ -84,8 +87,9 @@
 1 Killian, Ink Duelist (STX) 197 #Ramp
 1 Kytheon, Hero of Akros / Gideon, Battle-Forged (PLST) ORI-23 #Protection
 1 Land Tax (WOT) 9 *F* #Ramp
+1 Light of Promise (M21) 25 *F* #Buff
 1 Lightning Greaves (CMA) 220 #Protection
-1 Lithoform Blight (ZNR) 109 #Ramp
+1 Lotus Petal (PLST) TMP-294 #Ramp
 1 Mana Tithe (TSR) 26 #Counter
 1 Mandate of Peace (C19) 4 #Counter
 1 Mantle of the Ancients (PIP) 165 #Buff
@@ -101,6 +105,7 @@
 1 Minion's Return (THB) 104 #Protection
 1 Mithril Coat (LTR) 245 #Protection
 1 Necropotence (WOT) 31 *F* #Advantage
+1 Necrosynthesis (DBL) 115 *F* #Buff
 1 Nomad Mythmaker (JUD) 15 #Recursion
 1 Null Elemental Blast (MH3) 12 #Counter
 1 Nurgle's Rot (40K) 45 #Board
@@ -109,6 +114,7 @@
 1 Oblivion Crown (FUT) 73 #Protection
 1 Ondu Spiritdancer (CMM) 756 #Board
 1 Oppressive Rays (M15) 21 #Stax
+1 Optimistic Scavenger (DSK) 288 #Buff
 1 Orzhov Charm (GTC) 185 #Protection
 1 Orzhov Signet (OTC) 261 #Ramp
 1 Pacifism (PLST) M20-32 #Stax
@@ -123,11 +129,9 @@
 1 Profane Tutor (MH2) 401 #Tutor
 1 Radiant Grace / Radiant Restraints (DBL) 298 *F* #Stax
 1 Reliquary Tower (OTC) 312 #Land
-1 Rune of Mortality (KHM) 108 #Advantage
 1 Rune of Sustenance (KHM) 25 #Advantage
 1 Sadistic Glee (TMP) 153 #Buff
 1 Sage's Reverie (FRF) 23 #Advantage
-1 Scourgemark (THS) 105 #Advantage
 1 Scroll Rack (CMR) 699 #Advantage
 1 Serra Ascendant (PLST) M11-28 #Board
 1 Shadow Lance (GPT) 14 #Buff
@@ -140,6 +144,7 @@
 1 Sleeper's Guile (ULG) 67 #Advantage
 1 Smuggler's Share (MKC) 84 #Ramp
 1 Solid Footing (IKO) 31 #Buff
+1 Sorin, Grim Nemesis (SOI) 251 #Advantage
 1 Soul Tithe (RTR) 23 #Stax
 1 Spellbook Vendor (WOE) 31 #Buff
 1 Spirit Link (DMR) 29 #Protection
@@ -150,6 +155,7 @@
 1 Swiftfoot Boots (CMR) 474 #Protection
 1 Talisman of Hierarchy (PIP) 247 #Ramp
 1 Tattoo Ward (ODY) 54 *F* #Removal
+1 Test of Endurance (DMR) 414 *F* #Wincon
 1 Teysa, Opulent Oligarch (MKM) 234 #Advantage
 1 The Gaffer (LTC) 12 #Advantage
 1 The Meathook Massacre (MID) 112 #Wipe
