@@ -1,5 +1,5 @@
-1 Abeyance (WTH) 1 #Counter
-1 Agent of Erebos (JOU) 59 #Removal
+1 Abeyance (WTH) 1 #Interaction-Counter
+1 Agent of Erebos (JOU) 59 #Interaction-Removal
 1 Angelic Gift (CMR) 7 #Advantage
 1 Arcane Signet (CMM) 367 #Ramp
 1 Archon of Sun's Grace (CMM) 814 #Board
@@ -7,16 +7,16 @@
 1 Barren Moor (C21) 277 #Advantage
 1 Blasted Landscape (CM2) 238 #Advantage
 1 Bloodthirsty Aerialist (M20) 91 *F* #Board
-1 Bojuka Bog (MKC) 250 #Removal
+1 Bojuka Bog (MKC) 250 #Interaction-Removal
 1 Brightclimb Pathway / Grimclimb Pathway (ZNR) 285 #Land
 1 Caves of Koilos (DMU) 378 #Land
 1 Command Tower (AFC) 230 #Land
 1 Corrupted Conviction (MOM) 98 #Advantage
-1 Darksteel Mutation (CMM) 623 *F* #Removal
-1 Demotion (GRN) 9 #Removal
-1 Detainment Spell (TSP) 12 #Removal
+1 Darksteel Mutation (CMM) 623 *F* #Interaction-Removal
+1 Demotion (GRN) 9 #Interaction-Removal
+1 Detainment Spell (TSP) 12 #Interaction-Removal
 1 Eidolon of Countless Battles (BNG) 7 *F* #Board
-1 Enlightened Tutor (DMR) 6 *F* #Tutor
+1 Enlightened Tutor (DMR) 6 *F* #Advantage-Tutor
 1 False Dawn (APC) 10 #Ramp
 1 Flickering Ward (TMP) 19 #Protection
 1 Ghoulish Impetus (CMM) 763 *F* #Stax
@@ -24,35 +24,35 @@
 1 Godless Shrine (UNF) 282 #Land
 1 Hateful Eidolon (THB) 101 *F* #Advantage
 1 Heliod's Intervention (THB) 19 *F* #Wipe
-1 Heliod's Pilgrim (UMA) 19 *F* #Tutor
-1 Idyllic Tutor (MOR) 12 #Tutor
+1 Heliod's Pilgrim (UMA) 19 *F* #Advantage-Tutor
+1 Idyllic Tutor (MOR) 12 #Advantage-Tutor
 1 Indulging Patrician (M21) 219 #Slug
 1 Inner Demon (BBD) 48 #Wipe
 1 Karlov of the Ghost Council (RVR) 437 #Board
 1 Kaya's Ghostform (WAR) 94 #Protection
 1 Knight of the White Orchid (C20) 93 #Ramp
 1 Kor Spiritdancer (BBD) 93 *F* #Advantage
-1 Lapse of Certainty (CON) 9 #Counter
+1 Lapse of Certainty (CON) 9 #Interaction-Counter
 1 Lithoform Blight (ZNR) 109 #Ramp
 1 Lord Skitter's Blessing (WOE) 340 #Advantage
 1 Lotho, Corrupt Shirriff (LTR) 213 #Ramp
 1 Loyal Warhound (AFR) 363 *F* #Ramp
-1 Lurrus of the Dream-Den (MUL) 51 *F* #Recursion
+1 Lurrus of the Dream-Den (MUL) 51 *F* #Advantage-Tutor
 1 Malakir Rebirth / Malakir Mire (ZNR) 111 #Protection
-1 Moon-Blessed Cleric (AFR) 26 *F* #Tutor
-1 Mortuary Mire (CLB) 900 #Recursion
-1 Necromancy (MKC) 131 #Recursion
+1 Moon-Blessed Cleric (AFR) 26 *F* #Advantage-Tutor
+1 Mortuary Mire (CLB) 900 #Advantage-Tutor
+1 Necromancy (MKC) 131 #Advantage-Tutor
 1 Night's Whisper (MOC) 259 #Advantage
 1 Not Dead After All (WOE) 101 *F* #Protection
 1 Orzhov Signet (OTC) 261 #Ramp
 1 Out of Time (MH2) 23 #Wipe
-1 Path to Exile (OTC) 85 #Removal
+1 Path to Exile (OTC) 85 #Interaction-Removal
 1 Phyrexian Arena (ONE) 384 #Advantage
 13 Plains (J22) 98 #Land
-1 Rebuff the Wicked (PLST) PLC-12 #Counter
+1 Rebuff the Wicked (PLST) PLC-12 #Interaction-Counter
 1 Redemption Arc (MKC) 324 #Stax
-1 Reprieve (LTR) 26 #Counter
-1 Retether (WOC) 72 #Recursion
+1 Reprieve (LTR) 26 #Interaction-Counter
+1 Retether (WOC) 72 #Advantage-Tutor
 1 Rune of Mortality (KHM) 108 #Advantage
 1 Sanguine Bond (WOT) 35 #Slug
 1 Scourgemark (THS) 105 #Advantage
@@ -62,20 +62,20 @@
 1 Shadowy Backstreet (MKM) 268 #Land
 1 Shielded by Faith (C15) 8 #Protection
 1 Sigarda's Aid (SLD) 731 *F* #Ramp
-1 Silence (M14) 35 #Counter
+1 Silence (M14) 35 #Interaction-Counter
 1 Slumbering Keepguard (WOE) 29 #Board
 1 Sol Ring (MKC) 237 #Ramp
 1 Songbirds' Blessing (WOC) 7 #Advantage
 1 Sram, Senior Edificer (AER) 23 #Advantage
 7 Swamp (J22) 106 #Land
-1 Swords to Plowshares (VOC) 99 #Removal
-1 Takenuma, Abandoned Mire (NEO) 505 *F* #Recursion
+1 Swords to Plowshares (VOC) 99 #Interaction-Removal
+1 Takenuma, Abandoned Mire (NEO) 505 *F* #Advantage-Tutor
 1 Tenuous Truce (NCC) 87 #Advantage
 1 Toxic Deluge (EMA) 108 *F* #Wipe
 1 Trespasser's Curse (AKH) 112 #Stax
 1 Underworld Connections (PW24) 9 *F* #Advantage
 1 Vault of the Archangel (OTC) 339 #Protection
 1 Village Rites (STA) 35 *F* #Advantage
-1 Viper's Kiss (THS) 109 #Removal
+1 Viper's Kiss (THS) 109 #Interaction-Removal
 1 Vito, Thorn of the Dusk Rose (M21) 362 #Slug
 1 Vizkopa Guildmage (IMA) 211 #Slug

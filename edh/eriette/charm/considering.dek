@@ -1,15 +1,15 @@
 1 Aetherflux Reservoir (KLD) 192 #Slug
 1 All That Glitters (ELD) 2 *F* #Buff
 1 Angelic Destiny (WOC) 60 #Buff
-1 Animate Dead (EMA) 78 #Recursion
+1 Animate Dead (EMA) 78 #Advantage-Tutor
 1 Archangel of Thune (2XM) 5 #Buff
 1 Archivist of Oghma (CLB) 4 #Advantage
 1 Armored Skyhunter (CMR) 11 #Advantage
 1 Ashiok's Reaper (WOE) 79 #Advantage
 1 Astarion, the Decadent (CLB) 265 *F* #Slug
-1 Auramancer (DMR) 1 #Recursion
+1 Auramancer (DMR) 1 #Advantage-Tutor
 1 Aurification (ONS) 6 *F* #Stax
-1 Aven Interrupter (OTJ) 4 #Counter
+1 Aven Interrupter (OTJ) 4 #Interaction-Counter
 1 Basri Ket (M21) 286 #Protection
 1 Benevolent Blessing (CMR) 13 #Protection
 1 Bladed Battle-Fan (MOM) 91 #Protection
@@ -20,10 +20,10 @@
 1 Boon Reflection (2XM) 10 #Protection
 1 Brainwash (5ED) 13 #Stax
 1 Burden of Guilt (DKA) 4 #Stax
-1 Candletrap (MID) 9 #Removal
+1 Candletrap (MID) 9 #Interaction-Removal
 1 Cartographer's Hawk (CMM) 18 *F* #Ramp
 1 Casting of Bones (ALL) 44a #Advantage
-1 Chains of Custody (J22) 3 #Removal
+1 Chains of Custody (J22) 3 #Interaction-Removal
 1 Charcoal Diamond (C14) 235 #Ramp
 1 Chosen by Heliod (THS) 5 #Advantage
 1 Clawing Torment (NEO) 91 #Stax
@@ -40,8 +40,8 @@
 1 Daily Regimen (DDL) 18 #Buff
 1 Dark Confidant (RVR) 71 #Advantage
 1 Darksteel Plate (MBS) 104 #Protection
-1 Dash Hopes (PLC) 68 #Counter
-1 Dawn Charm (CMR) 371 #Counter
+1 Dash Hopes (PLC) 68 #Interaction-Counter
+1 Dawn Charm (CMR) 371 #Interaction-Counter
 1 Dawn of Hope (LTC) 164 #Advantage
 1 Daybreak Coronet (WOC) 65 #Buff
 1 Dead Man's Chest (AFC) 97 #Advantage
@@ -53,7 +53,7 @@
 1 Dragon Shadow (SCG) 65 #Buff
 1 Elenda's Hierophant (LCC) 39 #Board
 1 Elspeth, Knight-Errant (MD1) 13 #Protection
-1 Equinox (LEG) 13 #Counter
+1 Equinox (LEG) 13 #Interaction-Counter
 1 Essence Pulse (C21) 39 #Wipe
 1 Essence Reliquary (MH3) 24 #Protection
 1 Eternal Thirst (IMA) 89 *F* #Buff
@@ -63,10 +63,10 @@
 1 Felidar Sovereign (SLD) 1182 *F* #Wincon
 1 Fellwar Stone (NEC) 150 #Ramp
 1 Fylgja (ICE) 26 #Protection
-1 Genju of the Fields (BOK) 5 #Removal
+1 Genju of the Fields (BOK) 5 #Interaction-Removal
 1 Gift of Fangs (VOW) 113 #Buff
 1 Gollum, Obsessed Stalker (LTC) 26 #Slug
-1 Grasp of Fate (WOT) 3 *F* #Removal
+1 Grasp of Fate (WOT) 3 *F* #Interaction-Removal
 1 Greater Auramancy (WOT) 4 #Protection
 1 Greed (MH2) 274 #Advantage
 1 Grisly Transformation (BNG) 74 #Advantage
@@ -74,7 +74,7 @@
 1 Gryff's Boon (SOI) 20 #Buff
 1 Guildscorn Ward (GTC) 15 #Protection
 1 Guilty Conscience (SCG) 17 #Stax
-1 Gumdrop Poisoner / Tempt with Treats (WOE) 93 #Removal
+1 Gumdrop Poisoner / Tempt with Treats (WOE) 93 #Interaction-Removal
 1 Halvar, God of Battle / Sword of the Realms (KHM) 299 #Buff
 1 Hammer of Nazahn (CMM) 388 #Protection
 1 Heliod, Sun-Crowned (THB) 259 #Buff
@@ -83,15 +83,15 @@
 1 Hero of Iroas (BNG) 17 #Ramp
 1 Hope Against Hope (SOI) 22 #Buff
 1 Indestructibility (M14) 23 #Protection
-1 Inevitable End (THB) 102 #Removal
+1 Inevitable End (THB) 102 #Interaction-Removal
 1 Killian, Ink Duelist (STX) 197 #Ramp
 1 Kytheon, Hero of Akros / Gideon, Battle-Forged (PLST) ORI-23 #Protection
 1 Land Tax (WOT) 9 *F* #Ramp
 1 Light of Promise (M21) 25 *F* #Buff
 1 Lightning Greaves (CMA) 220 #Protection
 1 Lotus Petal (PLST) TMP-294 #Ramp
-1 Mana Tithe (TSR) 26 #Counter
-1 Mandate of Peace (C19) 4 #Counter
+1 Mana Tithe (TSR) 26 #Interaction-Counter
+1 Mandate of Peace (C19) 4 #Interaction-Counter
 1 Mantle of the Ancients (PIP) 165 #Buff
 1 Marble Diamond (CMR) 323 #Ramp
 1 Markov Purifier (VOW) 312 #Advantage
@@ -101,13 +101,13 @@
 1 Michiko's Reign of Truth / Portrait of Michiko (NEO) 29 *F* #Buff
 1 Mind Stone (C21) 251 #Ramp
 1 Mindcrank (CLB) 866 #Stax
-1 Minimus Containment (AFR) 24 #Removal
+1 Minimus Containment (AFR) 24 #Interaction-Removal
 1 Minion's Return (THB) 104 #Protection
 1 Mithril Coat (LTR) 245 #Protection
 1 Necropotence (WOT) 31 *F* #Advantage
 1 Necrosynthesis (DBL) 115 *F* #Buff
-1 Nomad Mythmaker (JUD) 15 #Recursion
-1 Null Elemental Blast (MH3) 12 #Counter
+1 Nomad Mythmaker (JUD) 15 #Advantage-Tutor
+1 Null Elemental Blast (MH3) 12 #Interaction-Counter
 1 Nurgle's Rot (40K) 45 #Board
 1 Nurturing Presence (VOW) 26 #Protection
 1 Oath of Lieges (EXO) 11 #Ramp
@@ -122,11 +122,11 @@
 1 Parasitic Impetus (C20) 46 #Stax
 1 Pearl-Ear, Imperial Advisor (MH3) 363 #Ramp
 1 Pentarch Ward (PLST) IMA-27 #Protection
-1 Petrify (LCI) 30 #Removal
-1 Phyresis (MBS) 49 #Removal
+1 Petrify (LCI) 30 #Interaction-Removal
+1 Phyresis (MBS) 49 #Interaction-Removal
 1 Planar Atlas (J22) 51 #Ramp
-1 Planar Disruption (ONE) 28 #Removal
-1 Profane Tutor (MH2) 401 #Tutor
+1 Planar Disruption (ONE) 28 #Interaction-Removal
+1 Profane Tutor (MH2) 401 #Advantage-Tutor
 1 Radiant Grace / Radiant Restraints (DBL) 298 *F* #Stax
 1 Reliquary Tower (OTC) 312 #Land
 1 Rune of Sustenance (KHM) 25 #Advantage
@@ -140,7 +140,7 @@
 1 Sigil of the Empty Throne (ORI) 31 #Board
 1 Sign in Blood (M13) 110 #Advantage #PROXY
 1 Sinister Possession (DGM) 29 #Stax
-1 Sky Tether (RNA) 21 #Removal
+1 Sky Tether (RNA) 21 #Interaction-Removal
 1 Sleeper's Guile (ULG) 67 #Advantage
 1 Smuggler's Share (MKC) 84 #Ramp
 1 Solid Footing (IKO) 31 #Buff
@@ -151,23 +151,23 @@
 1 Spirit Loop (TSP) 42 #Protection
 1 Spirit Mantle (CMR) 385 #Protection
 1 Stoneskin (CLB) 45 #Protection
-1 Swift Reconfiguration (NEC) 10 #Removal
+1 Swift Reconfiguration (NEC) 10 #Interaction-Removal
 1 Swiftfoot Boots (CMR) 474 #Protection
 1 Talisman of Hierarchy (PIP) 247 #Ramp
-1 Tattoo Ward (ODY) 54 *F* #Removal
+1 Tattoo Ward (ODY) 54 *F* #Interaction-Removal
 1 Test of Endurance (DMR) 414 *F* #Wincon
 1 Teysa, Opulent Oligarch (MKM) 234 #Advantage
 1 The Gaffer (LTC) 12 #Advantage
 1 The Meathook Massacre (MID) 112 #Wipe
 1 Thought Vessel (CMM) 414 *F* #Ramp
-1 Three Dreams (RAV) 32 #Tutor
+1 Three Dreams (RAV) 32 #Advantage-Tutor
 1 Timely Ward (WOC) 79 #Protection
 1 Tivash, Gloom Summoner (J22) 476 #Board
 1 Unquestioned Authority (CMR) 389 #Protection
 1 Vampiric Link (PLC) 92 #Protection
-1 Veinwitch Coven (OTC) 151 #Recursion
+1 Veinwitch Coven (OTC) 151 #Advantage-Tutor
 1 Vilis, Broker of Blood (M20) 122 *F* #Advantage
-1 Void Mirror (MH2) 473 #Counter
+1 Void Mirror (MH2) 473 #Interaction-Counter
 1 Warehouse Tabby (WOE) 117 *F* #Board
 1 Well of Lost Dreams (SLD) 1181 *F* #Advantage
-1 Witch of the Moors (OTC) 152 #Recursion
+1 Witch of the Moors (OTC) 152 #Advantage-Tutor
