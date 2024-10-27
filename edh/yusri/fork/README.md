@@ -10,6 +10,10 @@ Target [[Twinflame]] with [[Dualcaster Mage]]. When trigger resolves, use the co
 1. with [[Twinning Staff]] on the board and [[Dramatic Reversal]] on the stack, activate the staff's copy ability \
 This produces an arbitrarily large amount of mana on the stack and for the current step / phase.
 
+### Key Plays
+
+1. [[Twinflame]] + [[Yusri, Fortune's Flame]]
+
 ## Key Pieces
 
 * [[Krark's Thumb]] helps proc [[Yusri, Fortune's Flame]] much more readily
