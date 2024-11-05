@@ -38,12 +38,11 @@
 1 Fabricate (PLIST) 58 #Tutor
 1 Finale of Promise (OTC) 166 #Recursion
 1 Firebrand Archer (HOU) 92 #Storm
-1 Fists of Flame (PLST) CMR-414 #Trample
+1 Fists of Flame (CMR) 414 #Trample
 1 Flame Jab (EVE) 53 #Burn
 1 Flick a Coin (WOE) 128 #Burn
 1 Flusterstorm (MB2) 163 #Counter
 1 Forgotten Cave (BLC) 305 #Advantage
-1 Fork (3ED) 153 #Fork
 1 Forked Bolt (ROE) 146 #Burn
 1 Fury of the Horde (DDN) 30 #Extra Combat
 1 Fury Storm (C18) 22 #Fork
@@ -63,6 +62,7 @@
 1 Jori En, Ruin Diver (OGW) 155 #Advantage
 1 Keep Safe (IKO) 56 #Counter
 1 Krark, the Thumbless (CMR) 189 #Fork
+1 Lava Dart (MH1) 134 #Burn
 1 Leyline of Anticipation (CLB) 726 #Flash
 1 Lonely Sandbar (MKC) 273 #Advantage
 1 Long-Term Plans (SCG) 38 #Tutor
@@ -74,7 +74,6 @@
 1 Mizzix's Mastery (RVR) 118 #Fork
 1 Monastery Swiftspear (2X2) 119 *F* #Storm
 1 Mystical Tutor (DMR) 60 #Tutor
-1 Narset's Reversal (PLST) WAR-62 #Counter
 1 Naru Meha, Master Wizard (C21) 124 #Fork
 1 Phoenix of Ash (THB) 148 *F* #Storm
 1 Phyrexian Metamorph (MKC) 116 #Clone
@@ -90,6 +89,7 @@
 1 Relentless Assault (MB2) 132 #Extra Combat
 1 Reliquary Tower (M3C) 368 #Land
 1 Repeated Reverberation (CMM) 879 #Fork
+1 Resculpt (STX) 51 #Removal
 1 Run Amok (KHM) 147 #Trample
 1 Saheeli, the Sun's Brilliance (LCI) 308 #Clone
 1 Scattershot (SCG) 102 #Burn
@@ -108,7 +108,6 @@
 1 Sphinx-Bone Wand (DDJ) 29 #Storm
 1 Spreading Insurrection (MH2) 142 #Combat
 1 Steam Vents (RVR) 288 #Land
-1 Stormcatch Mentor (BLB) 234 #Storm
 1 Stormchaser Mage (OGW) 159 #Storm
 1 Stubborn Denial (KTK) 56 #Counter
 1 Sundering Eruption / Volcanic Fissure (MH3) 248 #Burn
@@ -133,6 +132,7 @@
 1 Vedalken Orrery (2X2) 317 #Flash
 1 Volcanic Awakening (TSP) 186 #Removal
 1 Wall of Stolen Identity (C19) 13 #Clone
+1 Wandering Archaic / Explore the Vastlands (STX) 6 #Fork
 1 Wild Ricochet (SCD) 169 #Fork
 1 Wonder (MH2) 271 #Trample
 1 Young Pyromancer (EMA) 155 #Storm
