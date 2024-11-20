@@ -5,54 +5,55 @@
 1 Brainstorm (DSC) 113 #Advantage
 1 Buried Ruin (PIP) 254 #Tutor
 1 Burn from Within (SOI) 148 #Burn
+1 Comet Storm (CMR) 411 #Burn
 1 Command Tower (AFC) 230 #Land
 1 Counterflux (RTR) 153 #Counter
 1 Counterspell (DSC) 114 #Counter
-1 Delay (TSR) 61 #Counter
 1 Desperate Ritual (CHK) 163 #Ramp
 1 Dramatic Reversal (KLD) 44 #Ramp
-1 Dream Fracture (CLB) 66 #Counter
-1 Dreamscape Artist (TSR) 64 *F* #Ramp
 1 Dualcaster Mage (C20) 150 #Fork
-1 Echo Mage (C13) 43 #Fork #PROXY
+1 Echo Mage (ROE) 64 #Fork
 1 End the Festivities (VOW) 155 #Burn
+1 Expansion / Explosion (GRN) 224 #Fork
 1 Faithless Looting (M3C) 211 #Advantage
 1 Fiery Islet (WHO) 278 #Land
-1 Flare of Duplication (MH3) 119 #Fork #PROXY
-1 Fork (3ED) 153 #Fork #PROXY
+1 Flame Jab (EMA) 131 #Burn
+1 Flare of Duplication (MH3) 119 #Fork
+1 Fork (3ED) 153 #Fork
 1 Fury Charm (PLC) 100 #Removal
-1 Galvanic Blast (PLST) DDU-45 #Burn
 1 Gamble (SPG) 24 #Tutor
-1 Geistblast (PLST) SOI-160 #Burn #PROXY
+1 Geistblast (PLST) SOI-160 #Burn
 1 Gitaxian Probe (NPH) 35 #Advantage
 1 Goblin Engineer (MH1) 128 #Tutor
 1 Grab the Prize (DSK) 138 #Advantage
 1 Increasing Vengeance (C19) 147 #Fork
 1 Insidious Will (KLD) 52 #Fork
-1 Ionize (OTP) 49 #Counter #PROXY
-17 Island (MH3) 312 #Land
-1 Junk Diver (MH3) 293 #Tutor
+1 Invert Polarity (MH3) 190 #Counter
+16 Island (MH3) 312 #Land
+1 Isochron Scepter (2XM) 264 #Wincon
+1 Kazuul's Fury / Kazuul's Cliffs (ZNR) 146 #Burn
 1 Krark's Thumb (PLST) MRD-190 #Advantage
 1 Lightning Bolt (4ED) 208 #Burn
 1 Molten Tributary (DMU) 251 *F* #Land
-3 Mountain (BLB) 274 #Land
-4 Mountain (MH3) 316 #Land
+6 Mountain (MH3) 316 #Land
 1 Muddle the Mixture (RAV) 60 #Tutor
 1 Myr Retriever (PLST) CM2-203 #Tutor
-1 Narset's Reversal (PLST) WAR-62 #Counter #PROXY
+1 Narset's Reversal (WAR) 62 #Counter
 1 Niblis of Frost (C20) 120 #Protection
 1 Personal Tutor (CMM) 110 *F* #Tutor
 1 Ponder (DSC) 73 #Advantage
 1 Ral, Storm Conduit (SLD) 523 *F* #Wincon
 1 Reckless Handling (MAT) 19 *F* #Tutor
+1 Reinterpret (C21) 73 #Counter
 1 Remand (RVR) 59 #Counter
-1 Return the Favor (OTJ) 142 #Fork #PROXY
+1 Return the Favor (OTJ) 142 #Fork
 1 Reverberate (40K) 207 #Fork
 1 Riverglide Pathway / Lavaglide Pathway (ZNR) 289 #Land
 1 Rootha, Mercurial Artist (STX) 227 *F* #Fork
 1 Runaway Steam-Kin (GRN) 115 #Ramp
+1 Scavenger Grounds (MKC) 287 #Removal
 1 Seething Song (9ED) 216 #Ramp
-1 Shattered Perception (DKA) 104 #Advantage #PROXY
+1 Shattered Perception (DKA) 104 #Advantage
 1 Shivan Reef (OTC) 320 #Land
 1 Silent Arbiter (C20) 250 #Protection
 1 Sink into Stupor / Soporific Springs (MH3) 241 #Removal
@@ -60,19 +61,19 @@
 1 Snapback (TSR) 87 #Removal
 1 Sol Ring (C13) 259 #Ramp
 1 Solve the Equation (STX) 54 #Tutor
-1 Soul-Guide Lantern (THB) 237 #PROXY #Removal
+1 Soul-Guide Lantern (ONC) 142 #Removal
 1 Spikefield Hazard / Spikefield Cave (ZNR) 166 #Burn
 1 Stern Dismissal (THB) 68 #Removal
 1 Storm-Kiln Artist (STX) 115 #Ramp
 1 Stormcarved Coast (WHO) 308 #Land
-1 Stormcatch Mentor (BLB) 234 #PROXY #Ramp #Storm
+1 Stormcatch Mentor (BLB) 234 #Ramp
 1 Sulfur Falls (PIP) 294 #Land
+1 Tavern Scoundrel (MH2) 144 #Ramp
 1 Thousand-Year Storm (2X2) 286 #Wincon
 1 Twincast (M10) 78 #Fork
 1 Twinflame (2X2) 129 #Clone
 1 Twinning Staff (C20) 70 #Wincon
 1 Vandalblast (OTC) 183 #Removal
-1 Vapor Snag (DDH) 58 #Removal
 1 Veyran, Voice of Duality (C21) 3 *F* #Wincon
 1 Void Snare (M15) 82 #Removal
 1 Volatile Fjord (KHM) 273 #Land

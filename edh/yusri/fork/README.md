@@ -9,6 +9,8 @@ Here, the first [[Fork]] instance targets [[Lightning Bolt]], and the second [[F
 Target [[Twinflame]] with [[Dualcaster Mage]]. When trigger resolves, use the copied [[Twinflame]] and target the [[Dualcaster Mage]], creating an arbitrarily large number of creatures with haste.
 1. with [[Twinning Staff]] on the board and [[Dramatic Reversal]] on the stack, activate the staff's copy ability \
 This produces an arbitrarily large amount of mana on the stack and for the current step / phase.
+1. with [[Isochron Sceptor]] on the board copying [[Dramatic Reversal]], cast [[Comet Storm]] \
+[[Isochron Sceptor]] and [[Dramatic Reversal]] combos by creating an arbitrarily large amount of mana. This may be used as ramp for any other combo, or sank into [[Comet Storm]] to finish the game.
 
 ### Key Plays
 
@@ -42,6 +44,11 @@ This produces an arbitrarily large amount of mana on the stack and for the curre
 
 Ramp and draw T1 - T2. Cast [[Yusri, Fortune's Flame]] by T3 and start attacking on T4, continuing to ramp and draw. Use counterspells and removal to keep board state manageable and protect [[Yusri, Fortune's Flame]]. Typical goldfish win by T7.
 
+* Early instances of [[Fork]] should be judiciously used to clone ramp, advantage, or removal spells.
 * Try to get [[Yusri, Fortune's Flame]] on the board with some form of protection in hand -- may want to risk casting as soon as there is enough mana on the board and rely on protection in future turns.
 * It's okay to let [[Yusri, Fortune's Flame]] die after a while, especially if most combo pieces are in hand.
 * Board state is a key weakness. Use the plethora of [[Stern Dismissal]] instances to bounce key pieces and slow down opponent board states.
+
+## See Also
+
+1. [Forks](https://scryfall.com/search?q=otag%3Acopy-instant+o%3A%22copy+target+instant%22+legal%3Acommander&unique=cards&as=grid&order=name)

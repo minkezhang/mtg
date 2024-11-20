@@ -7,8 +7,10 @@
 1 Aqueous Form (PLST) THS-39 #Trample
 1 Artful Dodge (DKA) 27 #Trample
 1 Ash Barrens (DSC) 260 #Ramp
+1 Ashling, Flame Dancer (MH3) 115 #Advantage
 1 Balmor, Battlemage Captain (DMU) 295 #Trample
 1 Banefire (CON) 58 #Burn
+1 Baral, Chief of Compliance (MUL) 8 #Ramp
 1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (KHM) 123 *F* #Ramp
 1 Blaze (PLST) POR-118 #Burn
 1 Blood Moon (PLST) A25-122 #Protection
@@ -18,48 +20,66 @@
 1 Brain Freeze (MB2) 24 #Storm
 1 Burst Lightning (ZEN) 119 #Burn
 1 Caldera Lake (TMP) 316 #Land
+1 Cancel (M21) 46 #Counter
 1 Clutch of Currents (BFZ) 72 #Removal
 1 Copy Artifact (3ED) 53 #Clone
 1 Crash Through (M19) 133 #Trample
 1 Crimson Wisps (PLST) SHM-88 #Trample
+1 Curious Homunculus / Voracious Reader (EMN) 54 #Ramp
+1 Decaying Time Loop (WHO) 80 #Advantage
 1 Deekah, Fractal Theorist (C21) 353 #Burn
+1 Delay (TSR) 61 #Counter
 1 Delayed Blast Fireball (CLB) 676 #Burn
+1 Disallow (AER) 31 #Counter
 1 Display of Power (LTR) 769 *F* #Fork
+1 Dissipate (MID) 49 #Counter
+1 Dissolve (THS) 47 #Counter
 1 Dragon Whisperer (DTK) 137 #Storm
+1 Dream Fracture (CLB) 66 #Counter
+1 Dreamscape Artist (TSR) 64 *F* #Ramp
+1 Drift of Phantasms (RVR) 314 #Tutor
 1 Dual Strike (KHM) 132 #Fork
 1 Electrolyze (GPT) 111 #Burn
 1 Electrostatic Field (PLST) GRN-97 #Storm
 1 Emergence Zone (WAR) 245 #Flash
 1 Empty the Warrens (PLST) DDS-15 #Combat
+1 Errant, Street Artist (SNC) 41 #Fork
 1 Ertai's Meddling (PLST) TMP-61 #Counter
-1 Expansion / Explosion (PLST) GRN-224 #Fork
 1 Expedite (CMR) 413 #Trample
 1 Expedition Map (J22) 765 #Tutor
 1 Fabricate (PLIST) 58 #Tutor
+1 Familiar's Ruse (PLST) LRW-64 #Counter
 1 Finale of Promise (OTC) 166 #Recursion
 1 Firebrand Archer (HOU) 92 #Storm
 1 Fists of Flame (CMR) 414 #Trample
-1 Flame Jab (EVE) 53 #Burn
+1 Flamekin Harbinger (HOP) 53 #Tutor
 1 Flick a Coin (WOE) 128 #Burn
 1 Flusterstorm (MB2) 163 #Counter
 1 Forgotten Cave (BLC) 305 #Advantage
 1 Forked Bolt (ROE) 146 #Burn
 1 Fury of the Horde (DDN) 30 #Extra Combat
 1 Fury Storm (C18) 22 #Fork
+1 Galvanic Blast (PLST) DDU-45 #Burn
 1 Galvanic Iteration (OTC) 227 #Fork
 1 Gandalf, Friend of the Shire (LTR) 501 #Flash
 1 Ghitu Fire (PLST) INV-144 #Burn
 1 Ghyrson Starn, Kelermorph (40K) 124 #Storm
+1 Glamerdye (EVE) 21 #Counter
+1 Goblin Electromancer (OTC) 228 #Ramp
 1 Grapeshot (DMR) 125 #Burn
 1 Great Train Heist (POTJ) 125p *F* #Extra Combat
 1 Guttersnipe (RVR) 110 #Storm
 1 Harbinger of the Seas (MH3) 451 #Protection
 1 Harmonic Prodigy (MH2) 352 #Storm
 1 Heat Shimmer (2XM) 130 #Clone
+1 Hinder (2XM) 54 #Counter
 1 Imperial Recruiter (A25) 136 #Tutor
-1 Isochron Scepter (MB2) 96 #Fork
+1 Ionize (GRN) 179 #Counter
+1 Izzet Charm (RVR) 190 #Counter
+1 Izzet Guildmage (RVR) 191 #Fork
 1 Izzet Signet (BLC) 278 #Ramp
 1 Jori En, Ruin Diver (OGW) 155 #Advantage
+1 Junk Diver (MH3) 293 #Tutor
 1 Keep Safe (IKO) 56 #Counter
 1 Krark, the Thumbless (CMR) 189 #Fork
 1 Lava Dart (MH1) 134 #Burn
@@ -69,12 +89,15 @@
 1 Lotus Petal (P30M) 2 *E* #Ramp
 1 Magus of the Moon (TSR) 175 #Protection #Ramp
 1 Merchant Scroll (MB2) 167 #Tutor
+1 Metamorphic Blast (OTJ) 57 #Removal
 1 Mirage Mirror (CMM) 962 #Clone
 1 Mist of Stagnation (JUD) 48 #Protection
 1 Mizzix's Mastery (RVR) 118 #Fork
 1 Monastery Swiftspear (2X2) 119 *F* #Storm
 1 Mystical Tutor (DMR) 60 #Tutor
 1 Naru Meha, Master Wizard (C21) 124 #Fork
+1 Negate (BBD) 123 #Counter
+1 Neutralize (IKO) 59 #Counter
 1 Phoenix of Ash (THB) 148 *F* #Storm
 1 Phyrexian Metamorph (MKC) 116 #Clone
 1 Pinnacle Monk / Mystic Peak (MH3) 246 #Recursion
@@ -82,9 +105,11 @@
 1 Preordain (OTC) 107 #Advantage
 1 Propaganda (M3C) 191 #Protection
 1 Pyretic Ritual (M11) 153 #Ramp
+1 Pyrokinesis (PLST) DDL-32 #Burn
 1 Quicken (RVR) 318 #Flash
 1 Reckless Fireweaver (KLD) 126 #Burn
 1 Reenact the Crime (MKM) 297 #Clone
+1 Refuse / Cooperate (C19) 199 #Fork
 1 Reiterate (TSR) 182 #Fork
 1 Relentless Assault (MB2) 132 #Extra Combat
 1 Reliquary Tower (M3C) 368 #Land
@@ -101,15 +126,18 @@
 1 Shadow Rift (PLST) TMP-86 #Trample
 1 Shadowspear (PLST) THB-236 #Trample
 1 Silent Departure (ISD) 75 #Removal
+1 Sinister Sabotage (RVR) 61 #Counter
 1 Slip Through Space (OGW) 47 #Trample
 1 Sorcerer Class (AFR) 233 *F* #Ramp
 1 Spark Double (PLST) WAR-68 *F* #Clone
+1 Spell Crumple (CM2) 50 #Counter
 1 Spellseeker (CMM) 120 *F* #Tutor
 1 Sphinx-Bone Wand (DDJ) 29 #Storm
 1 Spreading Insurrection (MH2) 142 #Combat
 1 Steam Vents (RVR) 288 #Land
 1 Stormchaser Mage (OGW) 159 #Storm
 1 Stubborn Denial (KTK) 56 #Counter
+1 Summary Dismissal (M3C) 193 #Counter
 1 Sundering Eruption / Volcanic Fissure (MH3) 248 #Burn
 1 Swan Song (LTC) 197 #Counter
 1 Talisman of Creativity (CMM) 979 #Ramp
@@ -129,10 +157,13 @@
 1 Twinning Glass (LRW) 264 #Storm
 1 Underworld Breach (MB2) 200 #Recursion
 1 Urza's Cave (MH3) 234 #Tutor
+1 Vapor Snag (DDH) 58 #Removal
 1 Vedalken Orrery (2X2) 317 #Flash
+1 Void Shatter (OGW) 49 #Counter
 1 Volcanic Awakening (TSP) 186 #Removal
 1 Wall of Stolen Identity (C19) 13 #Clone
 1 Wandering Archaic / Explore the Vastlands (STX) 6 #Fork
+1 Whirlwind Denial (STA) 23 #Counter
 1 Wild Ricochet (SCD) 169 #Fork
 1 Wonder (MH2) 271 #Trample
 1 Young Pyromancer (EMA) 155 #Storm
