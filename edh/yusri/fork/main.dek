@@ -2,8 +2,8 @@
 1 Arcane Signet (C20) 237 #Ramp
 1 Archmage Emeritus (OTC) 90 #Advantage
 1 Bloodwater Entity (2X2) 185 #Tutor
-1 Blue Sun's Zenith (CMA) 32 #Advantage #PROXY
-1 Bonecrusher Giant / Stomp (PLST) ELD-115 #Burn #PROXY
+1 Blue Sun's Zenith (A25) 44 #Advantage
+1 Bonecrusher Giant / Stomp (ELD) 115 #Burn
 1 Brainstorm (DSC) 113 #Advantage
 1 Buried Ruin (PIP) 254 #Tutor
 1 Burn from Within (SOI) 148 #Burn
@@ -16,14 +16,14 @@
 1 Dualcaster Mage (C20) 150 #Fork
 1 Echo Mage (ROE) 64 #Fork
 1 Expansion / Explosion (GRN) 224 #Fork
-1 Expressive Iteration (OTC) 224 #Advantage #PROXY
-1 Fabricate (PLIST) 58 #PROXY #Tutor
+1 Expressive Iteration (SPG) 43 #Advantage
+1 Fabricate (SPG) 20 #Tutor
 1 Faithless Looting (M3C) 211 #Advantage
 1 Fiery Islet (WHO) 278 #Land
 1 Flame Jab (EMA) 131 #Burn
 1 Flare of Duplication (MH3) 119 #Fork
 1 Fork (3ED) 153 #Fork
-1 Frolicking Familiar / Blow Off Steam (WOE) 226 #Burn #PROXY
+1 Frolicking Familiar / Blow Off Steam (WOE) 226 #Burn
 1 Gamble (SPG) 24 #Tutor
 1 Geistblast (PLST) SOI-160 #Burn
 1 Gitaxian Probe (NPH) 35 #Advantage
@@ -32,6 +32,7 @@
 1 Increasing Vengeance (C19) 147 #Fork
 1 Insidious Will (KLD) 52 #Fork
 1 Invert Polarity (MH3) 190 #Counter
+1 Irenicus's Vile Duplication (CLB) 78 #Clone
 14 Island (MH3) 312 #Land
 1 Isochron Scepter (2XM) 264 #Wincon
 1 Kazuul's Fury / Kazuul's Cliffs (ZNR) 146 #Burn
@@ -54,7 +55,7 @@
 1 Riverglide Pathway / Lavaglide Pathway (ZNR) 289 #Land
 1 Rootha, Mercurial Artist (STX) 227 *F* #Fork
 1 Runaway Steam-Kin (GRN) 115 #Ramp
-1 Scalding Viper / Steam Clean (WOE) 235 #PROXY #Removal
+1 Scalding Viper / Steam Clean (WOE) 235 #Removal
 1 Scavenger Grounds (MKC) 287 #Removal
 1 Seething Song (9ED) 216 #Ramp
 1 Shattered Perception (DKA) 104 #Advantage
@@ -73,7 +74,6 @@
 1 Sulfur Falls (PIP) 294 #Land
 1 Tavern Scoundrel (MH2) 144 #Ramp
 1 Twincast (M10) 78 #Fork
-1 Twinflame (2X2) 129 #Clone
 1 Twinning Staff (C20) 70 #Wincon
 1 Vandalblast (OTC) 183 #Removal
 1 Volatile Fjord (KHM) 273 #Land

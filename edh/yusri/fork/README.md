@@ -19,7 +19,7 @@ This produces an arbitrarily large amount of mana on the stack and for the curre
 ## Key Pieces
 
 * [[Krark's Thumb]] helps proc [[Yusri, Fortune's Flame]] much more readily
-* [[Twinning Staff]], [[Ral, Storm Conduit]], [[Thousand-Year Storm]] are setup pieces which moves towards the wincon
+* [[Twinning Staff]] and [[Ral, Storm Conduit]] are setup pieces which moves towards the wincon
 * [[Fork]] and [[Lightning Bolt]] are finishers
 
 ## Tutors
@@ -27,11 +27,11 @@ This produces an arbitrarily large amount of mana on the stack and for the curre
 ### Artifact
 
 1. [[Myr Retriever]]
-1. [[Junk Diver]]
 1. [[Buried Ruin]]
 1. [[Gamble]]
 1. [[Goblin Engineer]]
 1. [[Reckless Handling]]
+1. [[Fabricate]]
 
 ### Instant / Sorcery
 
@@ -40,9 +40,14 @@ This produces an arbitrarily large amount of mana on the stack and for the curre
 1. [[Bloodwater Entity]]
 1. [[Solve the Equation]]
 
+## Mulligan
+
+* as many [[Fork]] and / or [[Counterspell]] instances as possible
+* as much draw as possible
+
 ## Strategy
 
-Ramp and draw T1 - T2. Cast [[Yusri, Fortune's Flame]] by T3 and start attacking on T4, continuing to ramp and draw. Use counterspells and removal to keep board state manageable and protect [[Yusri, Fortune's Flame]]. Typical goldfish win by T7.
+Ramp and draw T1 - T2. Cast [[Yusri, Fortune's Flame]] by T3 and start attacking on T4, continuing to ramp and draw. Use [[Counterspell]] and removal to keep board state manageable and protect [[Yusri, Fortune's Flame]]. Typical goldfish win by T7.
 
 * Early instances of [[Fork]] should be judiciously used to clone ramp, advantage, or removal spells.
 * Try to get [[Yusri, Fortune's Flame]] on the board with some form of protection in hand -- may want to risk casting as soon as there is enough mana on the board and rely on protection in future turns.

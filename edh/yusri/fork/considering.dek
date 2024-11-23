@@ -43,6 +43,7 @@
 1 Electrostatic Field (PLST) GRN-97 #Storm
 1 Emergence Zone (WAR) 245 #Flash
 1 Empty the Warrens (PLST) DDS-15 #Combat
+1 End the Festivities (VOW) 155 #Burn
 1 Errant, Street Artist (SNC) 41 #Fork
 1 Ertai's Meddling (PLST) TMP-61 #Counter
 1 Expedite (CMR) 413 #Trample
@@ -56,6 +57,7 @@
 1 Flusterstorm (MB2) 163 #Counter
 1 Forgotten Cave (BLC) 305 #Advantage
 1 Forked Bolt (ROE) 146 #Burn
+1 Fury Charm (PLC) 100 #Removal
 1 Fury of the Horde (DDN) 30 #Extra Combat
 1 Fury Storm (C18) 22 #Fork
 1 Galvanic Blast (PLST) DDU-45 #Burn
@@ -87,6 +89,7 @@
 1 Long-Term Plans (SCG) 38 #Tutor
 1 Lotus Petal (P30M) 2 *E* #Ramp
 1 Magus of the Moon (TSR) 175 #Protection #Ramp
+1 Mass Hysteria (MRD) 99 #Trample
 1 Merchant Scroll (MB2) 167 #Tutor
 1 Metamorphic Blast (OTJ) 57 #Removal
 1 Mirage Mirror (CMM) 962 #Clone
@@ -132,6 +135,7 @@
 1 Spell Crumple (CM2) 50 #Counter
 1 Spellseeker (CMM) 120 *F* #Tutor
 1 Sphinx-Bone Wand (DDJ) 29 #Storm
+1 Spikefield Hazard / Spikefield Cave (ZNR) 166 #Burn
 1 Spreading Insurrection (MH2) 142 #Combat
 1 Steam Vents (RVR) 288 #Land
 1 Stormchaser Mage (OGW) 159 #Storm
@@ -149,16 +153,20 @@
 1 Temur Battle Rage (CMM) 264 #Trample
 1 Thermo-Alchemist (PLST) EMN-147 #Storm
 1 Third Path Iconoclast (OTC) 244 #Storm
+1 Thousand-Year Storm (2X2) 286 #Wincon
 1 Thran Dynamo (BLC) 290 #Ramp
 1 Tibalt's Trickery (KHM) 360 *F* #Counter
 1 Tribute Mage (MH1) 73 #Tutor
 1 Turnabout (PLST) VMA-99 #Ramp
+1 Twinflame (2X2) 129 #Clone
 1 Twinning Glass (LRW) 264 #Storm
 1 Underworld Breach (MB2) 200 #Recursion
 1 Urza's Cave (MH3) 234 #Tutor
 1 Vapor Snag (DDH) 58 #Removal
 1 Vedalken Orrery (2X2) 317 #Flash
+1 Veyran, Voice of Duality (C21) 3 *F* #Wincon
 1 Void Shatter (OGW) 49 #Counter
+1 Void Snare (M15) 82 #Removal
 1 Volcanic Awakening (TSP) 186 #Removal
 1 Wall of Stolen Identity (C19) 13 #Clone
 1 Wandering Archaic / Explore the Vastlands (STX) 6 #Fork
@@ -166,4 +174,3 @@
 1 Wild Ricochet (SCD) 169 #Fork
 1 Wonder (MH2) 271 #Trample
 1 Young Pyromancer (EMA) 155 #Storm
-1 Zoanthrope (40K) 149 #Burn
